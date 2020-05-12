@@ -1,0 +1,49 @@
+---
+layout: base
+---
+<h2>{{ kogo_zapraszamy.naglowek | sierotki | safe }}</h2>
+{{ kogo_zapraszamy.tresc | cudzyslowy | sierotki | markdownify | safe }}
+
+<h2>{{ co_dajemy.naglowek | sierotki | safe }}</h2>
+{{ co_dajemy.tresc | cudzyslowy | sierotki | markdownify | safe }}
+
+<p>Zainteresowana/-y? <a href="/dokumenty/">Pobierz dokumenty udziału w projekcie</a></p>
+
+<h2>{{ program_szkolenia.naglowek | sierotki | safe }}</h2>
+{{ program_szkolenia.tresc | cudzyslowy | sierotki | markdownify | safe }}
+
+<h2>{{ metody_pracy.naglowek | sierotki | safe }}</h2>
+{{ metody_pracy.tresc | cudzyslowy | sierotki | markdownify | safe }}
+
+{% if zglos_sie_na_szkolenie.otwarte %}
+  <p><a href="{{ zglos_sie_na_szkolenie.otwarte }}">Zgłoś się na szkolenie otwarte</a></p>
+{% endif %}
+
+{% if zglos_sie_na_szkolenie.zamkniete %}
+  <p><a href="{{ zglos_sie_na_szkolenie.zamkniete }}">Zgłoś się na szkolenie zamknięte</a></p>
+{% endif %}
+
+<h2>{{ kontakt.naglowek | sierotki | safe }}</h2>
+{{ kontakt.tresc | cudzyslowy | sierotki | markdownify | safe }}
+
+<h2>{{ co_mowia_inni.naglowek | sierotki | safe }}</h2>
+{% for item in co_mowia_inni.opinie %}
+  <blockquote>
+    <p class="italic">{{ item.co | cudzyslowy | sierotki | safe }}</p>
+    <p class="font-bold">{{ item.kto | cudzyslowy | sierotki | safe }}</p>
+  </blockquote>
+{% endfor %}
+
+<h2>{{ czego_oczekujemy.naglowek | sierotki | safe }}</h2>
+{{ czego_oczekujemy.tresc | cudzyslowy | sierotki | markdownify | safe }}
+
+<h2>{{ o_projekcie.naglowek | sierotki | safe }}</h2>
+{{ o_projekcie.tresc | cudzyslowy | sierotki | markdownify | safe }}
+
+<h2>{{ dokumenty.naglowek | sierotki | safe }}</h2>
+{{ dokumenty.tresc | cudzyslowy | sierotki | markdownify | safe }}
+
+<p>Wypełnione i podpisane dokumenty należy odesłać na adres:<p>
+
+<p>Instytut Spraw Obywatelskich<br>
+ul. Pomorska 40 | 91-408 Łódź</p>

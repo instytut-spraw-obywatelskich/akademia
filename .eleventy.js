@@ -4,6 +4,9 @@ module.exports = function(eleventyConfig) {
 
   // Layout aliases for convenience
   eleventyConfig.addLayoutAlias('base', 'layouts/base.njk');
+  eleventyConfig.addLayoutAlias('home', 'layouts/home.njk');
+  eleventyConfig.addLayoutAlias('poznaj-nas', 'layouts/poznaj-nas.njk');
+  eleventyConfig.addLayoutAlias('archiwum', 'layouts/archiwum.njk');
 
   eleventyConfig.setUseGitIgnore(false);
   
