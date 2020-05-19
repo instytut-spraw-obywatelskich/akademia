@@ -1,15 +1,7 @@
 ---
 layout: base
 ---
-<h1>{{ title | cudzyslowy | sierotki | safe }}</h1>
-<h2>{{ o_nas.naglowek | sierotki | safe }}</h2>
-{% for item in o_nas.organizacje %}
-  <h3>{{ item.nazwa }}</h3>
+{% for item in organizacje %}
+  <div class="max-w-lg my-16"><img class="w-full" src="{{ item.logo }}" alt="{{ item.nazwa }}"></div>
   {{ item.opis | cudzyslowy | sierotki | markdownify | safe }}
-{% endfor %}
-
-<h2>{{ zespol.naglowek | sierotki | safe }}</h2>
-{% for item in zespol.trenerzy %}
-  <h3>{{ item.nazwisko }}</h3>
-  {{ item.bio | cudzyslowy | sierotki | markdownify | safe }}
 {% endfor %}

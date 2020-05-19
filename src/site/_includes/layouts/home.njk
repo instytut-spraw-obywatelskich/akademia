@@ -1,49 +1,232 @@
----
-layout: base
----
-<h2>{{ kogo_zapraszamy.naglowek | sierotki | safe }}</h2>
-{{ kogo_zapraszamy.tresc | cudzyslowy | sierotki | markdownify | safe }}
-
-<h2>{{ co_dajemy.naglowek | sierotki | safe }}</h2>
-{{ co_dajemy.tresc | cudzyslowy | sierotki | markdownify | safe }}
-
-<p>Zainteresowana/-y? <a href="/dokumenty/">Pobierz dokumenty udziału w projekcie</a></p>
-
-<h2>{{ program_szkolenia.naglowek | sierotki | safe }}</h2>
-{{ program_szkolenia.tresc | cudzyslowy | sierotki | markdownify | safe }}
-
-<h2>{{ metody_pracy.naglowek | sierotki | safe }}</h2>
-{{ metody_pracy.tresc | cudzyslowy | sierotki | markdownify | safe }}
-
-{% if zglos_sie_na_szkolenie.otwarte %}
-  <p><a href="{{ zglos_sie_na_szkolenie.otwarte }}">Zgłoś się na szkolenie otwarte</a></p>
-{% endif %}
-
-{% if zglos_sie_na_szkolenie.zamkniete %}
-  <p><a href="{{ zglos_sie_na_szkolenie.zamkniete }}">Zgłoś się na szkolenie zamknięte</a></p>
-{% endif %}
-
-<h2>{{ kontakt.naglowek | sierotki | safe }}</h2>
-{{ kontakt.tresc | cudzyslowy | sierotki | markdownify | safe }}
-
-<h2>{{ co_mowia_inni.naglowek | sierotki | safe }}</h2>
-{% for item in co_mowia_inni.opinie %}
-  <blockquote>
-    <p class="italic">{{ item.co | cudzyslowy | sierotki | safe }}</p>
-    <p class="font-bold">{{ item.kto | cudzyslowy | sierotki | safe }}</p>
-  </blockquote>
-{% endfor %}
-
-<h2>{{ czego_oczekujemy.naglowek | sierotki | safe }}</h2>
-{{ czego_oczekujemy.tresc | cudzyslowy | sierotki | markdownify | safe }}
-
-<h2>{{ o_projekcie.naglowek | sierotki | safe }}</h2>
-{{ o_projekcie.tresc | cudzyslowy | sierotki | markdownify | safe }}
-
-<h2>{{ dokumenty.naglowek | sierotki | safe }}</h2>
-{{ dokumenty.tresc | cudzyslowy | sierotki | markdownify | safe }}
-
-<p>Wypełnione i podpisane dokumenty należy odesłać na adres:<p>
-
-<p>Instytut Spraw Obywatelskich<br>
-ul. Pomorska 40 | 91-408 Łódź</p>
+{% include "components/head.njk" %}
+{% include "components/header.njk" %}
+  <main class="home">
+    <svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <defs>
+        <symbol id="icon-email" viewBox="0 0 24 24">
+          <title>ikona – email</title>
+          <path d="M20.016 8.016v-2.016l-8.016 5.016-8.016-5.016v2.016l8.016 4.969zM20.016 3.984q0.797 0 1.383 0.609t0.586 1.406v12q0 0.797-0.586 1.406t-1.383 0.609h-16.031q-0.797 0-1.383-0.609t-0.586-1.406v-12q0-0.797 0.586-1.406t1.383-0.609h16.031z"></path>
+        </symbol>
+        <symbol id="icon-telefon" viewBox="0 0 24 24">
+          <title>ikona – telefon stacjonarny</title>
+          <path d="M6.609 10.781q2.25 4.359 6.609 6.609l2.203-2.203q0.469-0.469 1.031-0.234 1.688 0.563 3.563 0.563 0.422 0 0.703 0.281t0.281 0.703v3.516q0 0.422-0.281 0.703t-0.703 0.281q-7.031 0-12.023-4.992t-4.992-12.023q0-0.422 0.281-0.703t0.703-0.281h3.516q0.422 0 0.703 0.281t0.281 0.703q0 1.875 0.563 3.563 0.188 0.609-0.234 1.031z"></path>
+        </symbol>
+        <symbol id="icon-komorka" viewBox="0 0 24 24">
+          <title>telefon komórkowy</title>
+          <path d="M17.016 18.984v-13.969h-10.031v13.969h10.031zM17.016 1.031q0.797 0 1.383 0.586t0.586 1.383v18q0 0.797-0.586 1.406t-1.383 0.609h-10.031q-0.797 0-1.383-0.609t-0.586-1.406v-18q0-0.797 0.586-1.406t1.383-0.609z"></path>
+        </symbol>
+        <symbol id="icon-obiad" viewBox="0 0 24 24">
+          <title>ikona – obiad</title>
+          <path d="M14.859 11.531l-1.453 1.453 6.891 6.891-1.406 1.406-6.891-6.891-6.891 6.891-1.406-1.406 9.75-9.75q-0.563-1.125-0.164-2.625t1.57-2.672q1.453-1.453 3.234-1.664t2.859 0.867 0.867 2.883-1.664 3.258q-1.172 1.172-2.672 1.547t-2.625-0.188zM8.109 13.359l-4.219-4.219q-1.172-1.172-1.172-2.813t1.172-2.813l7.031 6.984z"></path>
+        </symbol>
+        <symbol id="icon-nocleg" viewBox="0 0 24 24">
+          <title>ikona – nocleg</title>
+          <path d="M18.984 6.984q1.641 0 2.836 1.195t1.195 2.836v6h-22.031v-10.031h2.016v7.031h8.016v-7.031h7.969zM6.984 12.984q-1.219 0-2.109-0.891t-0.891-2.109 0.891-2.109 2.109-0.891 2.109 0.891 0.891 2.109-0.891 2.109-2.109 0.891z"></path>
+        </symbol>
+        <symbol id="icon-przejazd" viewBox="0 0 24 24">
+          <title>ikona – przejazd</title>
+          <path d="M20.016 15.984q0.422 0 0.703-0.281t0.281-0.703-0.281-0.703-0.703-0.281-0.727 0.281-0.305 0.703 0.305 0.703 0.727 0.281zM12 15.984q0.422 0 0.703-0.281t0.281-0.703-0.281-0.703-0.703-0.281-0.703 0.281-0.281 0.703 0.281 0.703 0.703 0.281zM12.422 9.984l-1.031 3h9.234l-1.031-3h-7.172zM20.578 9.656l1.406 4.125v5.484q0 0.281-0.211 0.516t-0.492 0.234h-0.609q-0.281 0-0.469-0.258t-0.188-0.539v-1.219h-8.016v1.219q0 0.281-0.211 0.539t-0.492 0.258h-0.609q-0.281 0-0.469-0.234t-0.188-0.516l-0.047-5.484 1.453-4.125q0.234-0.656 0.984-0.656h7.172q0.75 0 0.984 0.656zM5.016 14.016q-0.422 0-0.727 0.281t-0.305 0.703 0.305 0.703 0.727 0.281 0.703-0.281 0.281-0.703-0.281-0.703-0.703-0.281zM12 3.984q1.219 0 2.109 0.891t0.891 2.109v1.031h-2.016v-2.016h-9v6.984h5.016v5.016l-2.016-0.047-1.969 2.063h-1.031v-1.031l1.031-0.984q-1.219 0-2.109-0.891t-0.891-2.109v-8.016q0-1.219 0.891-2.109t2.109-0.891h6.984z"></path>
+        </symbol>
+        <symbol id="icon-materialy" viewBox="0 0 24 24">
+          <title>ikona – materiały</title>
+          <path d="M17.484 14.344q1.219 0 2.531 0.234v1.5q-0.938-0.234-2.531-0.234-2.813 0-4.5 0.984v-1.688q1.781-0.797 4.5-0.797zM12.984 12.469q1.969-0.797 4.5-0.797 1.219 0 2.531 0.234v1.5q-0.938-0.234-2.531-0.234-2.813 0-4.5 0.984v-1.688zM17.484 10.5q-2.813 0-4.5 0.984v-1.641q1.875-0.844 4.5-0.844 1.219 0 2.531 0.234v1.547q-1.125-0.281-2.531-0.281zM21 18.516v-11.531q-1.547-0.469-3.516-0.469-3.047 0-5.484 1.5v11.484q2.438-1.5 5.484-1.5 1.828 0 3.516 0.516zM17.484 4.5q3.563 0 5.531 1.5v14.578q0 0.188-0.164 0.352t-0.352 0.164q-0.141 0-0.234-0.047-1.922-1.031-4.781-1.031-3.047 0-5.484 1.5-2.016-1.5-5.484-1.5-2.531 0-4.781 1.078-0.047 0-0.117 0.023t-0.117 0.023q-0.188 0-0.352-0.141t-0.164-0.328v-14.672q2.016-1.5 5.531-1.5 3.469 0 5.484 1.5 2.016-1.5 5.484-1.5z"></path>
+        </symbol>
+        <symbol id="icon-kawa" viewBox="0 0 24 24">
+          <title>ikona - kawa</title>
+          <path d="M3.984 18.984h16.031v2.016h-16.031v-2.016zM20.016 8.016v-3h-2.016v3h2.016zM20.016 3q0.844 0 1.406 0.586t0.563 1.43v3q0 0.844-0.563 1.406t-1.406 0.563h-2.016v3q0 1.641-1.172 2.836t-2.813 1.195h-6q-1.641 0-2.836-1.195t-1.195-2.836v-9.984h16.031z"></path>
+        </symbol>
+        <symbol id="icon-dyplom" viewBox="0 0 24 24">
+          <title>ikona - absolwent</title>
+          <path d="M12 3l11.016 6v8.016h-2.016v-6.938l-9 4.922-11.016-6zM5.016 13.172l6.984 3.844 6.984-3.844v4.031l-6.984 3.797-6.984-3.797v-4.031z"></path>
+        </symbol>
+        <symbol id="icon-pobierz" viewBox="0 0 24 24">
+          <title>ikona – pobierz</title>
+          <path d="M12 13.5l6-6h-4.5v-6h-3v6h-4.5zM17.455 11.045l-1.681 1.681 6.096 2.273-9.869 3.68-9.869-3.68 6.096-2.273-1.681-1.681-6.545 2.455v6l12 4.5 12-4.5v-6z"></path>
+        </symbol>
+      </defs>
+    </svg>
+    <section class="relative py-0">
+      <img id="hero_bg" class="object-cover w-full my-0 opacity-25" src="https://res.cloudinary.com/inspro/image/upload/v1589893661/aiso/szachy.jpg" alt="figury szachowe">
+      <div class="absolute top-0 bottom-0 w-full flex flex-col items-center justify-center">
+        <div class="mx-3 mb-4 xs:mb-6">{% include "components/logo.njk" %}</div>
+        <h1 class="text-5xl xs:text-6xl leading-none text-center font-caveat text-blue-800"><span class="sr-only">Akademia Instytutu Spraw Obywatelskich – </span>Wykorzystaj prawo</h1>
+      </div>
+    </section>
+    <section class="mx-auto py-10 px-3">
+      <p class="my-0 text-center text-sm sm:text-base md:text-lg">Projekt „Akademia Instytutu Spraw Obywatelskich” współfinansowany ze środków Europejskiego Funduszu Społecznego</p>
+      <div class="max-w-3xl mx-auto mt-6">
+        <img src="/img/fundusze-europejskie.svg" alt="Fundusze Europejskie – Wiedza Edukacja Rozwój">
+      </div>
+    </section>
+    <section class="bg-czerwony px-3">
+      <div class="container mx-auto">
+        <h2 class="text-white">{{ kogo_zapraszamy.naglowek | sierotki | safe }}</h2>
+        <div class="text-white text-xl md:text-2xl lg:text-3xl max-w-5xl">
+          {{ kogo_zapraszamy.tresc | cudzyslowy | sierotki | markdownify | safe }}
+        </div>
+      </div>
+    </section>
+    <section id="co-dajemy" class="relative py-0">
+      <div class="absolute top-0 bottom-0 w-full bg-black bg-opacity-50"></div>
+      <div class="container mx-auto">
+        <div class="relative py-16">
+          <div class="absolute top-0 bottom-0 w-full max-w-5xl bg-white opacity-85"></div>
+          <div class="relative max-w-5xl px-3 xs:px-6 sm:px-10 lg:px-16">
+            <h2>{{ co_dajemy.naglowek | sierotki | safe }}</h2>
+            <div class="text-lg md:text-xl lg:text-2xl max-w-3xl">
+              {{ co_dajemy.tresc | cudzyslowy | sierotki | markdownify | safe }}
+              <p class="font-caveat text-3xl sm:text-4xl md:text-5xl text-blue-800">Zainteresowana/-y?</p>
+              {# <p class="text-xl sm:text-2xl md:text-3xl mt-12 mb-4"><a class="inline-block text-center font-bold no-underline bg-purple-600 hover:bg-purple-700 focus:bg-purple-700 text-white p-4 py-5 rounded-lg shadow-md" href="#dokumenty">Pobierz dokumenty udziału w projekcie</a></p> #}
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section id="zglos-sie" class="px-3 shadow-inner bg-purple-600 links-white">
+      <div class="mx-auto container flex flex-col sm:flex-row justify-around items-center">
+        {% if zglos_sie_na_szkolenie.link_do_formularza %}
+          <div class="sm:pr-4 py-4 text-xl sm:text-2xl xl:text-3xl"><a class="inline-block font-bold text-center no-underline text-white border-white border-4 p-4 py-5 rounded-lg hover:bg-purple-700 focus:bg-purple-700 shadow-lg" href="{{ zglos_sie_na_szkolenie.link_do_formularza }}">Zgłoś się na szkolenie</a></div>
+        {% endif %}
+        {# {% if zglos_sie_na_szkolenie.zamkniete %}
+          <div class="sm:pl-4 py-4 text-xl sm:text-2xl xl:text-3xl"><a class="inline-block font-bold text-center no-underline text-white border-white border-4 p-4 py-5 rounded-lg hover:bg-purple-700 focus:bg-purple-700 shadow-lg" href="{{ zglos_sie_na_szkolenie.zamkniete }}">Zgłoś się na szkolenie zamknięte</a></div>
+        {% endif %} #}
+      </div>
+      <p class="text-center"><a class="text-white" href="#dokumenty">Dokumenty do pobrania &darr;</a>
+    </section>
+    <section id="program-szkolenia" class="bg-gray-700 px-3">
+    <div class="container mx-auto xl:pb-16">
+      <h2 class="text-white">{{ program_szkolenia.naglowek | sierotki | safe }}</h2>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-16 mb-8">
+        {% for item in program_szkolenia.dni %}
+          <div class="dzien kratka bg-white p-3 sm:p-5 lg:p-8 rounded-lg shadow-lg">
+            <h3 class="text-5xl leading-none text-blue-800 text-center font-caveat pb-8 border-b border-gray-500 mb-12">Dzień {{ item.dzien }}</h3>
+            <ul class="pl-0">
+              {% for warsztat in item.warsztaty %}
+                <li class="warsztat mb-4 list-none">
+                  <h4 class="text-xl mb-3"><span class="bg-czerwony text-white px-2 py-1">{{ warsztat.tytul }}</span>{% if warsztat.czas %} <time class="font-caveat text-2xl leading-none text-blue-800">({{ warsztat.czas }}h)</time>{% endif %}</h4>
+                  {% if warsztat.opis %}{{ warsztat.opis | cudzyslowy | sierotki | markdownify | safe }}{% endif %}
+                </li>
+              {% endfor %}
+            </ul>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+    </section>
+    <section id="metody-pracy" class="relative py-0">
+      <div class="absolute top-0 bottom-0 w-full bg-black bg-opacity-25"></div>
+      <div class="container mx-auto">
+        <div class="relative py-16">
+          <div class="absolute top-0 bottom-0 w-full max-w-5xl bg-white opacity-85"></div>
+          <div class="relative max-w-5xl px-3 xs:px-6 sm:px-10 lg:px-16">
+            <h2>{{ metody_pracy.naglowek | sierotki | safe }}</h2>
+            <div class="text-lg md:text-xl lg:text-2xl max-w-3xl">
+              {{ metody_pracy.tresc | cudzyslowy | sierotki | markdownify | safe }}
+              {% for item in metody_pracy.co_otrzymuje %}
+                <p class="font-bold">{{ item.naglowek }}:</p>
+                <ul class="list-none pl-0">
+                  {% for podpunkt in item.podpunkty %}
+                    <li class="flex items-center"><svg class="inline w-8 sm:w-12 h-8 sm:h-12 mr-2 my-1 sm:my-2 text-blue-800 fill-current"><use xlink:href="#icon-{{ podpunkt.ikona }}"></use></svg> {{ podpunkt.tresc }}</li>
+                  {% endfor %}
+                </ul>
+              {% endfor %}
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="bg-gray-700 px-3">
+      <div class="container mx-auto">
+        <h2 class="text-white">{{ zespol.naglowek | sierotki | safe }}</h2>
+        <div class="grid gap-4 lg:gap-8 grid-cols-1 md:grid-cols-2 xl:grid-cols-3">
+          {% for item in zespol.trenerzy %}
+            <div class="bg-white kratka p-4 rounded-lg shadow-lg">
+              <h3 class="font-caveat text-4xl text-center">{{ item.nazwisko }}</h3>
+              <img class="w-48 mx-auto rounded-full border-4 border-white" src="{{ item.foto }}" alt="{{ item.nazwisko }}">
+              {{ item.bio | cudzyslowy | sierotki | markdownify | safe }}
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+    </section>
+    <section class="md:pb-0 px-3">
+      <div class="container mx-auto">
+        <h2>Skontaktuj się</h2>
+        <div class="flex flex-col md:flex-row-reverse md:items-end md:justify-end">    
+          <div class="md:w-1/3 lg:w-5/12 flex justify-end md:justify-center">
+            <img class="w-64 md:w-full lg:w-10/12 xl:w-8/12 mr-8 lg:mr-0 md:mr-0" src="/img/marta-stepniak.jpg" alt="Marta Stępniak">
+          </div>
+          <div class="md:w-2/3 lg:w-7/12 md:pb-16">
+            <div class="text-lg sm:text-xl md:text-2xl kratka bg-white px-3 py-8 xs:px-8 pt-4 rounded-lg shadow-md">
+              <p>z <span class="font-caveat text-3xl sm:text-4xl text-blue-900">{{ kontakt.z_kim }}</span>, aby ustalić szczegóły:</p>
+              <h3>Zadzwoń</h3>
+              {% if kontakt.tel_stacjonarny %}
+                <p class="my-0"><svg class="inline w-6 sm:w-8 md:w-10 h-6 sm:h-8 md:h-10 m-1 text-blue-800 fill-current"><use xlink:href="#icon-telefon"></use></svg> {{ kontakt.tel_stacjonarny }}</p>          
+              {% endif %}
+              {% if kontakt.tel_komorkowy %}
+                <p class="my-0"><svg class="inline w-6 sm:w-8 md:w-10 h-6 sm:h-8 md:h-10 m-1 text-blue-800 fill-current"><use xlink:href="#icon-komorka"></use></svg> {{ kontakt.tel_komorkowy }}</p>
+              {% endif %}
+              {% if kontakt.email %}
+                <h3>Napisz</h3>
+                <p class="my-0"><svg class="inline w-6 sm:w-8 md:w-10 h-6 sm:h-8 md:h-10 m-1 text-blue-800 fill-current"><use xlink:href="#icon-email"></use></svg> <a href="mailto:{{ kontakt.email }}">{{ kontakt.email }}</a></p>
+              {% endif %}
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    {# <section id="co-mowia-inni" class="bg-gray-200 px-3">
+      <div class="container mx-auto">
+        <h2>{{ co_mowia_inni.naglowek | sierotki | safe }}</h2>
+        {% for item in co_mowia_inni.opinie %}
+          <blockquote class="pl-4 xs:pl-8 sm:pl-16 pt-8">
+            <div class="text-lg sm:text-xl md:text-2xl italic">{{ item.co | cudzyslowy | sierotki | markdownify | safe }}</div>
+            <p class="font-caveat text-2xl sm:text-3xl md:text-4xl text-blue-800">{{ item.kto | cudzyslowy | sierotki | safe }}</p>
+          </blockquote>
+        {% endfor %}
+      </div>
+    </section> #}
+    <section id="czego-oczekujemy" class="relative py-0">
+      <div class="absolute top-0 bottom-0 w-full bg-black bg-opacity-50"></div>
+      <div class="container mx-auto">
+        <div class="relative py-16">
+          <div class="absolute top-0 bottom-0 w-full max-w-5xl bg-white opacity-85"></div>
+          <div class="relative max-w-5xl px-3 xs:px-6 sm:px-10 lg:px-16">
+            <h2>{{ czego_oczekujemy.naglowek | sierotki | safe }}</h2>
+            <div class="text-lg md:text-xl lg:text-2xl max-w-3xl">
+              {{ czego_oczekujemy.tresc | cudzyslowy | sierotki | markdownify | safe }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="px-3 lg:pr-16">
+      <div class="container mx-auto">
+        <h2>{{ o_projekcie.naglowek | sierotki | safe }}</h2>
+        <div class="flex justify-between">
+          <div class="lg:w-3/4">
+            <div class="text-lg sm:text-xl max-w-3xl">
+              {{ o_projekcie.tresc | cudzyslowy | sierotki | markdownify | safe }}
+            </div>
+          </div>
+          <div class="hidden lg:w-1/4 lg:flex lg:flex-col lg:items-center lg:ml-16">
+            <img src="/img/logo-iso.svg" alt="Instytut Spraw Obywatelskich – logo">
+            <img class="mt-20" src="/img/logo-wrzos.svg" alt="Instytut Spraw Obywatelskich – logo">
+          </div>
+        </div>
+      </div>
+    </section>
+    <section id="dokumenty" class="bg-purple-600 px-3 text-white links-white">
+      <div class="container mx-auto">
+        <h2 class="text-white">{{ dokumenty.naglowek | sierotki | safe }}</h2>
+        <div class="text-xl max-w-3xl">
+          {{ dokumenty.tresc | cudzyslowy | sierotki | markdownify | safe }}
+          <p>Wypełnione i podpisane dokumenty należy odesłać na adres:</p>
+          <p>Instytut Spraw Obywatelskich<br>
+          ul. Pomorska 40 | 91-408 Łódź</p>
+        </div>
+      </div>
+    </section>
+    <a class="absolute xs:hidden right-0 text-gray-100 no-underline px-2 py-1" href="#menu">&uarr; Menu</a>
+  </main>
+{% include "components/footer.njk" %}

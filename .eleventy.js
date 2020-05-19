@@ -7,6 +7,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addLayoutAlias('home', 'layouts/home.njk');
   eleventyConfig.addLayoutAlias('poznaj-nas', 'layouts/poznaj-nas.njk');
   eleventyConfig.addLayoutAlias('archiwum', 'layouts/archiwum.njk');
+  eleventyConfig.addLayoutAlias('single', 'layouts/single.njk');
 
   eleventyConfig.setUseGitIgnore(false);
   
@@ -29,7 +30,6 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/site/fonts");
   eleventyConfig.addPassthroughCopy("./src/site/img");
   eleventyConfig.addPassthroughCopy("./src/site/css");
-  eleventyConfig.addPassthroughCopy("./src/site/js");
   eleventyConfig.addPassthroughCopy("./src/site/admin");
 
   return  {

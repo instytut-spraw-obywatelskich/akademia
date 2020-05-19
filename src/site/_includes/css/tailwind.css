@@ -1,5 +1,212 @@
 @tailwind base;
-
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url(/fonts/IBMPlexSans-Regular-Latin1.woff) format("woff");
+}
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url(/fonts/IBMPlexSans-Regular-Latin1.woff2) format("woff2");
+}
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: url(/fonts/IBMPlexSans-Italic-Latin1.woff) format("woff");
+}
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: url(/fonts/IBMPlexSans-Italic-Latin1.woff2) format("woff2");
+}
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: url(/fonts/IBMPlexSans-SemiBold-Latin1.woff) format("woff");
+}
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: url(/fonts/IBMPlexSans-SemiBold-Latin1.woff2) format("woff2");
+}
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: url(/fonts/IBMPlexSans-SemiBoldItalic-Latin1.woff) format("woff");
+}
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: url(/fonts/IBMPlexSans-SemiBoldItalic-Latin1.woff2) format("woff2");
+}
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 900;
+  src: url(/fonts/IBMPlexSans-Bold-Latin1.woff) format("woff");
+}
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 900;
+  src: url(/fonts/IBMPlexSans-Bold-Latin1.woff2) format("woff2");
+}
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: italic;
+  font-weight: 900;
+  src: url(/fonts/IBMPlexSans-BoldItalic-Latin1.woff) format("woff");
+}
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: italic;
+  font-weight: 900;
+  src: url(/fonts/IBMPlexSans-BoldItalic-Latin1.woff2) format("woff2");
+}
+@font-face {
+  font-family: 'Caveat Bold';
+  font-style: bold;
+  font-weight: 700;
+  src: url(/fonts/caveat-bold.woff) format("woff");
+}
+@font-face {
+  font-family: 'Caveat Bold';
+  font-style: bold;
+  font-weight: 700;
+  src: url(/fonts/caveat-bold.woff2) format("woff2");
+}
+main {
+  section {
+    @apply py-20;
+  }
+  h2 {
+    @apply text-4xl leading-tight text-czerwony uppercase italic my-6;
+    font-weight: 900;
+    @screen sm {
+      @apply text-5xl leading-none my-8;
+    }
+    @screen md {
+      @apply text-6xl my-12;
+    }
+  }
+  &.home h2 {
+    @apply mt-0;
+  }
+  h3 {
+    @apply text-2xl leading-tight text-czerwony mt-8;
+    font-weight: 900;
+    @screen sm {
+      @apply text-3xl leading-none mt-12;
+    }
+  }
+  h3, h4 {
+    @apply font-bold;
+  }
+  a {
+    @apply underline text-czerwony;
+    &:hover, &:focus {
+      @apply text-purple-700;
+    }
+  }
+  .links-white {
+    a:hover,
+    a:focus {
+      @apply text-white;
+    }
+  }
+  p, ol, ul, blockquote, img {
+    @apply mt-4;
+  }
+  .warsztat p {
+    @apply mt-0;
+  }
+  ul ul,
+  ol ul,
+  ol ul,
+  ul ol,
+  blockquote p {
+    @apply mt-0;
+  }
+  ol, ul {
+    @apply pl-4;
+  }
+  ul {
+    @apply list-disc;
+  }
+  ol {
+    @apply list-decimal;
+  }
+}
+#hero_bg {
+  height: calc(100vh - 3rem);
+}
+#co-dajemy {
+  background: url(https://res.cloudinary.com/inspro/image/upload/v1589893660/aiso/konferencja.jpg) 50% 50% no-repeat;
+  @apply bg-cover bg-fixed;
+  strong {
+    @apply bg-czerwony text-white px-2 py-1;
+  }
+}
+@screen xl {
+  .dzien:nth-child(1) {
+    @apply transform translate-x-10;
+  }
+  .dzien:nth-child(2) {
+    @apply transform -translate-x-10 translate-y-16;
+  }
+}
+#metody-pracy {
+  background: url(https://res.cloudinary.com/inspro/image/upload/v1589893661/aiso/warsztaty.jpg) 50% 0% no-repeat;
+  @apply bg-cover;
+}
+#co-mowia-inni .container {
+  background-image: url(/img/kciuk.svg);
+  background-size: 300px 300px;
+  @apply bg-no-repeat bg-right-bottom;
+  blockquote {
+    background-image: url(/img/cudzyslow.svg);
+    background-size: 5em 5em;
+    @apply bg-no-repeat bg-left-top;
+  }
+}
+#czego-oczekujemy {
+  background: url(https://res.cloudinary.com/inspro/image/upload/v1589893661/aiso/szachy2.jpg) 50% 50% no-repeat;
+  @apply bg-cover bg-fixed;
+}
+#dokumenty .container {
+  background-image: url(/img/pobierz.svg);
+  background-size: 150px 150px;
+  @screen sm {
+    background-size: 300px 300px;
+  }
+  @apply bg-no-repeat bg-right-bottom;
+}
 @tailwind components;
 
 @tailwind utilities;
+.font-extra-bold {
+  font-weight: 900;
+}
+.font-caveat {
+  font-family: "Caveat Bold";
+  font-weight: 700;
+}
+.links-white {
+  a {
+    @apply text-white;
+  }
+}
+.skos {
+  transform: rotate(-3deg)
+}
+.kratka {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100'%3E%3Cg fill-rule='evenodd'%3E%3Cg fill='%23cbd5e0' fill-opacity='0.4'%3E%3Cpath opacity='.5' d='M96 95h4v1h-4v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9zm-1 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm9-10v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm9-10v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm9-10v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9z'/%3E%3Cpath d='M6 5V0H5v5H0v1h5v94h1V6h94V5H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+}

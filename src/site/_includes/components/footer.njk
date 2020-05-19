@@ -1,12 +1,19 @@
-    <footer>
-      <h2 id="kontakt">Kontakt</h2>
-      <p>Instytut Spraw Obywatelskich</p>
-      <p>ul. Pomorska 40 | 91-408 Łódź</p>
-      <p>tel./fax: 42 630 17 49</p>
-      <p>e-mail: akademia@instytutsprawobywatelskich.pl</p>
-      <p>NIP: 7251872505| REGON: 473224144 | KRS: 0000191928</p>
-      <p>Godziny otwarcia biura: poniedziałek – piątek: 8:00-16:00</p>
-      <p>Numer konta: Alior Bank: 26 2490 0005 0000 4530 3441 9579</p>
-    </footer>    
+    <footer class="bg-gray-900 text-gray-100 px-3 pt-16 overflow-hidden">
+      <div id="kontakt" class="container mx-auto grid grid-cols-1 lg:grid-cols-2 gap-16">
+        <div>
+          <div class="mb-4">{% include "components/logo-iso-biale.njk" %}</div>
+          <p>ul. Pomorska 40 | 91-408 Łódź</p>
+          <p>tel./fax: 42 630 17 49</p>
+          <p>e-mail: <a class="underline" href="mailto:akademia@instytut.lodz.pl">akademia@instytut.lodz.pl</a></p>
+          <p class="mt-4">NIP: 7251872505| REGON: 473224144 | KRS: 0000191928</p>
+          <p>Godziny otwarcia biura: poniedziałek–piątek: 8:00–16:00</p>
+          <p>Numer konta: Alior Bank: 26 2490 0005 0000 4530 3441 9579</p>
+        </div>
+        <div class="grid grid-cols-1 xl:grid-cols-2 gap-16">
+          <p class="font-caveat text-4xl text-center leading-snug skos xl:mt-16"><a href="https://instytutsprawobywatelskich.pl/">Czytaj portal Instytutu Spraw Obywatelskich!</a></p>
+          <a class="px-3" href="https://instytutsprawobywatelskich.pl/"><img class="w-64 mx-auto" src="https://res.cloudinary.com/inspro/image/upload/v1589893660/aiso/strona-instytutu.jpg" alt="Strona Instytutu Spraw Obywatelskich"></a>
+        </div>
+      </div>
+    </footer>  
   </body>
 </html>

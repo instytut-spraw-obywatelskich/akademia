@@ -1,14 +1,12 @@
-<body>
-  <header>
-    <a class="block font-bold" href="/">Akademia Instytutu Spraw Obywatelskich</a>
-    <nav>
-      <ul class="flex gap-4">
-        <li><a href="/">Oferta</a></li>
-        <li><a href="/dzieje-sie/">Dzieje się</a></li>
-        <li><a href="/poznaj-nas/">Poznaj nas</a></li>
-        <li><a href="/polecamy/">Polecamy</a></li>
-        <li><a href="#kontakt">Kontakt</a></li>
+<body class="bg-gray-100 font-sans text-lg">
+  <header class="xs:h-12">
+    <nav id="menu" role="navigation">
+      <ul class="font-bold leading-loose bg-gray-100 border-b-2 border-czerwony w-full z-10 px-3 py-2 flex flex-wrap justify-center items-center shadow-md xs:fixed">
+        <li class="flex-shrink-0 mr-6"><a class="hover:text-czerwony focus:text-czerwony{% if page.url == '/' %} text-czerwony{% endif %}" href="/">Oferta</a></li>
+        <li class="flex-shrink-0 mr-6"><a class="hover:text-czerwony focus:text-czerwony{% if page.url == '/dzieje-sie/' %} text-czerwony{% endif %}" href="/dzieje-sie/">Dzieje się</a></li>
+        <li class="flex-shrink-0 mr-6"><a class="hover:text-czerwony focus:text-czerwony{% if page.url == '/poznaj-nas/' %} text-czerwony{% endif %}" href="/poznaj-nas/">Poznaj nas</a></li>
+        {# <li class="flex-shrink-0 mr-6"><a class="hover:text-czerwony focus:text-czerwony{% if page.url == '/polecamy/' %} text-czerwony{% endif %}" href="/polecamy/">Polecamy</a></li> #}
+        <li class="flex-shrink-0"><a class="hover:text-czerwony focus:text-czerwony" href="#kontakt">Kontakt</a></li>
       </ul>
     </nav>
   </header>
-  
