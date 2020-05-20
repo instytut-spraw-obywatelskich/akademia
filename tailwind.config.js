@@ -37,6 +37,11 @@ module.exports = {
         '"Noto Color Emoji"',
       ]
     },
+    fontWeight: {
+      normal: '400',
+      bold: '600',
+      extrabold: '700'
+    },    
     extend: {
       colors: {
         'czerwony': '#d10a10'

@@ -1,15 +1,15 @@
 ---
-title: Bezpłatne, dwudniowe szkolenie
+title: Prawa pieszych w Łodzi
 date: 2020-05-19
 zajawka: >
-  Zapraszamy na bezpłatne, dwudniowe szkolenie, gdzie dowiecie się jak wykorzystać prawo jako „narzędzie” do zmiany społecznej.
+  Zapraszamy na bezpłatne, dwudniowe szkolenie zamknięte w ramach Akadamii Instytut Spraw Obywatelskich, które będzie poświęcone tematyce praw pieszych.
 ---
 
-**Zapraszamy na bezpłatne, dwudniowe szkolenie, gdzie dowiecie się jak wykorzystać prawo jako „narzędzie” do zmiany społecznej.**
+**Zapraszamy na bezpłatne, dwudniowe szkolenie zamknięte w ramach Akadamii Instytut Spraw Obywatelskich, które będzie poświęcone tematyce praw pieszych.**
 
-Szkolenie organizujemy dla społeczników zajmujących się **tematem prawa pieszych i zrównoważonym transportem.** Przed dwa czerwcowe dni zdobędziecie wiedzę, umiejętności i narzędzia potrzebne Wam w codziennej pracy w organizacji. Szkolenie organizowane jest w Łodzi.
+Zapraszamy do udziału społeczników zajmujących się tematyką praw pieszych i zrównoważonego transportu. Przez dwa czerwcowe dni zdobędziecie wiedzę, umiejętności i narzędzia przydatne w walce o prawa pieszych. To również okazja do zbudowania sieci kontaktów z innymi aktywistami. Szkolenie organizowane jest w Łodzi.
 
-Zobacz program szkolenia „Wykorzystaj prawo” (link do folderu)
+Zobacz [program szkolenia zamkniętego „Wykorzystaj prawo w walce o prawa pieszych”](https://res.cloudinary.com/inspro/image/upload/v1589957196/aiso/aiso-instytut-piesza-polska.pdf).
 
 **Kiedy: 20–21.06.2020**  
 **Gdzie: Łódź**  
@@ -23,7 +23,7 @@ Uczestnik szkoleń musi być wydelegowany przez organizację społeczną (m.in. 
 
 Aby zgłosić się na szkolenie należy wypełnić [formularz zgłoszeniowy](https://forms.gle/1j9Ex9JfEXzKHzkH9). Zgłoszenie się na szkolenie nie jest jednoznaczne z potwierdzeniem możliwości uczestnictwa.
 
-Tutaj możesz się zapoznać z [Regulaminem Projektu](#) „Akademia Instytutu Spraw Obywatelskich”.
+Tutaj możesz się zapoznać z [Regulaminem Projektu](https://res.cloudinary.com/inspro/raw/upload/v1589893932/aiso/regulamin.zip) „Akademia Instytutu Spraw Obywatelskich”.
 
 Poinformujemy Cię o wynikach rekrutacji. Następnie poprosimy Cię o wypełnienie dokumentacji projektowej (podlinkowane pobierz dokumenty udziału w projekcie), podpisania przez osoby uprawnione do reprezentacji i dostarczenia do nas.
 
