@@ -27,30 +27,6 @@ collections:
             fields:
               - { label: "Nagłówek", name: "naglowek", widget: "string" }
               - { label: "Treść", name: "tresc", widget: "markdown" }
-          - label: "Co dajemy?"
-            name: "co_dajemy"
-            fields:
-              - { label: "Nagłówek", name: "naglowek", widget: "string" }
-              - { label: "Treść", name: "tresc", widget: "markdown" }
-          - label: "Zgłoś się na szkolenie"
-            name: "zglos_sie_na_szkolenie"
-            fields:
-              - { label: "Link do formularza", name: "link_do_formularza", widget: "string" }
-          - label: "Czego oczekujemy?"
-            name: "czego_oczekujemy"
-            fields:
-              - { label: "Nagłówek", name: "naglowek", widget: "string" }
-              - { label: "Treść", name: "tresc", widget: "markdown" }
-          - label: "O projekcie"
-            name: "o_projekcie"
-            fields:
-              - { label: "Nagłówek", name: "naglowek", widget: "string" }
-              - { label: "Treść", name: "tresc", widget: "markdown" }
-          - label: "Dokumenty do pobrania"
-            name: "dokumenty"
-            fields:
-              - { label: "Nagłówek", name: "naglowek", widget: "string" }
-              - { label: "Treść", name: "tresc", widget: "markdown" }
       - label: "Poznaj nas"
         name: "poznaj"
         file: "src/site/poznaj-nas.md"
