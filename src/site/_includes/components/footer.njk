@@ -14,6 +14,19 @@
           <a class="px-3" href="https://instytutsprawobywatelskich.pl/"><img class="w-64 mx-auto" src="https://res.cloudinary.com/inspro/image/upload/v1589893660/aiso/strona-instytutu.jpg" alt="Strona Instytutu Spraw Obywatelskich"></a>
         </div>
       </div>
-    </footer>  
+    </footer>
+    {% if page.url == "/" %}
+      <script>
+        if (window.netlifyIdentity) {
+          window.netlifyIdentity.on("init", user => {
+            if (!user) {
+              window.netlifyIdentity.on("login", () => {
+                document.location.href = "/admin/";
+              });
+            }
+          });
+        }
+      </script>
+    {% endif %}
   </body>
 </html>

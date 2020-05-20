@@ -1,0 +1,155 @@
+backend:
+  name: git-gateway
+  branch: master
+media_folder: "src/site/img"
+public_folder: "/img"
+media_library:
+  name: cloudinary
+  output_filename_only: false
+  config:
+    cloud_name: inspro
+    api_key: 923619112787378
+slug:
+  encoding: "ascii"
+  clean_accents: true
+collections:
+  - name: "strony"
+    label: "Strony"
+    files:
+      - label: "Landing Page"
+        name: "home"
+        file: "src/site/index.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Layout", name: "layout", widget: "hidden", default: "home" }
+          - label: "Kogo zapraszamy"
+            name: "kogo_zapraszamy"
+            fields:
+              - { label: "Nagłówek", name: "naglowek", widget: "string" }
+              - { label: "Treść", name: "tresc", widget: "markdown" }
+          - label: "Co dajemy?"
+            name: "co_dajemy"
+            fields:
+              - { label: "Nagłówek", name: "naglowek", widget: "string" }
+              - { label: "Treść", name: "tresc", widget: "markdown" }
+          - label: "Zgłoś się na szkolenie"
+            name: "zglos_sie_na_szkolenie"
+            fields:
+              - { label: "Link do formularza", name: "link_do_formularza", widget: "string" }
+          - label: "Program szkolenia"
+            name: "program_szkolenia"
+            fields:
+              - { label: "Nagłówek", name: "naglowek", widget: "string" }
+              - label: "Dni"
+                name: "dni"
+                widget: "list"
+                fields:
+                  - { label: "Dzień", name: "dzien", widget: "string" }
+                  - label: "Warsztaty"
+                    name: "warsztaty"
+                    widget: "list"
+                    fields:
+                      - { label: "Tytuł", name: "tytul", widget: "string" }
+                      - { label: "Opis", name: "opis", widget: "markdown" }
+                      - { label: "Czas", name: "czas", widget: "number" }
+          - label: "Metody pracy"
+            name: "metody_pracy"
+            fields:
+              - { label: "Nagłówek", name: "naglowek", widget: "string" }
+              - { label: "Treść", name: "tresc", widget: "markdown" }
+              - label: "Co otrzymuje"
+                name: "co_otrzymuje"
+                widget: "list"
+                fields:
+                  - { label: "Nagłówek", name: "naglowek", widget: "string" }
+                  - label: "Podpunkty"
+                    name: "podpunkty"
+                    widget: "list"
+                    fields:
+                      - { label: "Treść", name: "tresc", widget: "markdown" }
+                      - { label: "Ikona", name: "ikona", widget: "string" }
+          - label: "Zespół"
+            name: "zespol"
+            fields:
+              - { label: "Nagłówek", name: "naglowek", widget: "string" }
+              - label: "Trenerzy"
+                name: "trenerzy"
+                widget: "list"
+                fields:
+                  - { label: "Nazwisko", name: "nazwisko", widget: "string" }
+                  - label: "Foto"
+                    name: "foto"
+                    widget: "image"
+                    media_library:
+                      config:
+                        multiple: false
+                  - { label: "Biogram", name: "bio", widget: "markdown" }
+          - label: "Kontakt"
+            name: "kontakt"
+            fields:
+              - { label: "Z kim?", name: "z_kim", widget: "string" }
+              - label: "Foto"
+                name: "foto"
+                widget: "image"
+                media_library:
+                  config:
+                    multiple: false
+              - { label: "Email", name: "email", widget: "string" }
+              - { label: "Tel. stacjonarny", name: "tel_stacjonarny", widget: "string" }
+              - { label: "tTel. komórkowy", name: "tel_komorkowy", widget: "string" }
+          - label: "Co mówią inni?"
+            name: "co_mowia_inni"
+            fields:
+              - { label: "Nagłówek", name: "naglowek", widget: "string" }
+              - label: "Opinie"
+                name: "opinie"
+                widget: "list"
+                fields:
+                  - { label: "Co powiedział?", name: "co", widget: "markdown" }
+                  - { label: "Kto powiedział?", name: "kto", widget: "string" }
+          - label: "Czego oczekujemy?"
+            name: "czego_oczekujemy"
+            fields:
+              - { label: "Nagłówek", name: "naglowek", widget: "string" }
+              - { label: "Treść", name: "tresc", widget: "markdown" }
+          - label: "O projekcie"
+            name: "o_projekcie"
+            fields:
+              - { label: "Nagłówek", name: "naglowek", widget: "string" }
+              - { label: "Treść", name: "tresc", widget: "markdown" }
+          - label: "Dokumenty do pobrania"
+            name: "dokumenty"
+            fields:
+              - { label: "Nagłówek", name: "naglowek", widget: "string" }
+              - { label: "Treść", name: "tresc", widget: "markdown" }
+      - label: "Poznaj nas"
+        name: "poznaj"
+        file: "src/site/poznaj-nas.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Layout", name: "layout", widget: "hidden", default: "poznaj-nas" }
+          - label: "Organizacje"
+            name: "organizacje"
+            widget: "list"
+            fields:
+              - { label: "Nazwa", name: "nazwa", widget: "string" }
+              - { label: "Logo", name: "logo", widget: "string" }
+              - { label: "Opis", name: "opis", widget: "markdown" }
+  - name: "dzieje"
+    label: "Dzieje się"
+    folder: "src/site/dzieje-sie"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "date" }
+      - { label: "Zajawka", name: "zajawka", widget: "markdown" }
+      - { label: "Treść", name: "body", widget: "markdown" }
+  - name: "polecamy"
+    label: "Polecamy"
+    folder: "src/site/polecamy"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "date" }
+      - { label: "Zajawka", name: "zajawka", widget: "markdown" }
+      - { label: "Treść", name: "body", widget: "markdown" }
