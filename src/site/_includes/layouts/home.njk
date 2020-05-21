@@ -76,7 +76,6 @@
             <div class="text-lg md:text-xl lg:text-2xl max-w-3xl">
               {{ co_dajemy.tresc | markdownify | cudzyslowy | sierotki | safe }}
               <p class="font-caveat text-3xl sm:text-4xl md:text-5xl text-blue-800">Zainteresowana/-y?</p>
-              {# <p class="text-xl sm:text-2xl md:text-3xl mt-12 mb-4"><a class="inline-block text-center font-bold no-underline bg-purple-600 hover:bg-purple-700 focus:bg-purple-700 text-white p-4 py-5 rounded-lg shadow-md" href="#dokumenty">Pobierz dokumenty udziału w projekcie</a></p> #}
             </div>
           </div>
         </div>
@@ -98,8 +97,8 @@
       <h2 class="text-white">{{ program_szkolenia.naglowek | sierotki | safe }}</h2>
       <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-16 mb-8">
         {% for item in program_szkolenia.dni %}
-          <div class="dzien kratka bg-white p-3 sm:p-5 lg:p-8 rounded-lg shadow-lg">
-            <h3 class="text-5xl leading-none text-blue-800 text-center font-caveat pb-8 border-b border-gray-500 mb-12">Dzień {{ item.dzien }}</h3>
+          <div class="dzien kratka bg-white p-3 pt-8 sm:p-5 sm:pt-8 lg:p-8 rounded-lg shadow-lg">
+            <h3 class="text-5xl leading-none text-blue-800 text-center font-caveat pb-8 border-b border-gray-500 mb-12 mt-0">Dzień {{ item.dzien }}</h3>
             <ul class="pl-0">
               {% for warsztat in item.warsztaty %}
                 <li class="warsztat mb-4 list-none">
@@ -140,8 +139,8 @@
         <h2 class="text-white">{{ zespol.naglowek | sierotki | safe }}</h2>
         <div class="grid gap-4 lg:gap-8 grid-cols-1 md:grid-cols-2 xl:grid-cols-3">
           {% for item in zespol.trenerzy %}
-            <div class="bg-white kratka p-4 rounded-lg shadow-lg">
-              <h3 class="font-caveat text-4xl text-center">{{ item.nazwisko }}</h3>
+            <div class="bg-white kratka p-4 pt-6 rounded-lg shadow-lg">
+              <h3 class="font-caveat text-4xl text-center mt-0">{{ item.nazwisko }}</h3>
               <img class="w-48 mx-auto rounded-full border-4 border-white" src="{{ item.foto }}" alt="{{ item.nazwisko }}">
               {{ item.bio | markdownify | cudzyslowy | sierotki | safe }}
             </div>

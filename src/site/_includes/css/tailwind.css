@@ -104,8 +104,11 @@ main {
       @apply text-white;
     }
   }
-  p, ol, ul, blockquote, img {
+  p, ol, ul, blockquote {
     @apply mt-4;
+  }
+  img {
+    @apply my-12;
   }
   .warsztat p {
     @apply mt-0;
