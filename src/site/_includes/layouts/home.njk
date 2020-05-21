@@ -62,7 +62,7 @@
       <div class="container mx-auto">
         <h2 class="text-white">{{ kogo_zapraszamy.naglowek | sierotki | safe }}</h2>
         <div class="text-white text-xl md:text-2xl lg:text-3xl max-w-5xl">
-          {{ kogo_zapraszamy.tresc | cudzyslowy | sierotki | markdownify | safe }}
+          {{ kogo_zapraszamy.tresc | markdownify | cudzyslowy | sierotki | safe }}
         </div>
       </div>
     </section>
@@ -74,7 +74,7 @@
           <div class="relative max-w-5xl px-3 xs:px-6 sm:px-10 lg:px-16">
             <h2>{{ co_dajemy.naglowek | sierotki | safe }}</h2>
             <div class="text-lg md:text-xl lg:text-2xl max-w-3xl">
-              {{ co_dajemy.tresc | cudzyslowy | sierotki | markdownify | safe }}
+              {{ co_dajemy.tresc | markdownify | cudzyslowy | sierotki | safe }}
               <p class="font-caveat text-3xl sm:text-4xl md:text-5xl text-blue-800">Zainteresowana/-y?</p>
               {# <p class="text-xl sm:text-2xl md:text-3xl mt-12 mb-4"><a class="inline-block text-center font-bold no-underline bg-purple-600 hover:bg-purple-700 focus:bg-purple-700 text-white p-4 py-5 rounded-lg shadow-md" href="#dokumenty">Pobierz dokumenty udziału w projekcie</a></p> #}
             </div>
@@ -104,7 +104,7 @@
               {% for warsztat in item.warsztaty %}
                 <li class="warsztat mb-4 list-none">
                   <h4 class="text-xl mb-3"><span class="bg-czerwony text-white px-2 py-1">{{ warsztat.tytul }}</span>{% if warsztat.czas %} <time class="font-caveat text-2xl leading-none text-blue-800">({{ warsztat.czas }}h)</time>{% endif %}</h4>
-                  {% if warsztat.opis %}{{ warsztat.opis | cudzyslowy | sierotki | markdownify | safe }}{% endif %}
+                  {% if warsztat.opis %}{{ warsztat.opis | markdownify | cudzyslowy | sierotki | safe }}{% endif %}
                 </li>
               {% endfor %}
             </ul>
@@ -121,7 +121,7 @@
           <div class="relative max-w-5xl px-3 xs:px-6 sm:px-10 lg:px-16">
             <h2>{{ metody_pracy.naglowek | sierotki | safe }}</h2>
             <div class="text-lg md:text-xl lg:text-2xl max-w-3xl">
-              {{ metody_pracy.tresc | cudzyslowy | sierotki | markdownify | safe }}
+              {{ metody_pracy.tresc | markdownify | cudzyslowy | sierotki | safe }}
               {% for item in metody_pracy.co_otrzymuje %}
                 <p class="font-bold">{{ item.naglowek }}:</p>
                 <ul class="list-none pl-0">
@@ -143,7 +143,7 @@
             <div class="bg-white kratka p-4 rounded-lg shadow-lg">
               <h3 class="font-caveat text-4xl text-center">{{ item.nazwisko }}</h3>
               <img class="w-48 mx-auto rounded-full border-4 border-white" src="{{ item.foto }}" alt="{{ item.nazwisko }}">
-              {{ item.bio | cudzyslowy | sierotki | markdownify | safe }}
+              {{ item.bio | markdownify | cudzyslowy | sierotki | safe }}
             </div>
           {% endfor %}
         </div>
@@ -180,7 +180,7 @@
         <h2>{{ co_mowia_inni.naglowek | sierotki | safe }}</h2>
         {% for item in co_mowia_inni.opinie %}
           <blockquote class="pl-4 xs:pl-8 sm:pl-16 pt-8">
-            <div class="text-lg sm:text-xl md:text-2xl italic">{{ item.co | cudzyslowy | sierotki | markdownify | safe }}</div>
+            <div class="text-lg sm:text-xl md:text-2xl italic">{{ item.co | markdownify | cudzyslowy | sierotki | safe }}</div>
             <p class="font-caveat text-2xl sm:text-3xl md:text-4xl text-blue-800">{{ item.kto | cudzyslowy | sierotki | safe }}</p>
           </blockquote>
         {% endfor %}
@@ -194,7 +194,7 @@
           <div class="relative max-w-5xl px-3 xs:px-6 sm:px-10 lg:px-16">
             <h2>{{ czego_oczekujemy.naglowek | sierotki | safe }}</h2>
             <div class="text-lg md:text-xl lg:text-2xl max-w-3xl">
-              {{ czego_oczekujemy.tresc | cudzyslowy | sierotki | markdownify | safe }}
+              {{ czego_oczekujemy.tresc | markdownify | cudzyslowy | sierotki | safe }}
             </div>
           </div>
         </div>
@@ -206,7 +206,7 @@
         <div class="flex justify-between">
           <div class="lg:w-3/4">
             <div class="text-lg sm:text-xl max-w-3xl">
-              {{ o_projekcie.tresc | cudzyslowy | sierotki | markdownify | safe }}
+              {{ o_projekcie.tresc | markdownify | cudzyslowy | sierotki | safe }}
             </div>
           </div>
           <div class="hidden lg:w-1/4 lg:flex lg:flex-col lg:items-center lg:ml-16">
@@ -220,7 +220,7 @@
       <div class="container mx-auto">
         <h2 class="text-white">{{ dokumenty.naglowek | sierotki | safe }}</h2>
         <div class="text-xl max-w-3xl">
-          {{ dokumenty.tresc | cudzyslowy | sierotki | markdownify | safe }}
+          {{ dokumenty.tresc | markdownify | cudzyslowy | sierotki | safe }}
           <p>Wypełnione i podpisane dokumenty należy odesłać na adres:</p>
           <p>Instytut Spraw Obywatelskich<br>
           ul. Pomorska 40 | 91-408 Łódź</p>

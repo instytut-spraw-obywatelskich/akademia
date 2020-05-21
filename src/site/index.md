@@ -10,9 +10,9 @@ co_dajemy:
   tresc: >
     1. **Bezpłatne, dwudniowe szkolenie otwarte** dla społeczników z organizacji zajmujących się różnymi tematami, np.: prawa pieszych, rolnictwo ekologiczne, 5G, spalarnie śmieci, kolej, ekonomia społeczna, smog, prawo pracy, dzika przyroda, ochrona drzew itp.
 
-    2. **Bezpłatne, dwudniowe szkolenie zamknięte** dla społeczników z koalicji organizacji, która zajmuje się jednym tematem, np. Federacja Piesza Polska, Kongres Ruchów Miejskich. Program szkolenia będzie dostosowany do potrzeb koalicji.
+    2. **Bezpłatne, dwudniowe szkolenie zamknięte** dla społeczników z koalicji organizacji, która zajmuje się jednym tematem, np. Federacja Piesza Polska, Koalicja Żywa Ziemia, Kongres Ruchów Miejskich. Program szkolenia będzie dostosowany do potrzeb koalicji.
 
-    3. **Wiedzę, umiejętności i narzędzia.** Zajęcia poprowadzą eksperci, społecznicy i decydenci z wieloletnim doświadczeniem praktycznym.
+    3. **Wiedzę, umiejętności i narzędzia.** Zajęcia poprowadzą eksperci, społecznicy i decydenci z wieloletnim doświadczeniem w wykorzystywaniu prawa do zmiany społecznej.
 
     4. Wsparcie przy opracowaniu **indywidualnego planu działania** na rzecz zmiany społecznej, o którą walczy Twoja organizacja.
 
@@ -20,7 +20,7 @@ co_dajemy:
 
     6. **Poradnik „Kuźnia Kampanierów 3”**, o tym, jak wygrywać kampanie obywatelskie.
 
-    7. **Kurs specjalistyczny** składający się z pięciu bezpłatnych, dwudniowych szkoleń. To propozycja dla najmocniej zaangażowanych uczestników szkoleń otwartych/zamkniętych. Wybrane tematy kursu: Jak wygrywać kampanie obywatelskie?, Jak wykorzystać storytelling?, Jak wykorzystać media społecznościowe?, Jak prowadzić rzecznictwo?, oraz wizyta studyjna w instytucji publicznej (ministerstwo/parlament).
+    7. **Kurs specjalistyczny** składający się z pięciu bezpłatnych, dwudniowych szkoleń. To propozycja dla najmocniej zaangażowanych uczestników szkoleń otwartych/zamkniętych. Wybrane tematy kursu: „Jak wygrywać kampanie obywatelskie?”, „Jak wykorzystać storytelling?”, „Wystąpienia publiczne”, „Jak wykorzystać media społecznościowe?”, „Jak prowadzić rzecznictwo?”, oraz wizyta studyjna w instytucji publicznej (ministerstwo/parlament).
 zglos_sie_na_szkolenie:
   link_do_formularza: https://forms.gle/xDRe14Gok1MWUyYH9
 program_szkolenia:
@@ -87,7 +87,7 @@ zespol:
     - nazwisko: Rafał Górski
       foto: https://res.cloudinary.com/inspro/image/upload/v1589893660/aiso/gorski.jpg
       bio: >
-        społecznik, wojownik, państwowiec. Prawo wykorzystuje w walce o dobro wspólne od 1995 roku. Prezes Instytutu Spraw Obywatelskich. Zaangażowany w kampanie obywatelskie, m.in.: „Tiry na tory”, „Obywatele decydują” i „Wolne od GMO? Chcę wiedzieć!”. Ekspert Centrum Wspierania Rad Pracowników i Centrum KLUCZ (Ośrodek Wsparcia Ekonomii Społecznej). Pomysłodawca „Kuźni Kampanierów”. Publikował felietony na łamach Wprost, Tygodnika Solidarność, Super Expressu, Wszystko Co Najważniejsze. W czasie wolnym kształtuje ciało, umysł i ducha, przygotowując się do „Selekcji” – gry opartej na rekrutacji do jednostek specjalnych typu GROM i SAS.
+        społecznik, wojownik, państwowiec. Prawo wykorzystuje w walce o dobro wspólne od 1995 roku. Prezes Instytutu Spraw Obywatelskich. Zaangażowany w kampanie obywatelskie, m.in.: „Tiry na tory”, „Obywatele decydują” i „Wolne od GMO? Chcę wiedzieć!”. Ekspert Centrum Wspierania Rad Pracowników i Centrum KLUCZ (Ośrodek Wsparcia Ekonomii Społecznej). Pomysłodawca „Kuźni Kampanierów”. Publikował na łamach Magazynu Obywatel, Wprost, Tygodnika Solidarność, Super Expressu, Wszystko Co Najważniejsze. W czasie wolnym kształtuje ciało, umysł i ducha, przygotowując się do „Selekcji” – gry opartej na rekrutacji do jednostek specjalnych typu GROM i SAS.
     - nazwisko: Cezary Miżejewski
       foto: https://res.cloudinary.com/inspro/image/upload/v1589893660/aiso/mizejewski.jpg
       bio: >

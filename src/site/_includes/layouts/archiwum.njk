@@ -4,7 +4,7 @@
     {% for post in pagination.items %}
       <article md:text-2xl max-w-3xl mx-auto my-24 class="sm:text-xl md:text-2xl max-w-3xl mx-auto my-24">
         <time class="text-gray-700 text-lg">{{ post.date | polskadata }}</time>
-        <h2 class="mt-3">{{ post.data.title }}</h2>
+        <h2 class="mt-3">{{ post.data.title | cudzyslowy | sierotki | safe }}</h2>
         {{ post.data.content | cudzyslowy | sierotki | safe }}
       </article>
     {% endfor %}

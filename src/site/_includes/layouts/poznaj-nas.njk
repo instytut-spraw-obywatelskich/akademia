@@ -3,5 +3,5 @@ layout: base
 ---
 {% for item in organizacje %}
   <div class="max-w-lg my-16"><img class="w-full" src="{{ item.logo }}" alt="{{ item.nazwa }}"></div>
-  {{ item.opis | cudzyslowy | sierotki | markdownify | safe }}
+  {{ item.opis | markdownify | safe }}
 {% endfor %}
