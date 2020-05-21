@@ -133,6 +133,7 @@ collections:
             fields:
               - { label: "Nagłówek", name: "naglowek", widget: "string" }
               - { label: "Treść", name: "tresc", widget: "markdown" }
+          - { label: "Treść", name: "body", widget: "markdown" }
       - label: "Poznaj nas"
         name: "poznaj"
         file: "src/site/poznaj-nas.md"
@@ -145,7 +146,8 @@ collections:
             fields:
               - { label: "Nazwa", name: "nazwa", widget: "string" }
               - { label: "Logo", name: "logo", widget: "string" }
-              - { label: "Opis", name: "opis", widget: "markdown" }
+              - { label: "Opis", name: "opis", widget: "markdown" }        
+          - { label: "Treść", name: "body", widget: "markdown" }
   - name: "dzieje"
     label: "Dzieje się"
     folder: "src/site/dzieje-sie"
