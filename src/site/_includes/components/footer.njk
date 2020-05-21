@@ -5,6 +5,9 @@
           <p>ul. Pomorska 40 | 91-408 Łódź</p>
           <p>tel./fax: 42 630 17 49</p>
           <p>e-mail: <a class="underline" href="mailto:akademia@instytut.lodz.pl">akademia@instytut.lodz.pl</a></p>
+          <p class="mt-4"><a href="https://www.facebook.com/instytut.spraw.obywatelskich/"><svg class="inline fill-current mr-2 -mt-1" width="18" height="20"><use xlink:href="#icon-facebook"></use></svg><span class="underline">Facebook</span></a></p>
+          <p><a href="https://twitter.com/InstytutSprawO"><svg class="inline fill-current mr-2 -mt-1" width="19" height="20"><use xlink:href="#icon-twitter"></use></svg><span class="underline">Twitter</a></p>
+          <p><a href="https://www.youtube.com/user/INSPROmedia"><svg class="inline fill-current mr-2 -mt-1" width="20" height="20"><use xlink:href="#icon-youtube"></use></svg><span class="underline">YouTube</a></p>
           <p class="mt-4">NIP: 7251872505| REGON: 473224144 | KRS: 0000191928</p>
           <p>Godziny otwarcia biura: poniedziałek–piątek: 8:00–16:00</p>
           <p>Numer konta: Alior Bank: 26 2490 0005 0000 4530 3441 9579</p>
@@ -15,6 +18,20 @@
         </div>
       </div>
     </footer>
+    <script>
+      function targetBlank() {
+        var wewnetrzny = location.host.replace("www.", "");
+            wewnetrzny = new RegExp(wewnetrzny, "i");              
+        var linki = document.getElementsByTagName('a');
+        for (var i = 0; i < linki.length; i++) {
+          var href = linki[i].host;
+          if( !wewnetrzny.test(href) ) {
+            linki[i].setAttribute('target', '_blank');
+          }
+        }
+      };
+      targetBlank();
+    </script>
     {% if page.url == "/" %}
       <script>
         if (window.netlifyIdentity) {

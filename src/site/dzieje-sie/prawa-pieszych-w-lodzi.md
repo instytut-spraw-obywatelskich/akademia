@@ -23,7 +23,7 @@ Uczestnik szkoleń musi być wydelegowany przez organizację społeczną (m.in. 
 
 Aby zgłosić się na szkolenie należy wypełnić [formularz zgłoszeniowy](https://forms.gle/1j9Ex9JfEXzKHzkH9). Zgłoszenie się na szkolenie nie jest jednoznaczne z potwierdzeniem możliwości uczestnictwa.
 
-Tutaj możesz się zapoznać z [Regulaminem Projektu](https://res.cloudinary.com/inspro/raw/upload/v1589893932/aiso/regulamin.zip) „Akademia Instytutu Spraw Obywatelskich”.
+Tutaj możesz się zapoznać z [Regulaminem Projektu (z załącznikami)](https://res.cloudinary.com/inspro/raw/upload/v1589893932/aiso/regulamin.zip) „Akademia Instytutu Spraw Obywatelskich”.
 
 Poinformujemy Cię o wynikach rekrutacji. Następnie poprosimy Cię o wypełnienie dokumentacji projektowej (podlinkowane pobierz dokumenty udziału w projekcie), podpisania przez osoby uprawnione do reprezentacji i dostarczenia do nas.
 

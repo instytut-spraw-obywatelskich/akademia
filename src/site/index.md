@@ -115,7 +115,7 @@ czego_oczekujemy:
 
     2. Posiadania **dokumentu podpisanego z organizacją delegującą**, np. porozumienia wolontariackiego, umowy cywilno-prawnej, umowy o pracę lub potwierdzenia członkostwa.
 
-    3. Zapoznania się z **[Regulaminem Projektu](https://res.cloudinary.com/inspro/raw/upload/v1589893932/aiso/regulamin.zip)** „Akademia Instytutu Spraw Obywatelskich” i respektowania postanowień tego Dokumentu.
+    3. Zapoznania się z **[Regulaminem Projektu (z załącznikami)](https://res.cloudinary.com/inspro/raw/upload/v1589893932/aiso/regulamin.zip)** „Akademia Instytutu Spraw Obywatelskich” i respektowania postanowień tego Dokumentu.
 
     4. **Wypełnienia dokumentacji** projektowej, podpisania przez osoby uprawnione do reprezentacji i dostarczenia do nas.
 o_projekcie:
@@ -136,9 +136,6 @@ dokumenty:
   tresc: >
     Zapoznaj się z dokumentami potrzebnymi do skorzystania ze wsparcia w projekcie Akademia Instytutu Spraw Obywatelskich:
 
-    * [Regulamin udziału w projekcie](https://res.cloudinary.com/inspro/raw/upload/v1589893932/aiso/regulamin.zip)
 
-    * Dokumenty dla organizacji pozarządowej
-
-    * Dokumenty dla osoby indywidualnej
+    [Pobierz regulamin udziału w projekcie (z załącznikami)](https://res.cloudinary.com/inspro/raw/upload/v1589893932/aiso/regulamin.zip)
 ---
