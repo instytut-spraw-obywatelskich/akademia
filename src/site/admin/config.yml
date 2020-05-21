@@ -17,7 +17,7 @@ collections:
     label: "Strony"
     files:
       - label: "Landing Page"
-        name: "home"
+        name: "index"
         file: "src/site/index.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
@@ -133,9 +133,8 @@ collections:
             fields:
               - { label: "Nagłówek", name: "naglowek", widget: "string" }
               - { label: "Treść", name: "tresc", widget: "markdown" }
-          - { label: "Treść", name: "body", widget: "markdown" }
       - label: "Poznaj nas"
-        name: "poznaj"
+        name: "poznaj-nas"
         file: "src/site/poznaj-nas.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
@@ -146,9 +145,8 @@ collections:
             fields:
               - { label: "Nazwa", name: "nazwa", widget: "string" }
               - { label: "Logo", name: "logo", widget: "string" }
-              - { label: "Opis", name: "opis", widget: "markdown" }        
-          - { label: "Treść", name: "body", widget: "markdown" }
-  - name: "dzieje"
+              - { label: "Opis", name: "opis", widget: "markdown" }
+  - name: "dzieje-sie"
     label: "Dzieje się"
     folder: "src/site/dzieje-sie"
     create: true
