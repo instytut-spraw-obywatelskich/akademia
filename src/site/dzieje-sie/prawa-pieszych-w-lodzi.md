@@ -1,18 +1,18 @@
 ---
 title: Prawa pieszych w Łodzi
-date: 2020-05-19
+date: 2020-05-19T00:00:00.000Z
 zajawka: >
-  Zapraszamy na bezpłatne, dwudniowe szkolenie zamknięte w ramach Akadamii Instytut Spraw Obywatelskich, które będzie poświęcone tematyce praw pieszych.
+  Zapraszamy na bezpłatne, dwudniowe szkolenie zamknięte w ramach Akadamii
+  Instytut Spraw Obywatelskich, które będzie poświęcone tematyce praw pieszych.
 ---
-
 **Zapraszamy na bezpłatne, dwudniowe szkolenie zamknięte w ramach Akadamii Instytut Spraw Obywatelskich, które będzie poświęcone tematyce praw pieszych.**
 
 Zapraszamy do udziału społeczników zajmujących się tematyką praw pieszych i zrównoważonego transportu. Przez dwa czerwcowe dni zdobędziecie wiedzę, umiejętności i narzędzia przydatne w walce o prawa pieszych. To również okazja do zbudowania sieci kontaktów z innymi aktywistami. Szkolenie organizowane jest w Łodzi.
 
 Zobacz [program szkolenia zamkniętego „Wykorzystaj prawo w walce o prawa pieszych”](https://res.cloudinary.com/inspro/image/upload/v1589957196/aiso/aiso-instytut-piesza-polska.pdf).
 
-**Kiedy: 20–21.06.2020**  
-**Gdzie: Łódź**  
+**Kiedy: 27–28.06.2020**\
+**Gdzie: Łódź**\
 **Prowadzący: Rafał Górski**
 
 ### Kto może wziąć udział w szkoleniu?
@@ -33,4 +33,4 @@ Poinformujemy Cię o wynikach rekrutacji. Następnie poprosimy Cię o wypełnien
 
 ### Masz pytania?
 
-Napisz <akademia@instytut.lodz.pl> lub zadzwoń 42 630 17 49, 519 300 647.
+Napisz [akademia@instytut.lodz.pl](mailto:akademia@instytut.lodz.pl) lub zadzwoń 42 630 17 49, 519 300 647.
