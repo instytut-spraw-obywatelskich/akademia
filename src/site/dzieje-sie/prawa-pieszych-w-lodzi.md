@@ -5,6 +5,8 @@ zajawka: >
   Zapraszamy na bezpłatne, dwudniowe szkolenie zamknięte w ramach Akadamii
   Instytut Spraw Obywatelskich, które będzie poświęcone tematyce praw pieszych.
 ---
+![Konferencja dot. założenia Federacji Piesza Polska](https://res.cloudinary.com/inspro/image/upload/v1590070769/aiso/konferencja-dot-zalozenia-federacji-piesza-polska.jpg)
+
 **Zapraszamy na bezpłatne, dwudniowe szkolenie zamknięte w ramach Akadamii Instytut Spraw Obywatelskich, które będzie poświęcone tematyce praw pieszych.**
 
 Zapraszamy do udziału społeczników zajmujących się tematyką praw pieszych i zrównoważonego transportu. Przez dwa czerwcowe dni zdobędziecie wiedzę, umiejętności i narzędzia przydatne w walce o prawa pieszych. To również okazja do zbudowania sieci kontaktów z innymi aktywistami. Szkolenie organizowane jest w Łodzi.
