@@ -21,6 +21,8 @@ co_dajemy:
     6. **Poradnik „Kuźnia Kampanierów 3”**, o tym, jak wygrywać kampanie obywatelskie.
 
     7. **Kurs specjalistyczny** składający się z pięciu bezpłatnych, dwudniowych szkoleń. To propozycja dla najmocniej zaangażowanych uczestników szkoleń otwartych/zamkniętych. Wybrane tematy kursu: „Jak wygrywać kampanie obywatelskie?”, „Jak wykorzystać storytelling?”, „Wystąpienia publiczne”, „Jak wykorzystać media społecznościowe?”, „Jak prowadzić rzecznictwo?”, oraz wizyta studyjna w instytucji publicznej (ministerstwo/parlament).
+
+    8. Zainteresowani uczestnicy po szkoleniach będę objęci **doradztwem specjalistycznym** (prawnym, marketingowym, podatkowym etc.). Konsultacje dopasowane będą do indywidualnych potrzeb uczestników w formie osobistej / e-mailowej / telefonicznej / za pomocą komunikatorów np. Skype, Zoom.
 zglos_sie_na_szkolenie:
   link_do_formularza: https://forms.gle/xDRe14Gok1MWUyYH9
 program_szkolenia:
