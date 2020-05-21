@@ -141,7 +141,7 @@
           {% for item in zespol.trenerzy %}
             <div class="bg-white kratka p-4 pt-6 rounded-lg shadow-lg">
               <h3 class="font-caveat text-4xl text-center mt-0">{{ item.nazwisko }}</h3>
-              <img class="w-48 mx-auto rounded-full border-4 border-white" src="{{ item.foto }}" alt="{{ item.nazwisko }}">
+              <img class="w-48 mx-auto my-6 rounded-full border-4 border-white" src="{{ item.foto }}" alt="{{ item.nazwisko }}">
               {{ item.bio | markdownify | cudzyslowy | sierotki | safe }}
             </div>
           {% endfor %}
@@ -153,7 +153,7 @@
         <h2 id="kontakt">Skontaktuj się</h2>
         <div class="flex flex-col md:flex-row-reverse md:items-end md:justify-end">    
           <div class="md:w-1/3 lg:w-5/12 flex justify-end md:justify-center">
-            <img class="w-64 md:w-full lg:w-10/12 xl:w-8/12 mr-8 lg:mr-0 md:mr-0" src="{{ kontakt.foto }}" alt="Zdjęcie osoby do kontaktu">
+            <img class="w-64 md:w-full lg:w-10/12 xl:w-8/12 mr-8 lg:mr-0 md:mr-0 my-0" src="{{ kontakt.foto }}" alt="Zdjęcie osoby do kontaktu">
           </div>
           <div class="md:w-2/3 lg:w-7/12 md:pb-16">
             <div class="text-lg sm:text-xl lg:text-2xl kratka bg-white px-3 py-4 xs:py-8 xs:px-8 pt-4 rounded-lg shadow-md">
@@ -209,8 +209,8 @@
             </div>
           </div>
           <div class="hidden lg:w-1/4 lg:flex lg:flex-col lg:items-center lg:ml-16">
-            <img src="/img/logo-iso.svg" alt="Instytut Spraw Obywatelskich – logo">
-            <img class="mt-20" src="/img/logo-wrzos.svg" alt="Instytut Spraw Obywatelskich – logo">
+            <img class="mt-4 mb-0" src="/img/logo-iso.svg" alt="Instytut Spraw Obywatelskich – logo">
+            <img class="mt-20 mb-0" src="/img/logo-wrzos.svg" alt="Instytut Spraw Obywatelskich – logo">
           </div>
         </div>
       </div>
