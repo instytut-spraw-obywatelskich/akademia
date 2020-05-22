@@ -18,6 +18,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addFilter("polskadata", require("./src/utils/polskadata.js") );
   eleventyConfig.addFilter("cudzyslowy", require("./src/utils/cudzyslowy.js") );
   eleventyConfig.addFilter("sierotki", require("./src/utils/sierotki.js") );
+  eleventyConfig.addFilter("obfuscate", require("./src/utils/obfuscate.js") );
   eleventyConfig.addFilter("markdownify", require("./src/utils/markdownify.js") );
 
   eleventyConfig.addFilter("jsmin", require("./src/utils/minify-js.js") );
@@ -25,6 +26,10 @@ module.exports = function(eleventyConfig) {
   if (process.env.NODE_ENV == "production") {
     eleventyConfig.addTransform("htmlmin", require("./src/utils/minify-html.js") );
   }
+
+  eleventyConfig.addShortcode("email", function() {
+    return `<a href="mailto:&#97;&#107;a&#100;&#101;&#109;i&#97;&#64;&#105;nstyt&#117;&#116;.&#108;&#111;&#100;&#122;.pl">&#97;&#107;a&#100;&#101;&#109;i&#97;&#64;&#105;nstyt&#117;&#116;.&#108;&#111;&#100;&#122;.pl</a>`;
+  });
 
   // Static assets to pass through
   eleventyConfig.addPassthroughCopy("./src/site/fonts");

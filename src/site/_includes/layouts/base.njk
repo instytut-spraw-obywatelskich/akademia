@@ -2,7 +2,7 @@
 {% include "components/header.njk" %}
   <main class="px-3">
     <article class="sm:text-xl md:text-2xl max-w-3xl mx-auto my-24">
-      {{ content | cudzyslowy | sierotki | safe }}
+      {{ content | cudzyslowy | sierotki | obfuscate | safe }}
     </article>
   </main>
 {% include "components/footer.njk" %}

@@ -101,7 +101,7 @@ zespol:
 kontakt:
   z_kim: Martą Stępniak
   foto: https://res.cloudinary.com/inspro/image/upload/v1589893660/aiso/marta-stepniak.jpg
-  email: akademia@instytut.lodz.pl
+  email: "&#97;&#107;a&#100;&#101;&#109;i&#97;&#64;&#105;nstyt&#117;&#116;.&#108;&#111;&#100;&#122;.pl"
   tel_stacjonarny: 42 630 17 49
   tel_komorkowy: 519 300 647
 co_mowia_inni:

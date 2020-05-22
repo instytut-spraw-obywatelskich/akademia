@@ -167,7 +167,7 @@
               {% endif %}
               {% if kontakt.email %}
                 <h3 class="my-3">Napisz</h3>
-                <p class="my-0"><svg class="inline w-6 sm:w-8 md:w-10 h-6 sm:h-8 md:h-10 m-1 text-blue-800 fill-current"><use xlink:href="#icon-email"></use></svg> <a href="mailto:{{ kontakt.email }}">{{ kontakt.email }}</a></p>
+                <p class="my-0"><svg class="inline w-6 sm:w-8 md:w-10 h-6 sm:h-8 md:h-10 m-1 text-blue-800 fill-current"><use xlink:href="#icon-email"></use></svg> <a href="mailto:{{ kontakt.email | safe }}">{{ kontakt.email | safe }}</a></p>
               {% endif %}
             </div>
           </div>

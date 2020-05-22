@@ -36,4 +36,4 @@ Poinformujemy Cię o wynikach rekrutacji. Następnie poprosimy Cię o wypełnien
 
 ### Masz pytania?
 
-Napisz [akademia@instytut.lodz.pl](mailto:akademia@instytut.lodz.pl) lub zadzwoń 42 630 17 49, 519 300 647.
+Napisz {% email %} lub zadzwoń 42 630 17 49, 519 300 647.
