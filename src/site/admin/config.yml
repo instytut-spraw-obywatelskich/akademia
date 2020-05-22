@@ -154,6 +154,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "date" }
       - { label: "Zajawka", name: "zajawka", widget: "markdown" }
+      - { label: "Link obrazka", name: "obrazek_wyrozniajacy", widget: "string", required: false }
       - { label: "Treść", name: "body", widget: "markdown" }
   - name: "polecamy"
     label: "Polecamy"
@@ -163,4 +164,5 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "date" }
       - { label: "Zajawka", name: "zajawka", widget: "markdown" }
+      - { label: "Link obrazka", name: "obrazek_wyrozniajacy", widget: "string", required: false }
       - { label: "Treść", name: "body", widget: "markdown" }

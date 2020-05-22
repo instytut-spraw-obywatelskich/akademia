@@ -4,6 +4,7 @@ date: 2020-05-19T00:00:00.000Z
 zajawka: >
   Zapraszamy na bezpłatne, dwudniowe szkolenie zamknięte w ramach Akadamii
   Instytut Spraw Obywatelskich, które będzie poświęcone tematyce praw pieszych.
+obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1590070769/aiso/konferencja-dot-zalozenia-federacji-piesza-polska.jpg
 ---
 ![Konferencja dot. założenia Federacji Piesza Polska](https://res.cloudinary.com/inspro/image/upload/v1590070769/aiso/konferencja-dot-zalozenia-federacji-piesza-polska.jpg)
 

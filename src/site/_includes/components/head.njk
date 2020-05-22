@@ -5,7 +5,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/css/styles.css">
     <title>{{ title }}</title>
-    {% if page.url == "/" %}
-      <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-    {% endif %}
+    <meta name="description" content="{%- if zajawka -%}{{ zajawka }}{%- else -%}{{ ustawienia.opis_strony }}{%- endif -%}">
+    <link rel="icon" href="/img/favicon32.png" sizes="32x32">
+    <link rel="icon" href="/img/favicon192.png" sizes="192x192">
+    <link rel="apple-touch-icon-precomposed" href="/img/favicon180.png">
+    <meta name="msapplication-TileImage" content="/img/favicon270.png">
+    <meta property="og:url" content="{{ ustawienia.domena }}{{ page.url }}">
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@InstytutSprawO" />
+    <meta name="twitter:creator" content="@InstytutSprawO" />
+    <meta property="og:title" content="{{ title }}">
+    <meta property="og:description" content="{%- if zajawka -%}{{ zajawka }}{%- else -%}{{ ustawienia.opis_strony }}{%- endif -%}">
+    <meta property="og:image" content="{%- if obrazek_wyrozniajacy -%}{{ obrazek_wyrozniajacy }}{%- else -%}{{ ustawienia.obrazek_wyrozniajacy }}{%- endif -%}">
+    <meta property="og:type" content="{%- if og_type -%}{{ og_type }}{%- else -%}website{%- endif -%}">
+    <meta property="og:locale" content="pl_PL">    
+    {% if page.url == "/" -%}
+      <script src="https://identity.netlify.com/v1/netlify-identity-widget.js" async></script>
+    {%- endif %}
   </head>
