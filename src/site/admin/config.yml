@@ -54,7 +54,7 @@ collections:
                     widget: "list"
                     fields:
                       - { label: "Tytuł", name: "tytul", widget: "string" }
-                      - { label: "Opis", name: "opis", widget: "markdown" }
+                      - { label: "Opis", name: "opis", widget: "markdown", required: false }
                       - { label: "Czas", name: "czas", widget: "number" }
           - label: "Metody pracy"
             name: "metody_pracy"
