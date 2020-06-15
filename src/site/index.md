@@ -4,11 +4,17 @@ layout: home
 kogo_zapraszamy:
   naglowek: Kogo zapraszamy?
   tresc: >
-    **Społeczników**, którzy w działaniach swoich organizacji pozarządowych wykorzystują lub chcą wykorzystywać prawo jako „narzędzie” do zmiany społecznej. Mile widziana pasja społecznikowska, odwaga i poczucie humoru. Nie wymagamy studiów prawniczych :-)
+    **Społeczników**, którzy w działaniach swoich organizacji pozarządowych
+    wykorzystują lub chcą wykorzystywać prawo jako „narzędzie” do zmiany
+    społecznej. Mile widziana pasja społecznikowska, odwaga i poczucie humoru.
+    Nie wymagamy studiów prawniczych :-)
 co_dajemy:
   naglowek: Co dajemy?
   tresc: >
-    1. **Bezpłatne, dwudniowe szkolenie otwarte** dla społeczników z organizacji zajmujących się różnymi tematami, np.: prawa pieszych, rolnictwo ekologiczne, 5G, spalarnie śmieci, kolej, ekonomia społeczna, smog, prawo pracy, dzika przyroda, ochrona drzew itp.
+    1. **Bezpłatne, dwudniowe szkolenie otwarte** dla społeczników z organizacji
+    zajmujących się różnymi tematami, np.: prawa pieszych, rolnictwo
+    ekologiczne, 5G, spalarnie śmieci, kolej, ekonomia społeczna, smog, prawo
+    pracy, dzika przyroda, ochrona drzew itp.
 
     2. **Bezpłatne, dwudniowe szkolenie zamknięte** dla społeczników z koalicji organizacji, która zajmuje się jednym tematem, np. Federacja Piesza Polska, Koalicja Żywa Ziemia, Kongres Ruchów Miejskich. Program szkolenia będzie dostosowany do potrzeb koalicji.
 
@@ -34,10 +40,11 @@ program_szkolenia:
           opis: poznajmy się
           czas: 1
         - tytul: Jak wykorzystać prawo krajowe?
-          opis: proces legislacyjny, m.in. ustawa rządowa, ustawa poselska, obywatelska inicjatywa ustawodawcza, prawo do petycji
+          opis: proces legislacyjny, m.in. ustawa rządowa, ustawa poselska, obywatelska
+            inicjatywa ustawodawcza, prawo do petycji
           czas: 4
         - tytul: Jak wykorzystać prawo UE?
-          opis: 
+          opis: null
           czas: 1
         - tytul: Gra „Twoje Prawo”
           opis: >
@@ -46,11 +53,14 @@ program_szkolenia:
     - dzien: drugi
       warsztaty:
         - tytul: Jak wykorzystać prawo samorządowe?
-          opis: "proces zmiany prawa: dostęp do informacji publicznej, konsultacje społeczne, obywatelska inicjatywa uchwałodawcza, panel obywatelski, referendum lokalne"
+          opis: "proces zmiany prawa: dostęp do informacji publicznej, konsultacje
+            społeczne, obywatelska inicjatywa uchwałodawcza, panel obywatelski,
+            referendum lokalne"
           czas: 3
         - tytul: Wybrane narzędzia zmiany
           opis: >
-            * Poradnik „Obywatelska Analiza Prawa – monitoring, narzędzia, model obywatelskiej oceny skutków regulacji”
+            * Poradnik „Obywatelska Analiza Prawa – monitoring, narzędzia, model
+            obywatelskiej oceny skutków regulacji”
 
             * Obywatelska Analiza Skutków Regulacji Prawnych
 
@@ -67,7 +77,8 @@ program_szkolenia:
 metody_pracy:
   naglowek: Metody pracy
   tresc: >
-    Przez 80% czasu szkolenia uczymy się przez doświadczenie (Cykl Kolba). Wykorzystujemy metody warsztatowe, dyskusyjne, coachingowe i gry.
+    Przez 80% czasu szkolenia uczymy się przez doświadczenie (Cykl Kolba).
+    Wykorzystujemy metody warsztatowe, dyskusyjne, coachingowe i gry.
   co_otrzymuje:
     - naglowek: W ramach szkolenia uczestnik otrzymuje
       podpunkty:
@@ -89,31 +100,69 @@ zespol:
     - nazwisko: Rafał Górski
       foto: https://res.cloudinary.com/inspro/image/upload/v1589893660/aiso/gorski.jpg
       bio: >
-        społecznik, wojownik, państwowiec. Prawo wykorzystuje w walce o dobro wspólne od 1995 roku. Prezes Instytutu Spraw Obywatelskich. Zaangażowany w kampanie obywatelskie, m.in.: „Tiry na tory”, „Obywatele decydują” i „Wolne od GMO? Chcę wiedzieć!”. Ekspert Centrum Wspierania Rad Pracowników i Centrum KLUCZ (Ośrodek Wsparcia Ekonomii Społecznej). Pomysłodawca „Kuźni Kampanierów”. Publikował na łamach Magazynu Obywatel, Wprost, Tygodnika Solidarność, Super Expressu, Wszystko Co Najważniejsze. W czasie wolnym kształtuje ciało, umysł i ducha, przygotowując się do „Selekcji” – gry opartej na rekrutacji do jednostek specjalnych typu GROM i SAS.
+        społecznik, wojownik, państwowiec. Prawo wykorzystuje w walce o dobro
+        wspólne od 1995 roku. Prezes Instytutu Spraw Obywatelskich. Zaangażowany
+        w kampanie obywatelskie, m.in.: „Tiry na tory”, „Obywatele decydują” i
+        „Wolne od GMO? Chcę wiedzieć!”. Ekspert Centrum Wspierania Rad
+        Pracowników i Centrum KLUCZ (Ośrodek Wsparcia Ekonomii Społecznej).
+        Pomysłodawca „Kuźni Kampanierów”. Publikował na łamach Magazynu
+        Obywatel, Wprost, Tygodnika Solidarność, Super Expressu, Wszystko Co
+        Najważniejsze. W czasie wolnym kształtuje ciało, umysł i ducha,
+        przygotowując się do „Selekcji” – gry opartej na rekrutacji do jednostek
+        specjalnych typu GROM i SAS.
     - nazwisko: Cezary Miżejewski
       foto: https://res.cloudinary.com/inspro/image/upload/v1589893660/aiso/mizejewski.jpg
       bio: >
-        spółdzielca socjalny, aktywista społeczny. Działania w organizacjach obywatelskich zaczął w 1981 roku.  Potem kontynuował je w nielegalnych wówczas strukturach związkowych. Od 1990 organizował wsparcie dla bezrobotnych i zajmował się polityka społeczną. Od 1993 do 1997 był posłem na Sejm RP. Od 1997 do 2001 ponownie działał związkowo zakładając organizacje dla pracowników supermarketów, pracowników ochrony, bankowców w OZZZ „Konfederacja Pracy”. Dwukrotnie okupował Ministerstwo Pracy, oraz raz z pielęgniarkami Ministerstwo Zdrowia. Jednocześnie był stałym doradcą sejmowej Komisji Polityki Społecznej. Od 2005 do 2009 urzędnik państwowy w Ministerstwie Pracy i Polityki Społecznej, a następnie Ministerstwie Rozwoju Regionalnego jako doradca, dyrektor, wiceminister i radca ministra. Kieruje Ogólnopolskim Związkiem Rewizyjnym Spółdzielni Socjalnych oraz Wspólnotą Roboczą Związków Organizacji Socjalnych. Współtworzył kilkanaście ustaw, (m.in. o zatrudnieniu socjalnym, spółdzielniach socjalnych, o promocji zatrudnienia) oraz programów i strategii na poziomie krajowym i regionalnym. 
+        spółdzielca socjalny, aktywista społeczny. Działania w organizacjach
+        obywatelskich zaczął w 1981 roku.  Potem kontynuował je w nielegalnych
+        wówczas strukturach związkowych. Od 1990 organizował wsparcie dla
+        bezrobotnych i zajmował się polityka społeczną. Od 1993 do 1997 był
+        posłem na Sejm RP. Od 1997 do 2001 ponownie działał związkowo zakładając
+        organizacje dla pracowników supermarketów, pracowników ochrony,
+        bankowców w OZZZ „Konfederacja Pracy”. Dwukrotnie okupował Ministerstwo
+        Pracy, oraz raz z pielęgniarkami Ministerstwo Zdrowia. Jednocześnie był
+        stałym doradcą sejmowej Komisji Polityki Społecznej. Od 2005 do 2009
+        urzędnik państwowy w Ministerstwie Pracy i Polityki Społecznej, a
+        następnie Ministerstwie Rozwoju Regionalnego jako doradca, dyrektor,
+        wiceminister i radca ministra. Kieruje Ogólnopolskim Związkiem
+        Rewizyjnym Spółdzielni Socjalnych oraz Wspólnotą Roboczą Związków
+        Organizacji Socjalnych. Współtworzył kilkanaście ustaw, (m.in. o
+        zatrudnieniu socjalnym, spółdzielniach socjalnych, o promocji
+        zatrudnienia) oraz programów i strategii na poziomie krajowym i
+        regionalnym. 
     - nazwisko: Konrad Hennig
       foto: https://res.cloudinary.com/inspro/image/upload/v1589893660/aiso/hennig.jpg
       bio: >
-        doktor nauk politycznych, wykładowca akademicki, ekspert w zakresie analizy polityk publicznych. Dyrektor programowy w Forum Prawo dla Rozwoju #Law4Growth, wcześniej m.in. pracownik Centrum Analiz Strategicznych Kancelarii Prezesa Rady Ministrów, ekspert Narodowego Instytutu Samorządu Terytorialnego, naczelnik wydziału w Kancelarii Prezesa Rady Ministrów oraz Kanclerz Wyższej Szkoły Humanistyczno-Ekonomicznej w Sieradzu. Prowadził zajęcia z zakresu nauk politycznych, teorii organizacji oraz bezpieczeństwa wewnętrznego.
+        doktor nauk politycznych, wykładowca akademicki, ekspert w zakresie
+        analizy polityk publicznych. Dyrektor programowy w Forum Prawo dla
+        Rozwoju #Law4Growth, wcześniej m.in. pracownik Centrum Analiz
+        Strategicznych Kancelarii Prezesa Rady Ministrów, ekspert Narodowego
+        Instytutu Samorządu Terytorialnego, naczelnik wydziału w Kancelarii
+        Prezesa Rady Ministrów oraz Kanclerz Wyższej Szkoły
+        Humanistyczno-Ekonomicznej w Sieradzu. Prowadził zajęcia z zakresu nauk
+        politycznych, teorii organizacji oraz bezpieczeństwa wewnętrznego.
 kontakt:
   z_kim: Martą Stępniak
   foto: https://res.cloudinary.com/inspro/image/upload/v1589893660/aiso/marta-stepniak.jpg
-  email: "&#97;&#107;a&#100;&#101;&#109;i&#97;&#64;&#105;nstyt&#117;&#116;.&#108;&#111;&#100;&#122;.pl"
+  email: "&#97;&#107;a&#100;&#101;&#109;i&#97;&#64;&#105;nstyt&#117;&#116;.&#108;\
+    &#111;&#100;&#122;.pl"
   tel_stacjonarny: 42 630 17 49
   tel_komorkowy: 519 300 647
 co_mowia_inni:
   naglowek: Co mówią inni?
   opinie:
-    - co: >
+    - co: |
         Lorem ipsum
       kto: Anna Nowak
 czego_oczekujemy:
   naglowek: Czego oczekujemy?
   tresc: >
-    1. Uczestnik szkoleń musi być **wydelegowany przez organizację** społeczną (m.in. stowarzyszenie, fundacja), która posiada NIP. Jedna organizacja może wydelegować tylko jednego uczestnika. Jest to wymóg sponsora projektu, dzięki któremu udział w szkoleniach, materiały i wyżywienie są bezpłatne. Bezpłatne są również nocleg ze śniadaniem i dojazd dla osób spoza miejscowości, w której szkolenie się odbywa.
+    1. Uczestnik szkoleń musi być **wydelegowany przez organizację** społeczną
+    (m.in. stowarzyszenie, fundacja), która posiada NIP. Jedna organizacja może
+    wydelegować tylko jednego uczestnika. Jest to wymóg sponsora projektu,
+    dzięki któremu udział w szkoleniach, materiały i wyżywienie są bezpłatne.
+    Bezpłatne są również nocleg ze śniadaniem i dojazd dla osób spoza
+    miejscowości, w której szkolenie się odbywa.
 
     2. Posiadania **dokumentu podpisanego z organizacją delegującą**, np. porozumienia wolontariackiego, umowy cywilno-prawnej, umowy o pracę lub potwierdzenia członkostwa.
 
@@ -123,21 +172,29 @@ czego_oczekujemy:
 o_projekcie:
   naglowek: O projekcie
   tresc: >
-    Celem projektu jest objęcie wsparciem 240 przedstawicieli organizacji pozarządowych z Polski oraz podniesienie kompetencji eksperckich u co najmniej 220 z nich w zakresie niezbędnym do prawidłowego udziału w procesie stanowienia prawa, w szczególności z zakresu prawa gospodarczego, ekonomii, prawa pracy, ekonomii przedsiębiorstwa, analizy finansowej.
-    
-    
+    Celem projektu jest objęcie wsparciem 240 przedstawicieli organizacji
+    pozarządowych z Polski oraz podniesienie kompetencji eksperckich u co
+    najmniej 220 z nich w zakresie niezbędnym do prawidłowego udziału w procesie
+    stanowienia prawa, w szczególności z zakresu prawa gospodarczego, ekonomii,
+    prawa pracy, ekonomii przedsiębiorstwa, analizy finansowej.
+
+
     Okres realizacji projektu: 01.03.2020 – 28.02.2022.
-    
-    
+
+
     Projekt realizowany jest przez [Instytut Spraw Obywatelskich](https://instytutsprawobywatelskich.pl/) w partnerstwie z [Wspólnotą Roboczą Związków Organizacji Socjalnych WRZOS](http://www.wrzos.org.pl/).
-    
-    
+
+
     Wartość projektu wynosi 991.652,50 zł, w tym wkład Funduszy Europejskich wynosi 835.764,23 zł.
 dokumenty:
   naglowek: Dokumenty do pobrania
-  tresc: >
-    Zapoznaj się z dokumentami potrzebnymi do skorzystania ze wsparcia w projekcie Akademia Instytutu Spraw Obywatelskich:
+  tresc: >-
+    Zapoznaj się z dokumentami potrzebnymi do skorzystania ze wsparcia w
+    projekcie Akademia Instytutu Spraw Obywatelskich:
 
 
     [Pobierz regulamin udziału w projekcie (z załącznikami)](https://res.cloudinary.com/inspro/raw/upload/v1589893932/aiso/regulamin.zip)
+
+
+    [Dokumenty przystąpienia do projektu dla uczestników](https://res.cloudinary.com/inspro/raw/upload/v1591953968/aiso/dokumenty_przystapienia_do_projektu.zip)
 ---
