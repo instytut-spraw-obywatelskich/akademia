@@ -156,7 +156,7 @@ co_mowia_inni:
       kto: Anna Nowak
 czego_oczekujemy:
   naglowek: Czego oczekujemy?
-  tresc: >
+  tresc: >-
     1. Uczestnik szkoleń musi być **wydelegowany przez organizację** społeczną
     (m.in. stowarzyszenie, fundacja), która posiada NIP. Jedna organizacja może
     wydelegować tylko jednego uczestnika. Jest to wymóg sponsora projektu,
@@ -168,7 +168,7 @@ czego_oczekujemy:
 
     3. Zapoznania się z **[Regulaminem Projektu (z załącznikami)](https://res.cloudinary.com/inspro/raw/upload/v1589893932/aiso/regulamin.zip)** „Akademia Instytutu Spraw Obywatelskich” i respektowania postanowień tego Dokumentu.
 
-    4. **Wypełnienia dokumentacji** projektowej, podpisania przez osoby uprawnione do reprezentacji i dostarczenia do nas.
+    4. **Wypełnienia** [**dokumentacji** **projektowej**](https://res.cloudinary.com/inspro/raw/upload/v1592220625/aiso/dokumenty_przystapienia_do_projektu.zip), podpisania przez osoby uprawnione do reprezentacji i dostarczenia do nas.
 o_projekcie:
   naglowek: O projekcie
   tresc: >
