@@ -196,5 +196,5 @@ dokumenty:
     [Pobierz regulamin udziału w projekcie (z załącznikami)](https://res.cloudinary.com/inspro/raw/upload/v1589893932/aiso/regulamin.zip)
 
 
-    [Dokumenty przystąpienia do projektu dla uczestników](https://res.cloudinary.com/inspro/raw/upload/v1591953968/aiso/dokumenty_przystapienia_do_projektu.zip)
+    [](https://res.cloudinary.com/inspro/raw/upload/v1591953968/aiso/dokumenty_przystapienia_do_projektu.zip)[Dokumenty przystąpienia do projektu dla uczestników](https://res.cloudinary.com/inspro/raw/upload/v1592220625/aiso/dokumenty_przystapienia_do_projektu.zip)
 ---
