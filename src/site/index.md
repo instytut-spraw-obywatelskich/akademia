@@ -169,6 +169,8 @@ czego_oczekujemy:
     3. Zapoznania się z **[Regulaminem Projektu (z załącznikami)](https://res.cloudinary.com/inspro/raw/upload/v1589893932/aiso/regulamin.zip)** „Akademia Instytutu Spraw Obywatelskich” i respektowania postanowień tego Dokumentu.
 
     4. **Wypełnienia** [**dokumentacji** **projektowej**](https://res.cloudinary.com/inspro/raw/upload/v1592220625/aiso/dokumenty_przystapienia_do_projektu.zip), podpisania przez osoby uprawnione do reprezentacji i dostarczenia do nas.
+
+       [**ZGŁOŚ SIĘ NA SZKOLENIE** ](https://forms.gle/LBcrGyPXXtCBD3d68)(formularz dotyczy wszystkich szkoleń, zarówno otwartych jak i zamkniętych)
 o_projekcie:
   naglowek: O projekcie
   tresc: >
