@@ -12,7 +12,7 @@ obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1590070769
 
 Zapraszamy do udziału społeczników zajmujących się tematyką praw pieszych i zrównoważonego transportu. Przez dwa czerwcowe dni zdobędziecie wiedzę, umiejętności i narzędzia przydatne w walce o prawa pieszych. To również okazja do zbudowania sieci kontaktów z innymi aktywistami. Szkolenie organizowane jest w Łodzi.
 
-Zobacz [program szkolenia zamkniętego „Wykorzystaj prawo w walce o prawa pieszych”](https://res.cloudinary.com/inspro/image/upload/v1590057160/aiso/aiso-instytut-piesza-polska.pdf).
+Zobacz szczegółowy folder z [programem szkolenia zamkniętego „Wykorzystaj prawo w walce o prawa pieszych”](https://res.cloudinary.com/inspro/image/upload/v1590057160/aiso/aiso-instytut-piesza-polska.pdf).
 
 **Kiedy: 27–28.06.2020**\
 **Gdzie: Łódź**\
