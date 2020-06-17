@@ -1,5 +1,5 @@
 ---
-title: Zgłoś się do Akademii Instytut Spraw Obywatelskich! Zapraszamy
+title: Zgłoś się do Akademii Instytutu Spraw Obywatelskich! Zapraszamy
 date: 2020-06-16T12:50:41.008Z
 zajawka: Chcesz walczyć o sprawy ważne dla Ciebie, Twojej organizacji czy
   społeczności, w której działasz? Przyjdź. Pokażemy Ci, jak to zrobić.
