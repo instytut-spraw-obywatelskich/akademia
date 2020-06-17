@@ -2,19 +2,14 @@
 title: Zgłoś się do Akademii Instytut Spraw Obywatelskich! Zapraszamy
 date: 2020-06-16T12:50:41.008Z
 zajawka: >-
-  <!--StartFragment-->
-
-
-  Chcesz walczyć o sprawy ważne dla Ciebie, Twojej organizacji czy społeczności, w której działasz? Przyjdź. Pokażemy Ci, jak to zrobić.
+  Chcesz walczyć o sprawy ważne dla Ciebie, Twojej organizacji czy społeczności,
+  w której działasz? Przyjdź. Pokażemy Ci, jak to zrobić.
 
 
   Na dachu budynku, w którym mieszkacie, operator telefoniczny chce zainstalować nadajnik, a Wy nie wiecie jak go powstrzymać? Nie chcecie spalarni śmieci w swoim miasteczku? Miejscowe władze nie skonsultowały z mieszkańcami planów zabudowy terenu ważnego dla lokalnej społeczności? Masz dość wycinki drzew w okolicy i betonowania kolejnych przestrzeni miejskich… 
 
 
   W grupie zawsze łatwiej walczyć z przeciwnościami. Dlatego jeśli należysz do organizacji społecznej (stowarzyszenia, fundacji), koalicji organizacji – zgłoś się do Akademii Instytutu Spraw Obywatelskich. Wyposażymy Cię w narzędzia przydatne do walki o ważne dla Ciebie sprawy
-
-
-  <!--EndFragment-->
 obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1592311932/aiso/anger-2728273_1920.jpg
 ---
 W jaki sposób to robimy?
