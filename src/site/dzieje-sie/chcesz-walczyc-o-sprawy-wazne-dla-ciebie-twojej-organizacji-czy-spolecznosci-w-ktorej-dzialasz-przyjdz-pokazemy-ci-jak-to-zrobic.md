@@ -13,6 +13,8 @@ Na dachu budynku, w którym mieszkacie, operator telefoniczny chce zainstalować
 
 W grupie zawsze łatwiej walczyć z przeciwnościami. Dlatego jeśli należysz do organizacji społecznej (stowarzyszenia, fundacji), koalicji organizacji – zgłoś się do Akademii Instytutu Spraw Obywatelskich. Wyposażymy Cię w narzędzia przydatne do walki o ważne dla Ciebie sprawy.
 
+![](https://res.cloudinary.com/inspro/image/upload/v1592311932/aiso/anger-2728273_1920.jpg)
+
 W jaki sposób to robimy?
 
 W trakcie dwudniowego szkolenia zajmiemy się tematem, który Cię interesuje. Zapewniamy fachową wiedzę doświadczonych trenerów, materiały szkoleniowe, przerwy kawowe i obiad, a dla osób spoza miejscowości, w której odbywa się szkolenie, zorganizujemy nocleg ze śniadaniem i możliwość zwrotu kosztów dojazdu.
