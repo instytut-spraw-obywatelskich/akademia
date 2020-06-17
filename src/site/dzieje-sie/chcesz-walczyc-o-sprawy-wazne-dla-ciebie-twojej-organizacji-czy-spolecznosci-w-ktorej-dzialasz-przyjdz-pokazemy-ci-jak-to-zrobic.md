@@ -7,7 +7,7 @@ zajawka: >-
 
 
   ![]()
-obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1592311932/aiso/anger-2728273_1920.jpg
+obrazek_wyrozniajacy: ""
 ---
 
 
