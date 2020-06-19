@@ -173,7 +173,7 @@ czego_oczekujemy:
        [**ZGŁOŚ SIĘ NA SZKOLENIE** ](https://forms.gle/LBcrGyPXXtCBD3d68)(formularz dotyczy wszystkich szkoleń, zarówno otwartych jak i zamkniętych)
 o_projekcie:
   naglowek: O projekcie
-  tresc: >
+  tresc: >-
     Celem projektu jest objęcie wsparciem 240 przedstawicieli organizacji
     pozarządowych z Polski oraz podniesienie kompetencji eksperckich u co
     najmniej 220 z nich w zakresie niezbędnym do prawidłowego udziału w procesie
@@ -184,10 +184,19 @@ o_projekcie:
     Okres realizacji projektu: 01.03.2020 – 28.02.2022.
 
 
-    Projekt realizowany jest przez [Instytut Spraw Obywatelskich](https://instytutsprawobywatelskich.pl/) w partnerstwie z [Wspólnotą Roboczą Związków Organizacji Socjalnych WRZOS](http://www.wrzos.org.pl/).
+    Obszar realizacji projektu: cała Polska
+
+
+    Instytucja Pośrednicząca: Kancelaria Prezesa Rady Ministrów
+
+
+    Projekt realizowany jest przez [Instytut Spraw Obywatelskich](https://instytutsprawobywatelskich.pl/) w partnerstwie z [Wspólnotą Roboczą Związków Organizacji Socjalnych WRZOS](http://www.wrzos.org.pl/). 
 
 
     Wartość projektu wynosi 991.652,50 zł, w tym wkład Funduszy Europejskich wynosi 835.764,23 zł.
+
+
+    Projekt realizowany jest z Programu Operacyjnego Wiedza Edukacja Rozwój 2014-2020.
 dokumenty:
   naglowek: Dokumenty do pobrania
   tresc: >-
@@ -199,4 +208,7 @@ dokumenty:
 
 
     [](https://res.cloudinary.com/inspro/raw/upload/v1591953968/aiso/dokumenty_przystapienia_do_projektu.zip)[Dokumenty przystąpienia do projektu dla uczestników](https://res.cloudinary.com/inspro/raw/upload/v1592220625/aiso/dokumenty_przystapienia_do_projektu.zip)
+
+
+    [](https://res.cloudinary.com/inspro/image/upload/v1592313085/aiso/harmonogram_dzia%C5%82a%C5%84.pdf)[Harmonogram działań (udzielania wsparcia)](https://res.cloudinary.com/inspro/image/upload/v1592313085/aiso/harmonogram_dzia%C5%82a%C5%84.pdf)
 ---
