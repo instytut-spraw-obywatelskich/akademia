@@ -17,7 +17,9 @@ W grupie zawsze łatwiej walczyć z przeciwnościami. Dlatego jeśli należysz d
 
 W trakcie dwudniowego szkolenia zajmiemy się tematem, który Cię interesuje. Zapewniamy fachową wiedzę doświadczonych trenerów, materiały szkoleniowe, przerwy kawowe i obiad, a dla osób spoza miejscowości, w której odbywa się szkolenie, zorganizujemy nocleg ze śniadaniem i możliwość zwrotu kosztów dojazdu.
 
-Szkolenia są bezpłatne.
+**Szkolenia są bezpłatne.**
+
+Z myślą o bezpieczeństwie uczestnikówpodjęliśmy kompleksowe działania, aby szkolenie w sali było możliwe. Zastosowane przez nas rozwiązania, zostały przygotowane na bazie wytycznych [Ministerstwa Rozwoju.](https://www.gov.pl/web/rozwoj/spotkania-biznesowe-szkolenia-konferencje-i-kongresy) [](https://link.freshmail.mx/c/ganug79hsj/9r0ldetdvw)
 
 Najbliższe szkolenie organizujemy w Warszawie w terminie 18-19.07.2020. Tematem będzie rolnictwo ekologiczne, bezpieczna żywność, polityka rolna i żywnościowa. 
 
