@@ -34,6 +34,8 @@ Poinformujemy Cię o wynikach rekrutacji. Następnie poprosimy Cię o wypełnien
 
 **Z myślą o bezpieczeństwie uczestników** podjęliśmy kompleksowe działania, aby szkolenie w sali było możliwe. Zastosowane przez nas rozwiązania, zostały przygotowane na bazie [wytycznych Ministerstwa Rozwoju](https://www.gov.pl/web/rozwoj/wytyczne-dla-branz). Są w pełni dostosowane do aktualnego etapu zaawansowania stanu epidemicznego.
 
+**[Wyniki rekrutacji na szkolenie 27-28.06.2020](https://res.cloudinary.com/inspro/image/upload/v1592974687/aiso/lista_uczestnik%C3%B3w_zakwalifikowanych_do_szkolenia_%C5%81%C3%B3d%C5%BA_AISO.pdf)**
+
 ### Masz pytania?
 
 Napisz {% email %} lub zadzwoń 42 630 17 49, 519 300 647.
