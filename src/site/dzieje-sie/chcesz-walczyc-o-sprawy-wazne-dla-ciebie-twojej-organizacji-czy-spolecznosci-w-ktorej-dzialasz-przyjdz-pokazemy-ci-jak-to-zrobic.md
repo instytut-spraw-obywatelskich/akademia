@@ -27,4 +27,4 @@ Najbliższe szkolenie organizujemy w **Warszawie w terminie 18–19.07.2020**. T
 
 Nie pasuje Ci termin lub temat? Napisz do nas {% email %} lub zadzwoń 42 630 17 49, 519 300 647. Niebawem będziemy organizować kolejne szkolenia, możemy poinformować Cię o naborach.
 
-Tutaj możesz sprawdzić [harmonogram szkoleń](https://res.cloudinary.com/inspro/image/upload/v1592313085/aiso/harmonogram_dzia%C5%82a%C5%84.pdf)
+Tutaj możesz sprawdzić [harmonogram szkoleń](https://res.cloudinary.com/inspro/image/upload/v1593081567/aiso/harmonogram_udzielania_wsparcia.pdf)
