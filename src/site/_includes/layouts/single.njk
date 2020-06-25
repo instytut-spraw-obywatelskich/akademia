@@ -4,4 +4,10 @@ og_type: article
 ---
 <time class="text-gray-700 text-lg">{{ date | polskadata }}</time>
 <h2 class="mt-3">{{ title | cudzyslowy | sierotki | safe }}</h2>
+{% if obrazek_wyrozniajacy %}
+  <img src="{{ obrazek_wyrozniajacy }}" alt="{% if obrazek_opis %}{{ obrazek_opis }}{% endif %}">
+{% endif %}
+{% if zajawka %}
+  {{ zajawka | markdownify | cudzyslowy | sierotki | obfuscate | safe }}
+{% endif %}
 {{ content | safe }}
