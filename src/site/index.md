@@ -151,9 +151,18 @@ kontakt:
 co_mowia_inni:
   naglowek: Co mówią inni?
   opinie:
-    - co: |
-        Lorem ipsum
-      kto: Anna Nowak
+    - co: Profesjonalnie przygotowane szkolenie. Bardzo dobrze dostosowane do potrzeb
+        uczestników. Szkolenie dało mi motywację do dalszych działań i poczucie
+        celu. Ugruntowała się też jakaś więź pomiędzy uczestnikami szkolenia.
+        Ważna dla kolejnych działań.
+      kto: Krzysztof Lipka
+    - co: Cenne doświadczenie, które pomaga spojrzeć na zagadnienia z innej
+        perspektywy. Udział w szkoleniu pogłębił moją wiedzę.
+      kto: Paweł Mrozek
+    - co: Szkolenie było rzeczowe i merytoryczne. Porządkujące wiele procesów i spraw
+        polityczno – kuluarowych.  Udział w szkoleniu dał mi wiedzę praktyczną
+        postępowania przy procesach legislacyjnych.
+      kto: Paweł Harlander
 czego_oczekujemy:
   naglowek: Czego oczekujemy?
   tresc: >-
