@@ -160,7 +160,7 @@ co_mowia_inni:
         perspektywy. Udział w szkoleniu pogłębił moją wiedzę.
       kto: Paweł Mrozek
     - co: Szkolenie było rzeczowe i merytoryczne. Porządkujące wiele procesów i spraw
-        polityczno – kuluarowych.  Udział w szkoleniu dał mi wiedzę praktyczną
+        polityczno-kuluarowych. Udział w szkoleniu dał mi wiedzę praktyczną
         postępowania przy procesach legislacyjnych.
       kto: Paweł Harlander
 czego_oczekujemy:
