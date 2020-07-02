@@ -20,10 +20,10 @@ W trakcie dwudniowego szkolenia zajmiemy się tematem, który Cię interesuje. Z
 
 Z myślą o bezpieczeństwie uczestników podjęliśmy kompleksowe działania, aby szkolenie w sali było możliwe. Zastosowane przez nas rozwiązania zostały przygotowane na bazie wytycznych [Ministerstwa Rozwoju](https://www.gov.pl/web/rozwoj/spotkania-biznesowe-szkolenia-konferencje-i-kongresy) [](https://link.freshmail.mx/c/ganug79hsj/9r0ldetdvw).
 
-Najbliższe szkolenie organizujemy w **Warszawie w terminie 18–19.07.2020**. Tematem będzie rolnictwo ekologiczne, bezpieczna żywność, polityka rolna i żywnościowa. 
+Najbliższe szkolenie organizujemy w **Warszawie w terminie 18–19.07.2020**. Jest to **szkolenie zamknięte** dedykowane organizacjom skupionym wokół Koalicji Żywa Ziemia. Tematem będzie rolnictwo ekologiczne, bezpieczna żywność, polityka rolna i żywnościowa. 
 
 [Zapisz się na szkolenie](https://forms.gle/2izWqD5ZPh8PF98d8)
 
-Nie pasuje Ci termin lub temat? Napisz do nas {% email %} lub zadzwoń 42 630 17 49, 519 300 647. Niebawem będziemy organizować kolejne szkolenia, możemy poinformować Cię o naborach.
+Nie pasuje Ci termin lub temat? Chciałbyś/chciałabyś wziąć udział w szkoleniu otwartym? Napisz do nas {% email %} lub zadzwoń 42 630 17 49, 519 300 647. Niebawem będziemy organizować kolejne szkolenia, możemy poinformować Cię o naborach.
 
 Tutaj możesz sprawdzić [harmonogram szkoleń](https://res.cloudinary.com/inspro/image/upload/v1593081567/aiso/harmonogram_udzielania_wsparcia.pdf)
