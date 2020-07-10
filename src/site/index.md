@@ -175,9 +175,9 @@ czego_oczekujemy:
 
     2. Posiadania **dokumentu podpisanego z organizacją delegującą**, np. porozumienia wolontariackiego, umowy cywilno-prawnej, umowy o pracę lub potwierdzenia członkostwa.
 
-    3. Zapoznania się z **[Regulaminem Projektu (z załącznikami)](https://res.cloudinary.com/inspro/raw/upload/v1589893932/aiso/regulamin.zip)** „Akademia Instytutu Spraw Obywatelskich” i respektowania postanowień tego Dokumentu.
+    3. Zapoznania się z **[Regulaminem Projektu (z załącznikami)](https://res.cloudinary.com/inspro/raw/upload/v1594366268/aiso/regulamin_z_za%C5%82%C4%85cznikami.zip)** „Akademia Instytutu Spraw Obywatelskich” i respektowania postanowień tego Dokumentu.
 
-    4. **Wypełnienia** [**dokumentacji** **projektowej**](https://res.cloudinary.com/inspro/raw/upload/v1592220625/aiso/dokumenty_przystapienia_do_projektu.zip), podpisania przez osoby uprawnione do reprezentacji i dostarczenia do nas.
+    4. **Wypełnienia** [**dokumentacji** **projektowej**](https://res.cloudinary.com/inspro/raw/upload/v1594366110/aiso/dokumenty_przystapienia_do_projektu.zip), podpisania przez osoby uprawnione do reprezentacji i dostarczenia do nas.
 
        [**ZGŁOŚ SIĘ NA SZKOLENIE** ](https://forms.gle/LBcrGyPXXtCBD3d68)(formularz dotyczy wszystkich szkoleń, zarówno otwartych jak i zamkniętych)
 o_projekcie:
@@ -213,10 +213,10 @@ dokumenty:
     projekcie Akademia Instytutu Spraw Obywatelskich:
 
 
-    [Pobierz regulamin udziału w projekcie (z załącznikami)](https://res.cloudinary.com/inspro/raw/upload/v1589893932/aiso/regulamin.zip)
+    [Pobierz regulamin udziału w projekcie (z załącznikami)](https://res.cloudinary.com/inspro/raw/upload/v1594366268/aiso/regulamin_z_za%C5%82%C4%85cznikami.zip)
 
 
-    [](https://res.cloudinary.com/inspro/raw/upload/v1591953968/aiso/dokumenty_przystapienia_do_projektu.zip)[Dokumenty przystąpienia do projektu dla uczestników](https://res.cloudinary.com/inspro/raw/upload/v1592220625/aiso/dokumenty_przystapienia_do_projektu.zip)
+    [](https://res.cloudinary.com/inspro/raw/upload/v1591953968/aiso/dokumenty_przystapienia_do_projektu.zip)[Dokumenty przystąpienia do projektu dla uczestników](https://res.cloudinary.com/inspro/raw/upload/v1594366110/aiso/dokumenty_przystapienia_do_projektu.zip)
 
 
     [](https://res.cloudinary.com/inspro/image/upload/v1592313085/aiso/harmonogram_dzia%C5%82a%C5%84.pdf)[Harmonogram działań (udzielania wsparcia)](https://res.cloudinary.com/inspro/image/upload/v1593081567/aiso/harmonogram_udzielania_wsparcia.pdf)
