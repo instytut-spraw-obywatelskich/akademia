@@ -1,5 +1,5 @@
 ---
-title: Sprawdź co u nas mówią
+title: Sprawdź co o nas mówią
 date: 2020-07-17T05:04:45.967Z
 zajawka: Dzielimy się wiedzą, umiejętnościami i narzędziami. Współpracujemy z
   ekspertami i pokazujemy jak wpływać na decyzje rządzących.
