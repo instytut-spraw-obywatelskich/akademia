@@ -222,5 +222,5 @@ dokumenty:
     [](https://res.cloudinary.com/inspro/image/upload/v1592313085/aiso/harmonogram_dzia%C5%82a%C5%84.pdf)[Harmonogram działań (udzielania wsparcia)](https://res.cloudinary.com/inspro/image/upload/v1594708058/aiso/harmonogram_udzielania_wsparcia.pdf)
 
 
-    [Lista zakwalifikowanych uczestników](https://res.cloudinary.com/inspro/image/upload/v1594629010/aiso/lista_uczestnik%C3%B3w_zakwalifikowanych_do_szkole%C5%84.pdf)
+    [Lista zakwalifikowanych uczestników](https://res.cloudinary.com/inspro/image/upload/v1595069308/aiso/lista_uczestnik%C3%B3w_zakwalifikowanych_do_szkole%C5%84_AISO.pdf)
 ---
