@@ -10,11 +10,12 @@ kogo_zapraszamy:
     Nie wymagamy studiów prawniczych :-)
 co_dajemy:
   naglowek: Co dajemy?
-  tresc: >
+  tresc: >-
     1. **Bezpłatne, dwudniowe szkolenie otwarte** dla społeczników z organizacji
     zajmujących się różnymi tematami, np.: prawa pieszych, rolnictwo
-    ekologiczne, 5G, spalarnie śmieci, kolej, ekonomia społeczna, smog, prawo
-    pracy, dzika przyroda, ochrona drzew itp.
+    ekologiczne, 5G i elektrosmog, zieleń w mieście, spalarnie śmieci, kolej,
+    ekonomia społeczna, smog, gospodarka wodna, ochrona klimatu, komunikacja
+    rowerowa, prawo pracy, dzika przyroda, ochrona drzew itp.
 
     2. **Bezpłatne, dwudniowe szkolenie zamknięte** dla społeczników z koalicji organizacji, która zajmuje się jednym tematem, np. Federacja Piesza Polska, Koalicja Żywa Ziemia, Kongres Ruchów Miejskich. Program szkolenia będzie dostosowany do potrzeb koalicji.
 
