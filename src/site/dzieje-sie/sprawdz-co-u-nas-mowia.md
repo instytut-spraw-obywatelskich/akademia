@@ -1,5 +1,5 @@
 ---
-title: Sprawdź co mówią o nas uczestnicy szkoleń
+title: Sprawdź, co mówią o nas uczestnicy szkoleń
 date: 2020-07-17T05:04:45.967Z
 zajawka: Dzielimy się wiedzą, umiejętnościami i narzędziami. Współpracujemy z
   ekspertami i pokazujemy jak wpływać na decyzje rządzących.
