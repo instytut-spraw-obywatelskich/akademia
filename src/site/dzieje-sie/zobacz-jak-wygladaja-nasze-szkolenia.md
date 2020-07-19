@@ -1,7 +1,7 @@
 ---
 title: Zobacz jak wyglądają nasze szkolenia
 date: 2020-07-19T09:58:40.930Z
-zajawka: Relacja zdjęciowa
+zajawka: Relacja zdjęciowa ze szkoleń
 obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1595152415/aiso/Zdj%C4%99cia%20szkolenia/IMG_5815.jpg
 ---
 ![](https://res.cloudinary.com/inspro/image/upload/v1595152325/aiso/Zdj%C4%99cia%20szkolenia/27_06_20_2.jpg)
