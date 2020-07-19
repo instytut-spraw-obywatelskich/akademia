@@ -33,7 +33,7 @@ Najbliższe szkolenia:
 
 * szkolenie zamknięte dla Koalicji Rowerowej (Wrocław, sierpień 2020)
 * szkolenie zamknięte dla organizacji skupionych wokół ruchu antyspalarniowego (wrzesień 2020)
-* szkolenie zamkniete dla organizacji prokolejowych (Warszawa, 08-09.10.2020)
+* szkolenie zamknięte dla organizacji prokolejowych (Warszawa, 08-09.10.2020)
 
 **Napisz do nas** 
 
