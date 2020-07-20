@@ -217,10 +217,18 @@ dokumenty:
     [Pobierz regulamin udziału w projekcie (z załącznikami)](https://res.cloudinary.com/inspro/raw/upload/v1594366268/aiso/regulamin_z_za%C5%82%C4%85cznikami.zip)
 
 
-    [](https://res.cloudinary.com/inspro/raw/upload/v1591953968/aiso/dokumenty_przystapienia_do_projektu.zip)[Dokumenty przystąpienia do projektu dla uczestników](https://res.cloudinary.com/inspro/raw/upload/v1594366110/aiso/dokumenty_przystapienia_do_projektu.zip)
+    [Dokumenty przystąpienia do projektu dla uczestników](https://res.cloudinary.com/inspro/raw/upload/v1594366110/aiso/dokumenty_przystapienia_do_projektu.zip)
 
 
-    [](https://res.cloudinary.com/inspro/image/upload/v1592313085/aiso/harmonogram_dzia%C5%82a%C5%84.pdf)[Harmonogram działań (udzielania wsparcia)](https://res.cloudinary.com/inspro/image/upload/v1595142798/aiso/harmonogram_udzielania_wsparcia.pdf)
+    Wypełnione i podpisane dokumenty należy odesłać na adres:
+
+
+    Instytut Spraw Obywatelskich  
+
+    ul. Pomorska 40 | 91-408 Łódź
+
+
+    [Harmonogram działań (udzielania wsparcia)](https://res.cloudinary.com/inspro/image/upload/v1595142798/aiso/harmonogram_udzielania_wsparcia.pdf)
 
 
     [Lista zakwalifikowanych uczestników](https://res.cloudinary.com/inspro/image/upload/v1595069308/aiso/lista_uczestnik%C3%B3w_zakwalifikowanych_do_szkole%C5%84_AISO.pdf)
