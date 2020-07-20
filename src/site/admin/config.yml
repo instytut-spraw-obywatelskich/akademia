@@ -156,6 +156,7 @@ collections:
       - { label: "Zajawka", name: "zajawka", widget: "markdown" }
       - { label: "Link obrazka", name: "obrazek_wyrozniajacy", widget: "string", required: false }
       - { label: "Opis obrazka", name: "obrazek_opis", widget: "string", required: false }
+      - { label: "Podpis obrazka", name: "obrazek_podpis", widget: "string", required: false }
       - { label: "Treść", name: "body", widget: "markdown" }
   - name: "polecamy"
     label: "Polecamy"
@@ -167,4 +168,5 @@ collections:
       - { label: "Zajawka", name: "zajawka", widget: "markdown" }
       - { label: "Link obrazka", name: "obrazek_wyrozniajacy", widget: "string", required: false }
       - { label: "Opis obrazka", name: "obrazek_opis", widget: "string", required: false }
+      - { label: "Podpis obrazka", name: "obrazek_podpis", widget: "string", required: false }
       - { label: "Treść", name: "body", widget: "markdown" }
