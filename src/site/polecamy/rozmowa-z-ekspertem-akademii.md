@@ -7,5 +7,6 @@ zajawka: >-
 
   [Zapraszamy do  lektury](https://instytutsprawobywatelskich.pl/wszyscy-graja-na-krotko/)
 obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1593078960/aiso/Konrad-Hennig_foto_od-KH-1160x652.jpg
-obrazek_opis: Konrad Hennig, fot. archiwum domowe
+obrazek_opis: Portret Konrada Henniga
+obrazek_podpis: Konrad Hennig, fot. archiwum domowe
 ---

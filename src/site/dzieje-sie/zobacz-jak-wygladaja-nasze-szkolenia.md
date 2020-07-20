@@ -2,18 +2,18 @@
 title: Zobacz jak wyglądają nasze szkolenia
 date: 2020-07-19T09:58:40.930Z
 zajawka: Relacja zdjęciowa ze szkoleń
-obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1595154218/aiso/Zdj%C4%99cia%20szkolenia/IMG_5817shar-Sharpened.jpg
+obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1595237161/aiso/Zdj%C4%99cia%20szkolenia/relacja01.jpg
 ---
-![](https://res.cloudinary.com/inspro/image/upload/v1595152325/aiso/Zdj%C4%99cia%20szkolenia/27_06_20_2.jpg)
+![](https://res.cloudinary.com/inspro/image/upload/v1595237161/aiso/Zdj%C4%99cia%20szkolenia/relacja02.jpg)
 
-![](https://res.cloudinary.com/inspro/image/upload/v1595152380/aiso/Zdj%C4%99cia%20szkolenia/2020-07-01_05.24.37_1.jpg)
+![](https://res.cloudinary.com/inspro/image/upload/v1595237161/aiso/Zdj%C4%99cia%20szkolenia/relacja03.jpg)
 
-![](https://res.cloudinary.com/inspro/image/upload/v1595152368/aiso/Zdj%C4%99cia%20szkolenia/2020-07-01_05.24.35_1.jpg)
+![](https://res.cloudinary.com/inspro/image/upload/v1595237161/aiso/Zdj%C4%99cia%20szkolenia/relacja04.jpg)
 
-![](https://res.cloudinary.com/inspro/image/upload/v1595152428/aiso/Zdj%C4%99cia%20szkolenia/IMG_5816.jpg)
+![](https://res.cloudinary.com/inspro/image/upload/v1595237161/aiso/Zdj%C4%99cia%20szkolenia/relacja05.jpg)
 
-![](https://res.cloudinary.com/inspro/image/upload/v1595152407/aiso/Zdj%C4%99cia%20szkolenia/IMG_5813.jpg)
+![](https://res.cloudinary.com/inspro/image/upload/v1595237161/aiso/Zdj%C4%99cia%20szkolenia/relacja06.jpg)
 
-![](https://res.cloudinary.com/inspro/image/upload/v1595152521/aiso/Zdj%C4%99cia%20szkolenia/IMG_5872.jpg)
+![](https://res.cloudinary.com/inspro/image/upload/v1595237161/aiso/Zdj%C4%99cia%20szkolenia/relacja07.jpg)
 
-![](https://res.cloudinary.com/inspro/image/upload/v1595152499/aiso/Zdj%C4%99cia%20szkolenia/IMG_5866.jpg)
+![](https://res.cloudinary.com/inspro/image/upload/v1595237161/aiso/Zdj%C4%99cia%20szkolenia/relacja08.jpg)

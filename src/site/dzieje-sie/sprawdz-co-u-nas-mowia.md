@@ -3,7 +3,7 @@ title: Sprawdź, co mówią o nas uczestnicy szkoleń
 date: 2020-07-17T05:04:45.967Z
 zajawka: Dzielimy się wiedzą, umiejętnościami i narzędziami. Współpracujemy z
   ekspertami i pokazujemy jak wpływać na decyzje rządzących.
-obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1594962535/aiso/27_06_20_4.jpg
+obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1595237442/aiso/27_06_20.jpg
 ---
 **Co mówią o nas uczestnicy naszych szkoleń?**
 
