@@ -8,7 +8,7 @@ obrazek_opis: Rower
 ---
 **Miejsce i termin:** Wrocław 10-11.08.2020
 
-[](https://res.cloudinary.com/inspro/raw/upload/v1595849435/aiso/Program_Akademia_Siec_Rowerowa_2020_07_21.doc)Tutaj możesz zobaczyć szczegółowy [program szkolenia](<https://res.cloudinary.com/inspro/raw/upload/v1595849435/aiso/Program_Akademia_Siec_Rowerowa_2020_07_21.doc >)
+[](https://res.cloudinary.com/inspro/raw/upload/v1595849435/aiso/Program_Akademia_Siec_Rowerowa_2020_07_21.doc)Tutaj możesz zobaczyć szczegółowy [program szkolenia](https://res.cloudinary.com/inspro/raw/upload/v1595851586/aiso/Program_Akademia_Siec_Rowerowa_2020_08.doc)
 
 **Prowadzący:** Rafał Górski
 
