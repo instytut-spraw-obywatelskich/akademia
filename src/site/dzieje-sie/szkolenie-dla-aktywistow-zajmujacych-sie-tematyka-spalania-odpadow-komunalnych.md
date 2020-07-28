@@ -1,5 +1,5 @@
 ---
-title: Szkolenie dla aktywistów zajmujących się tematyką spalania odpadów komunalnych
+title: Szkolenie dot. spalarni śmieci
 date: 2020-07-28T08:33:27.687Z
 zajawka: "**Zapraszamy aktywistów zajmujących się tematyką spalania odpadów
   komunalnych na bezpłatne dwudniowe szkolenie w Katowicach**"
