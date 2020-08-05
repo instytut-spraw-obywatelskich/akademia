@@ -14,7 +14,13 @@ Przed dwa wrześniowe dni zdobędziecie wiedzę, umiejętności i narzędzia pot
 
 **Gdzie: Katowice**
 
-**Prowadzący: Rafał Górski**
+**Prowadzący:** 
+
+**Paweł Głuszyński** - od 30 lat związany z organizacjami pozarządowymi, zajmującymi się przeciwdziałaniem powstawaniu odpadów oraz ich bezpiecznym zagospodarowaniem: Ogólnopolskie Towarzystwo Zagospodarowania Odpadów, IPEN , HCWH, GAIA, Zero Waste Europe. Specjalizuje się w odpadach medycznych, komunalnych oraz POPs (trwałe zanieczyszczenia organiczne). Jako ekspert pracował w ponad 20 programach realizowanych przez Komisję Europejską, WHO, UNDP oraz Bank Światowy w Europie, Afryce, Azji i na Karaibach. 
+
+**Piotr Rymarowicz** - prezes Towarzystwa na rzecz Ziemi, organizacji zajmującej się m.in. monitorowaniem inwestycji szkodliwych dla środowiska i wspierającej mieszkańców zagrożonych takimi inwestycjami. Tematyką gospodarki odpadami i spalarniami zajmuje się od 1990 roku. 
+
+**Rafał Górski** - społecznik, wojownik, państwowiec. Prawo wykorzystuje w walce o dobro wspólne od 1995 roku. Prezes Instytutu Spraw Obywatelskich. Zaangażowany w kampanie obywatelskie, m.in.: „Tiry na tory”, „Obywatele decydują” i „Wolne od GMO? Chcę wiedzieć!”. Ekspert Centrum Wspierania Rad Pracowników i Centrum KLUCZ (Ośrodek Wsparcia Ekonomii Społecznej). Pomysłodawca „Kuźni Kampanierów”.
 
 **Kto może wziąć udział w szkoleniu?**
 
@@ -22,7 +28,7 @@ Uczestnik szkoleń musi być wydelegowany przez organizację społeczną (m.in. 
 
 **Jak się zgłosić?**
 
-Aby zgłosić się na szkolenie należy wypełnić [formularz zgłoszeniowy](<https://forms.gle/1j9Ex9JfEXzKHzkH9>) [](https://forms.gle/1j9Ex9JfEXzKHzkH9)
+Aby zgłosić się na szkolenie należy wypełnić [formularz zgłoszeniowy](https://forms.gle/1j9Ex9JfEXzKHzkH9) [](https://forms.gle/1j9Ex9JfEXzKHzkH9)
 
 Zgłoszenie się na szkolenie nie jest jednoznaczne z potwierdzeniem możliwości uczestnictwa.
 
