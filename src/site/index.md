@@ -228,8 +228,8 @@ dokumenty:
     ul. Pomorska 40 | 91-408 Łódź
 
 
-    [Harmonogram działań (udzielania wsparcia)](https://res.cloudinary.com/inspro/image/upload/v1595493080/aiso/harmonogram_udzielania_wsparcia.pdf)
+    [Harmonogram działań (udzielania wsparcia)](https://res.cloudinary.com/inspro/image/upload/v1596798823/aiso/harmonogram_udzielania_wsparcia.pdf)
 
 
-    [Lista zakwalifikowanych uczestników](https://res.cloudinary.com/inspro/image/upload/v1595069308/aiso/lista_uczestnik%C3%B3w_zakwalifikowanych_do_szkole%C5%84_AISO.pdf)
+    [Lista zakwalifikowanych uczestników](https://res.cloudinary.com/inspro/image/upload/v1596798807/aiso/lista_uczestnik%C3%B3w_zakwalifikowanych_do_szkole%C5%84.pdf)
 ---
