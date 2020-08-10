@@ -8,5 +8,7 @@ zajawka: "**Często zastanawiamy się nad rozwiązaniami, które proponują lub
   korzyści daje zadawanie szczegółowych pytań urzędnikom i politykom przeczytasz
   [tutaj](https://instytutsprawobywatelskich.pl/poradnik-obywatela-dostep-do-in\
   formacji-publicznej-o-co-w-tym-chodzi/)**"
+obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1597054791/aiso/Zdj%C4%99cia%20szkolenia/cz%C5%82owiek_i_paragrafy_fot._Gerd_Altmann_z_Pixabay.jpg
+obrazek_podpis: człowiek i paragrafy fot. Gerd Altmann z Pixabay
 ---
 Polecamy
