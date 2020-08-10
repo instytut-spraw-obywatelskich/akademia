@@ -1,12 +1,18 @@
 ---
 title: Szkolenie - spalarnie śmieci
 date: 2020-07-28T08:33:27.687Z
-zajawka: "**Zapraszamy aktywistów zajmujących się tematyką spalania odpadów
-  komunalnych na bezpłatne dwudniowe szkolenie w Katowicach**"
+zajawka: >-
+  **Zapraszamy aktywistów zajmujących się tematyką spalania odpadów komunalnych
+  na bezpłatne dwudniowe szkolenie w Katowicach**
+
+
+  **Przed dwa wrześniowe dni zdobędziecie wiedzę, umiejętności i narzędzia potrzebne Wam w codziennej pracy w organizacji.**
 obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1595925185/aiso/Zdj%C4%99cia%20szkolenia/industry.png
 obrazek_opis: dym nad miastem
 ---
-Przed dwa wrześniowe dni zdobędziecie wiedzę, umiejętności i narzędzia potrzebne Wam w codziennej pracy w organizacji.
+Poniżej kluczowe zagadnienia, które będą poruszone na szkoleniu.
+
+Jakie są ramy prawne dotyczące gospodarki odpadami? Wymagania unijne, przepisy krajowe, postępowanie administracyjne w sprawie lokalizacji spalarni, kontrola instalacji. Jaka jest sytuacja w Polsce? Stan gospodarki odpadami w kraju, czynne instalacje, przyczyny ogromnej liczby propozycji budowy spalarni. Jakie są problemy powodowane przez spalarnie? Przyjazny środowisku i kieszeniom mieszkańców system gospodarki odpadami w oparciu o przykłady krajowe i zagraniczne. Jak wygrać kampanie obywatelską? Planowanie działań lokalnych. Co możemy zrobić wspólnie? Planowanie działań krajowych.
 
 **Zobacz [program szkolenia](https://res.cloudinary.com/inspro/raw/upload/v1595925290/aiso/spalarNIE_Akademia_program_2020_09.doc)**  
 
