@@ -28,6 +28,8 @@ Jakie są ramy prawne dotyczące gospodarki odpadami? Wymagania unijne, przepisy
 
 **Rafał Górski** - społecznik, wojownik, państwowiec. Prawo wykorzystuje w walce o dobro wspólne od 1995 roku. Prezes Instytutu Spraw Obywatelskich. Zaangażowany w kampanie obywatelskie, m.in.: „Tiry na tory”, „Obywatele decydują” i „Wolne od GMO? Chcę wiedzieć!”. Ekspert Centrum Wspierania Rad Pracowników i Centrum KLUCZ (Ośrodek Wsparcia Ekonomii Społecznej). Pomysłodawca „Kuźni Kampanierów”.
 
+**Krzysztof Drewniak** – adwokat. Zdobył doświadczenie w zakresie procesowym (sporów sądowych), prowadził z powodzeniem wiele spraw z zakresu prawa ochrony środowiska przed organami administracyjnymi oraz sądami. Współpracuje z Towarzystwem na rzecz Ziemi przy realizacji działań związanych z udziałem społecznym.
+
 **Kto może wziąć udział w szkoleniu?**
 
 Uczestnik szkoleń musi być wydelegowany przez organizację społeczną (m.in. stowarzyszenie, fundacja), która posiada NIP. Jedna organizacja może wydelegować tylko jednego uczestnika.
