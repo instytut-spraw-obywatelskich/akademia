@@ -18,7 +18,7 @@ Jakie są ramy prawne dotyczące gospodarki odpadami? Wymagania unijne, przepisy
 
 **Kiedy: 26-27 września (sobota-niedziela)**
 
-**Gdzie: Katowice**
+**Gdzie: Katowice, Hotel Katowice, Aleja Korfantego 9**
 
 **Prowadzący:** 
 
