@@ -18,9 +18,7 @@ W trakcie dwudniowego szkolenia zajmiemy się tematem, który Cię interesuje. Z
 
 **Szkolenia są bezpłatne.**
 
-Z myślą o bezpieczeństwie uczestników podjęliśmy kompleksowe działania, aby szkolenie w sali było możliwe. Zastosowane przez nas rozwiązania zostały przygotowane na bazie wytycznych [Ministerstwa Rozwoju](https://www.gov.pl/web/rozwoj/spotkania-biznesowe-szkolenia-konferencje-i-kongresy) [](https://link.freshmail.mx/c/ganug79hsj/9r0ldetdvw).
-
-Najbliższe szkolenie organizujemy w **Warszawie w terminie 18–19.07.2020**. Jest to **szkolenie zamknięte** dedykowane organizacjom skupionym wokół Koalicji Żywa Ziemia. Tematem będzie rolnictwo ekologiczne, bezpieczna żywność, polityka rolna i żywnościowa. 
+Z myślą o bezpieczeństwie uczestników podjęliśmy kompleksowe działania, aby szkolenie w sali było możliwe. Zastosowane przez nas rozwiązania zostały przygotowane na bazie wytycznych [Ministerstwa Rozwoju](https://www.gov.pl/web/rozwoj/spotkania-biznesowe-szkolenia-konferencje-i-kongresy) [](https://link.freshmail.mx/c/ganug79hsj/9r0ldetdvw). 
 
 [Zapisz się na szkolenie](https://forms.gle/2izWqD5ZPh8PF98d8)
 
