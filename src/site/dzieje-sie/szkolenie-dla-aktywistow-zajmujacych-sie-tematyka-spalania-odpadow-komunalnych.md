@@ -36,7 +36,7 @@ Uczestnik szkoleń musi być wydelegowany przez organizację społeczną (m.in. 
 
 **Jak się zgłosić?**
 
-Aby zgłosić się na szkolenie należy wypełnić [formularz zgłoszeniowy](https://forms.gle/1j9Ex9JfEXzKHzkH9) [](https://forms.gle/1j9Ex9JfEXzKHzkH9)
+Aby zgłosić się na szkolenie należy wypełnić [formularz zgłoszeniowy](https://forms.gle/1j9Ex9JfEXzKHzkH9)
 
 Zgłoszenie się na szkolenie nie jest jednoznaczne z potwierdzeniem możliwości uczestnictwa.
 
@@ -48,8 +48,8 @@ Poinformujemy Cię o wynikach rekrutacji. Następnie poprosimy Cię o wypełnien
 
 **Z myślą o bezpieczeństwie uczestników** podjęliśmy kompleksowe działania, aby szkolenie stacjonarne było możliwe. Zastosowane przez nas rozwiązania, zostały przygotowane na bazie wytycznych [Ministerstwa Rozwoju](https://www.gov.pl/web/rozwoj/spotkania-biznesowe-szkolenia-konferencje-i-kongresy). Są w pełni dostosowane do aktualnego etapu zaawansowania stanu epidemicznego.
 
-**Zgłoszenia przyjmujemy do 14.09.2020 roku**
+**Zgłoszenia przyjmujemy do 21.09.2020 roku**
 
 **Masz pytania?**
 
-Napisz [](mailto:akademia@instytut.lodz.pl) {% email %} lub zadzwoń 42 630 17 49, 519 300 647
+Napisz {% email %} lub zadzwoń 42 630 17 49, 519 300 647
