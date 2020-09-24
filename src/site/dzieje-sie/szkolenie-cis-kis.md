@@ -4,6 +4,8 @@ date: 2020-09-24T09:49:03.717Z
 zajawka: Zapraszamy przedstawicieli organizacji pozarządowych zajmujących się
   tematyką Centrum Integracji Społecznej (CIS) i Klubem Integracji Społecznej
   (KIS) na dwudniowe bezpłatne szkolenie w Kielcach.
+obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1600951102/aiso/Zdj%C4%99cia%20szkolenia/cis_kis1.jpg
+obrazek_opis: ustawa o zatrudnieniu socjalnym
 ---
 Część organizacji pozarządowych miała okazję testować nowe rozwiązania w ramach projektów: Kra­jowej Sieci Rein­te­gracji – wzmoc­nie­nie insty­tucji zatrud­nienia soc­jal­nego w dzi­ała­ni­ach poli­tyki społecznej wobec wyk­luczenia społecznego, dot. prozatrudnieniową roli KIS-ów i CIS-ów w kierunku usług społecznych.
 
