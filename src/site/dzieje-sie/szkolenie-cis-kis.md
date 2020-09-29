@@ -1,5 +1,5 @@
 ---
-title: "Szkolenie: Rekomendacje prawne w zakresie działania CIS/KIS"
+title: "Szkolenie: Rekomendacje do ustawy o zatrudnieniu socjalnym"
 date: 2020-09-24T09:49:03.717Z
 zajawka: Zapraszamy przedstawicieli organizacji pozarządowych zajmujących się
   tematyką Centrum Integracji Społecznej (CIS) i Klubem Integracji Społecznej
@@ -11,11 +11,11 @@ Część organizacji pozarządowych miała okazję testować nowe rozwiązania w
 
 Szkolenie ma na celu wypracowanie rekomendacji do ustawy o zatrudnieniu socjalnym w zakresie prowadzenia działalności KIS i CIS.
 
-Zobacz szczegółowy** [program szkolenia.](https://res.cloudinary.com/inspro/raw/upload/v1601378458/aiso/CIS_Akademia_program_2020_10.doc)**
+Zobacz szczegółowy** [program szkolenia.](https://res.cloudinary.com/inspro/raw/upload/v1601379645/aiso/CIS_Akademia_program_2020_10.doc)**
 
 **Kiedy: 20-21 października 2020 (wtorek-środa)**
 
-**Gdzie: Kielce**
+**Gdzie: Kielce, Hotel Dal (ul. Piotrkowska 12, 25-510 Kielce)**
 
 **Prowadzący:**
 
