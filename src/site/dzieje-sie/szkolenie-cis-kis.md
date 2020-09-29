@@ -11,7 +11,7 @@ Część organizacji pozarządowych miała okazję testować nowe rozwiązania w
 
 Szkolenie ma na celu wypracowanie rekomendacji do ustawy o zatrudnieniu socjalnym w zakresie prowadzenia działalności KIS i CIS.
 
-Zobacz szczegółowy** [program szkolenia.](https://res.cloudinary.com/inspro/raw/upload/v1600939958/aiso/CIS_Akademia_program_2020_10.doc)**
+Zobacz szczegółowy** [program szkolenia.](https://res.cloudinary.com/inspro/raw/upload/v1601378458/aiso/CIS_Akademia_program_2020_10.doc)**
 
 **Kiedy: 20-21 października 2020 (wtorek-środa)**
 
