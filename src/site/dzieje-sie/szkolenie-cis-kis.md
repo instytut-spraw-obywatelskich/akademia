@@ -27,7 +27,7 @@ Zobacz szczegółowy** [program szkolenia.](https://res.cloudinary.com/inspro/ra
 
 **Kto może wziąć udział w szkoleniu?**
 
-Uczestnik szkoleń musi być wydelegowany przez organizację społeczną (m.in. stowarzyszenie, fundacja), która posiada NIP. 
+Uczestnik szkoleń musi być wydelegowany przez organizację społeczną (m.in. stowarzyszenie, fundacja), która posiada NIP.  Osoby pochodzące z tej samej organizacji będą przyjmowane w przypadku, gdy poza uzyskaniem przez nich dostatecznej liczby punktów nie będzie to kolidowało ze spełnieniem kryteriów wyrównania szans i zapewnienia zróżnicowania grupy.
 
 Uczestnikiem może być osoba, która nie korzystała ze wsparcia o takim samym zakresie w ramach projektów wyłonionych do dofinansowania w konkursie nr POWR.02.16.00-IP.06-00-006/ 16 (zobacz [listę organizacji](https://res.cloudinary.com/inspro/raw/upload/v1600935227/aiso/Lista_realizowanych_projekt%C3%B3w_w_ramach_naboru_6.xlsx)). Dot. szkoleń z usprawnienia procesu stanowienia prawa. 
 
