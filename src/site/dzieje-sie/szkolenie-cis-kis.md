@@ -45,7 +45,7 @@ Poinformujemy Cię o wynikach rekrutacji. Następnie poprosimy Cię o wypełnien
 
 **Z myślą o bezpieczeństwie uczestników** podjęliśmy kompleksowe działania, aby szkolenie stacjonarne było możliwe. Zastosowane przez nas rozwiązania, zostały przygotowane na bazie wytycznych [Ministerstwa Rozwoju](https://www.gov.pl/web/rozwoj/spotkania-biznesowe-szkolenia-konferencje-i-kongresy). Są w pełni dostosowane do aktualnego etapu zaawansowania stanu epidemicznego.
 
-**Zgłoszenia przyjmujemy do 09.10.2020 roku. Ilość miejsc ograniczona.** 
+**Zgłoszenia przyjmujemy do 15.10.2020 roku. Ilość miejsc ograniczona.** 
 
 **Masz pytania?**
 
