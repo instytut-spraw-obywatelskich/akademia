@@ -36,6 +36,8 @@ Poinformujemy Cię o wynikach rekrutacji. Następnie poprosimy Cię o wypełnien
 
 **Zgłoszenia przyjmujemy do 05.11.2020**
 
+Zgodnie z wymogami grantodawcy, szkolenie zdalne musi być rejestrowane. Nagranie nie będzie udostępniane uczestnikom ani osobom postronnym. Będzie przechowywane tylko na potrzeby ewentualnej kontroli projektu.
+
 **Masz pytania?**
 
 Napisz do nas &#97;&#107;a&#100;&#101;&#109;i&#97;&#64;&#105;nstyt&#117;&#116;.&#108;&#111;&#100;&#122;.pl lub zadzwoń 42 630 17 49, 519 300 647
