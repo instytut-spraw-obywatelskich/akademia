@@ -1,5 +1,5 @@
 ---
-title: Kto chce działać musi znać procedury
+title: Kto chce działać, musi znać procedury
 date: 2020-11-12T13:24:48.168Z
 zajawka: "**Z Jarosławem Ogrodowskim, ekspertem Akademii Instytutu Spraw
   Obywatelskich, rozmawiamy o tym, jak mieszkańcy mogą wykorzystywać prawo
