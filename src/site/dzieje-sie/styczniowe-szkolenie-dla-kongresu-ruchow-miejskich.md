@@ -38,6 +38,16 @@ Poinformujemy Cię o wynikach rekrutacji. Następnie poprosimy Cię o wypełnien
 
 Zgodnie z wymogami grantodawcy, szkolenie zdalne musi być rejestrowane. Nagranie nie będzie udostępniane uczestnikom ani osobom postronnym. Będzie przechowywane tylko na potrzeby ewentualnej kontroli projektu.
 
+**Wymogi techniczne spotkania:**
+
+1.Uczestnicy nie muszą instalować oprogramowania, aby wziąć udział w szkoleniu. Po otrzymaniu linku należy się zarejestrować imieniem i nazwiskiem. Następnie uczestnik dostanie ostateczny link do spotkania z hasłem.
+
+2.W celu prawidłowego i pełnego korzystania ze szkolenia należy posiadać urządzenie z dostępem do internetu, wyposażone w przeglądarkę internetową.
+
+3.Urządzenie, powinno być wyposażone w głośniki lub możliwość podpięcia słuchawek. Kamerki nie są obowiązkowe, ale mile widzianeJ
+
+4.Program Zoom dostosowuje jakość i prędkość wyświetlania do połączenia, zapewniając optymalną wydajność pracy zarówno przy użyciu połączeń DSL, jak i urządzeń mobilnych.
+
 **Masz pytania?**
 
 Napisz do nas 
