@@ -15,6 +15,8 @@ Szkolenie ma na celu wypracowanie rekomendacji do ustawy o zatrudnieniu socjaln
 
 **Gdzie:** ze względu na aktualne wytyczne dot. przeciwdziałania epidemii, szkolenie odbędzie zdalnie.
 
+**Program:** do pobrania [TUTAJ](https://res.cloudinary.com/inspro/image/upload/v1605853769/aiso/CIS_Akademia_program_2020_12.pdf) 
+
 **Prowadzący:**
 
 **Cezary Miżejewski** - spółdzielca socjalny, aktywista społeczny. Kieruje Ogólnopolskim Związkiem Rewizyjnym Spółdzielni Socjalnych oraz Wspólnotą Roboczą Związków Organizacji Socjalnych. Współtworzył kilkanaście ustaw (m.in. o zatrudnieniu socjalnym, spółdzielniach socjalnych, o promocji zatrudnienia) oraz programów i strategii na poziomie krajowym i regionalnym.
@@ -41,6 +43,16 @@ Poinformujemy Cię o wynikach rekrutacji. Następnie poprosimy Cię o wypełni
 
 Zgodnie z wymogami grantodawcy, szkolenie zdalne musi być rejestrowane. Nagranie nie będzie udostępniane uczestnikom ani osobom postronnym. Będzie przechowywane tylko na potrzeby ewentualnej kontroli projektu.
 
+**Wymogi techniczne spotkania:**
+
+1.Uczestnicy nie muszą instalować oprogramowania, aby wziąć udział w szkoleniu. Po otrzymaniu linku należy się zarejestrować imieniem i nazwiskiem. Następnie uczestnik dostanie ostateczny link do spotkania z hasłem.
+
+2.W celu prawidłowego i pełnego korzystania ze szkolenia należy posiadać urządzenie z dostępem do internetu, wyposażone w przeglądarkę internetową.
+
+3.Urządzenie, powinno być wyposażone w głośniki lub możliwość podpięcia słuchawek. Kamerki nie są obowiązkowe, ale mile widzianeJ
+
+4.Program Zoom dostosowuje jakość i prędkość wyświetlania do połączenia, zapewniając optymalną wydajność pracy zarówno przy użyciu połączeń DSL, jak i urządzeń mobilnych.
+
 **Masz pytania?**
 
-Napisz [akademia@instytut.lodz.pl](mailto:akademia@instytut.lodz.pl) lub zadzwoń 42 630 17 49, 519 300 647
+Napisz [](mailto:akademia@instytut.lodz.pl){% email%} lub zadzwoń 42 630 17 49, 519 300 647
