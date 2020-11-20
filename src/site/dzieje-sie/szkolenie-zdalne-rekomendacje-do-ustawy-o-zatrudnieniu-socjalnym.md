@@ -15,7 +15,7 @@ Szkolenie ma na celu wypracowanie rekomendacji do ustawy o zatrudnieniu socjaln
 
 **Gdzie:** ze względu na aktualne wytyczne dot. przeciwdziałania epidemii, szkolenie odbędzie zdalnie.
 
-**Program:** do pobrania [TUTAJ](https://res.cloudinary.com/inspro/image/upload/v1605853769/aiso/CIS_Akademia_program_2020_12.pdf) 
+**Program:** do pobrania [TUTAJ ](https://res.cloudinary.com/inspro/image/upload/v1605882583/aiso/CIS_Akademia_program_2020_12.pdf)
 
 **Prowadzący:**
 
