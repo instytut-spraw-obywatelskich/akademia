@@ -11,7 +11,7 @@ Część organizacji pozarządowych miała okazję testować nowe rozwiązania w
 
 Szkolenie ma na celu wypracowanie rekomendacji do ustawy o zatrudnieniu socjalnym w zakresie prowadzenia działalności KIS i CIS.
 
-**Kiedy: między 16 a 20 grudnia, dokładną datę podamy niebawem**
+**Kiedy: 16-17.12.2020 (środa-czwartek) godz. 08:30-15:30**
 
 **Gdzie:** ze względu na aktualne wytyczne dot. przeciwdziałania epidemii, szkolenie odbędzie zdalnie.
 
