@@ -34,6 +34,8 @@ Poinformujemy Cię o wynikach rekrutacji. Następnie poprosimy Cię o wypełnien
 
 **W ramach szkolenia uczestnik otrzyma: materiały szkoleniowe a także zaświadczenie udziału w szkoleniu.** 
 
+**Zgłoszenie na szkolenie jest jednoznaczne z akceptacją zdalnej formy szkolenia.**
+
 **Zgłoszenia przyjmujemy do 05.11.2020**
 
 Zgodnie z wymogami grantodawcy, szkolenie zdalne musi być rejestrowane. Nagranie nie będzie udostępniane uczestnikom ani osobom postronnym. Będzie przechowywane tylko na potrzeby ewentualnej kontroli projektu.
