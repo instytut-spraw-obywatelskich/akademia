@@ -39,6 +39,8 @@ Tutaj możesz się zapoznać z [Regulaminem Projektu „Akademia Instytutu Spra
 
 Poinformujemy Cię o wynikach rekrutacji. Następnie poprosimy Cię o wypełnienie [dokumentacji projektowej](https://res.cloudinary.com/inspro/raw/upload/v1595492482/aiso/dokumenty_przystapienia_do_projektu.zip), podpisania przez osoby uprawnione do reprezentacji i dostarczenia do nas.
 
+**W ramach szkolenia uczestnik otrzyma: materiały szkoleniowe a także zaświadczenie udziału w szkoleniu.** 
+
 **Zgłoszenia przyjmujemy do 30.11.2020 roku. Ilość miejsc ograniczona.**
 
 Zgodnie z wymogami grantodawcy, szkolenie zdalne musi być rejestrowane. Nagranie nie będzie udostępniane uczestnikom ani osobom postronnym. Będzie przechowywane tylko na potrzeby ewentualnej kontroli projektu.
