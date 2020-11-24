@@ -16,7 +16,7 @@ Szkolenie dotyczy największych wyzwań jakie stoją przed Kongresem a także wy
 
 **Prowadzący:** 
 
-**Rafał Górski** - społecznik, wojownik, państwowiec. Prawo wykorzystuje w walce o dobro wspólne od 1995 roku. Prezes Instytutu Spraw Obywatelskich. Zaangażowany w kampanie obywatelskie, m.in.: „Tiry na tory”, „Obywatele decydują” i „Wolne od GMO? Chcę wiedzieć!”. Ekspert Centrum Wspierania Rad Pracowników i Centrum KLUCZ (Ośrodek Wsparcia Ekonomii Społecznej). Pomysłodawca „Kuźni Kampanierów”.
+**Rafał Górski** - społecznik, wojownik, państwowiec. Prawo wykorzystuje w walce o dobro wspólne od 1995 roku. Prezes Instytutu Spraw Obywatelskich. Członek Polskiego Towarzystwa Legislacji. Zaangażowany w kampanie obywatelskie, m.in.: „Tiry na tory”, „Obywatele decydują” i „Wolne od GMO? Chcę wiedzieć!”. Ekspert Centrum Wspierania Rad Pracowników i Centrum KLUCZ (Ośrodek Wsparcia Ekonomii Społecznej). Pomysłodawca „Kuźni Kampanierów”.
 
 **Kto może wziąć udział w szkoleniu?**
 
