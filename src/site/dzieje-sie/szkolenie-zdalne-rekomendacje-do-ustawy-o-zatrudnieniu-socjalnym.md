@@ -21,7 +21,7 @@ Szkolenie ma na celu wypracowanie rekomendacji do ustawy o zatrudnieniu socjaln
 
 **Cezary Miżejewski** - spółdzielca socjalny, aktywista społeczny. Kieruje Ogólnopolskim Związkiem Rewizyjnym Spółdzielni Socjalnych oraz Wspólnotą Roboczą Związków Organizacji Socjalnych. Współtworzył kilkanaście ustaw (m.in. o zatrudnieniu socjalnym, spółdzielniach socjalnych, o promocji zatrudnienia) oraz programów i strategii na poziomie krajowym i regionalnym.
 
-**Rafał Górski** - Prezes Instytutu Spraw Obywatelskich: Członek Polskiego Towarzystwa Legislacji. Zaangażowany w kampanie obywatelskie, m.in.: „Tiry na tory”, „Obywatele decydują” i „Wolne od GMO? Chcę wiedzieć!”. Ekspert Centrum Wspierania Rad Pracowników i Centrum KLUCZ (Ośrodek Wsparcia Ekonomii Społecznej). Pomysłodawca „Kuźni Kampanierów”.
+**Rafał Górski** - Prezes Instytutu Spraw Obywatelskich. Członek Polskiego Towarzystwa Legislacji. Zaangażowany w kampanie obywatelskie, m.in.: „Tiry na tory”, „Obywatele decydują” i „Wolne od GMO? Chcę wiedzieć!”. Ekspert Centrum Wspierania Rad Pracowników i Centrum KLUCZ (Ośrodek Wsparcia Ekonomii Społecznej). Pomysłodawca „Kuźni Kampanierów”.
 
 **Kto może wziąć udział w szkoleniu?**
 
