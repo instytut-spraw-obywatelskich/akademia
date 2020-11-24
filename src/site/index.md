@@ -100,17 +100,16 @@ zespol:
   trenerzy:
     - nazwisko: Rafał Górski
       foto: https://res.cloudinary.com/inspro/image/upload/v1589893660/aiso/gorski.jpg
-      bio: >
-        społecznik, wojownik, państwowiec. Prawo wykorzystuje w walce o dobro
-        wspólne od 1995 roku. Prezes Instytutu Spraw Obywatelskich. Zaangażowany
-        w kampanie obywatelskie, m.in.: „Tiry na tory”, „Obywatele decydują” i
-        „Wolne od GMO? Chcę wiedzieć!”. Ekspert Centrum Wspierania Rad
-        Pracowników i Centrum KLUCZ (Ośrodek Wsparcia Ekonomii Społecznej).
-        Pomysłodawca „Kuźni Kampanierów”. Publikował na łamach Magazynu
-        Obywatel, Wprost, Tygodnika Solidarność, Super Expressu, Wszystko Co
-        Najważniejsze. W czasie wolnym kształtuje ciało, umysł i ducha,
-        przygotowując się do „Selekcji” – gry opartej na rekrutacji do jednostek
-        specjalnych typu GROM i SAS.
+      bio: "społecznik, wojownik, państwowiec. Prawo wykorzystuje w walce o dobro
+        wspólne od 1995 roku. Prezes Instytutu Spraw Obywatelskich. Członek
+        Polskiego Towarzystwa Legislacji. Zaangażowany w kampanie obywatelskie,
+        m.in.: „Tiry na tory”, „Obywatele decydują” i „Wolne od GMO? Chcę
+        wiedzieć!”. Ekspert Centrum Wspierania Rad Pracowników i Centrum KLUCZ
+        (Ośrodek Wsparcia Ekonomii Społecznej). Pomysłodawca „Kuźni
+        Kampanierów”. Publikował na łamach Magazynu Obywatel, Wprost, Tygodnika
+        Solidarność, Super Expressu, Wszystko Co Najważniejsze. W czasie wolnym
+        kształtuje ciało, umysł i ducha, przygotowując się do „Selekcji” – gry
+        opartej na rekrutacji do jednostek specjalnych typu GROM i SAS."
     - nazwisko: Cezary Miżejewski
       foto: https://res.cloudinary.com/inspro/image/upload/v1589893660/aiso/mizejewski.jpg
       bio: >
