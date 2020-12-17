@@ -13,7 +13,7 @@ obrazek_podpis: zdj. Artem Beliaikin z Pexels
 ---
 Szkolenie skupione jest wokół działaczy Koalicji Społecznej STOP FERMOM PRZEMYSŁOWYM, która jednoczy różne środowiska dostrzegające problem masowego chowu zwierząt i próbuje zatrzymać przekształcanie rolnictwa w uciążliwy przemysł. 
 
-Jeśli jesteś aktywistą, który chce lub już przeciwdziała ekspansji fermom przemysłowym w Polsce, zapisz się na szkolenie. Dowiesz się jak wykorzystać prawo w swoich działaniach. Zastanowimy się jak wypracować rekomendacje, które zmienią akty prawa w zakresie ferm. 
+Jeśli jesteś aktywistą, który chce lub już przeciwdziała ekspansji fermom przemysłowym w Polsce, zapisz się na szkolenie. Dowiesz się jak wykorzystać prawo w swoich działaniach. Zastanowimy się jak wypracować rekomendacje, które mogą mieć wpływ na zmianę aktów prawa w zakresie ferm. 
 
 **Kiedy: 30-31.01.2021 (sobota-niedziela) godz. 09:00-16:00**
 
