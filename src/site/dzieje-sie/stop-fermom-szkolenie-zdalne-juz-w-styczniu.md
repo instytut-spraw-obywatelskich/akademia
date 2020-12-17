@@ -3,7 +3,7 @@ title: STOP Fermom - szkolenie zdalne już w styczniu
 date: 2020-12-17T09:56:28.780Z
 zajawka: >-
   **Zapraszamy aktywistów zajmujących się tematyką ferm zwierzęcych na bezpłatne
-  dwudniowe szkolenie w w dniach 30-31.01.2021 roku**
+  dwudniowe szkolenie w dniach 30-31.01.2021 roku**
 
 
   **Przed dwa dni zdobędziecie wiedzę, umiejętności i narzędzia potrzebne Wam w codziennej pracy w organizacji.**
