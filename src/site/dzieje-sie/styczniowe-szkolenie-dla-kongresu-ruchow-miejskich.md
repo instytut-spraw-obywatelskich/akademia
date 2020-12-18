@@ -1,8 +1,10 @@
 ---
-title: "Styczniowe szkolenie dla Kongresu Ruchów Miejskich "
+title: "Styczniowe szkolenie dla Kongresu Ruchów Miejskich - termin styczniowy
+  odwołany "
 date: 2020-11-19T12:56:58.792Z
-zajawka: Już w styczniu zapraszamy działaczy Kongresu Ruchów Miejskich na
-  bezpłatny cykl warsztatów.
+zajawka: "Aktualizacja: 18.12.2020 - ze względu na małe zainteresowanie termin
+  styczniowy dot. szkolenia został odwołany. Postaramy się znaleźć dla Państwa
+  inny termin, który będzie dogodny dla uczestników."
 obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1605790542/aiso/Zdj%C4%99cia%20szkolenia/startup-593341_1920_768.jpg
 obrazek_opis: działanie, praca w grupie
 ---
