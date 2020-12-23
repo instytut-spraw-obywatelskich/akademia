@@ -1,5 +1,5 @@
 ---
-title: STOP Fermom - szkolenie zdalne już w styczniu
+title: STOP Fermom Przemysłowym - szkolenie zdalne już w styczniu
 date: 2020-12-17T09:56:28.780Z
 zajawka: >-
   **Zapraszamy aktywistów zajmujących się tematyką ferm zwierzęcych na bezpłatne
