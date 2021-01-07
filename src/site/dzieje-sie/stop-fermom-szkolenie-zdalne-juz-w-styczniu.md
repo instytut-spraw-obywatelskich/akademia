@@ -43,7 +43,7 @@ Poinformujemy Cię o wynikach rekrutacji. Następnie poprosimy Cię o wypełni
 
 **W ramach szkolenia uczestnik otrzyma: materiały szkoleniowe a także zaświadczenie udziału w szkoleniu.** 
 
-**Zgłoszenia przyjmujemy do 04.01.2021 roku. Ilość miejsc ograniczona.**
+**Zgłoszenia przyjmujemy do 11.01.2021 roku. Ilość miejsc ograniczona.**
 
 Zgodnie z wymogami grantodawcy, szkolenie zdalne musi być rejestrowane. Nagranie nie będzie udostępniane uczestnikom ani osobom postronnym. Będzie przechowywane tylko na potrzeby ewentualnej kontroli projektu.
 
