@@ -1,7 +1,8 @@
 ---
 title: Szkolenie dla Kongresu Ruchów Miejskich w lutym 2021
 date: 2021-01-29T10:40:36.210Z
-zajawka: Szkolenie dla działaczy skupionych wokół Kongresu Ruchów Miejskich
+zajawka: Szkolenie skierowane jest do działaczy skupionych wokół Kongresu Ruchów
+  Miejskich
 obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1605790542/aiso/Zdj%C4%99cia%20szkolenia/startup-593341_1920_768.jpg
 obrazek_opis: ludzie przy stole podczas warsztatu
 ---
@@ -29,7 +30,7 @@ Na stronie Akademii Instytutu możesz się zapoznać z [Regulaminem](https://res
 
 Poinformujemy Cię o wynikach rekrutacji. Następnie poprosimy Cię o wypełnienie [dokumentacji projektowej](https://res.cloudinary.com/inspro/raw/upload/v1595492482/aiso/dokumenty_przystapienia_do_projektu.zip), podpisania przez osoby uprawnione do reprezentacji i dostarczenia do nas przed szkoleniem.
 
-**W ramach szkolenia uczestnik otrzyma: materiały szkoleniowe a także zaświadczenie udziału w szkoleniu.** 
+**W ramach szkolenia uczestnik otrzyma: ew. materiały szkoleniowe a także zaświadczenie udziału w szkoleniu.** 
 
 **Zgłoszenie na szkolenie jest jednoznaczne z akceptacją zdalnej formy szkolenia.**
 
