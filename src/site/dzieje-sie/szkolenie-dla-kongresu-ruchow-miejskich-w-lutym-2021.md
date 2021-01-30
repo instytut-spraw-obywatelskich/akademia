@@ -40,4 +40,4 @@ Zgodnie z wymogami grantodawcy, szkolenie zdalne musi być rejestrowane. Nagrani
 
 **Masz pytania?**
 
-Napisz do nas {% e-mail%} lub zadzwoń 42 630 17 49, 519 300 647
+Napisz do nas {% e-mail %} lub zadzwoń 42 630 17 49, 519 300 647
