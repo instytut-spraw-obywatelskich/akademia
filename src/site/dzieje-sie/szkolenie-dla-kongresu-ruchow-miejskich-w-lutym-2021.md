@@ -1,8 +1,7 @@
 ---
 title: Szkolenie dla Kongresu Ruchów Miejskich w lutym 2021
 date: 2021-01-29T10:40:36.210Z
-zajawka: Szkolenie skierowane jest do działaczy skupionych wokół Kongresu Ruchów
-  Miejskich
+zajawka: Szkolenie skierowane jest do działaczy skupionych wokół Kongresu Ruchów Miejskich
 obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1605790542/aiso/Zdj%C4%99cia%20szkolenia/startup-593341_1920_768.jpg
 obrazek_opis: ludzie przy stole podczas warsztatu
 ---
@@ -22,7 +21,7 @@ Uczestnik szkoleń musi być wydelegowany przez organizację społeczną (m.in. 
 
 **Jak się zgłosić?**
 
-Aby zgłosić się na szkolenie należy wypełnić [formularz zgłoszeniowy ](https://forms.gle/QDVnGAVcfetC9gTW8)
+Aby zgłosić się na szkolenie należy wypełnić [formularz zgłoszeniowy](https://forms.gle/QDVnGAVcfetC9gTW8)
 
 Zgłoszenie się na szkolenie nie jest jednoznaczne z potwierdzeniem możliwości uczestnictwa.
 
@@ -40,4 +39,4 @@ Zgodnie z wymogami grantodawcy, szkolenie zdalne musi być rejestrowane. Nagrani
 
 **Masz pytania?**
 
-Napisz do nas {% e-mail %} lub zadzwoń 42 630 17 49, 519 300 647
+Napisz do nas {% email %} lub zadzwoń 42 630 17 49, 519 300 647
