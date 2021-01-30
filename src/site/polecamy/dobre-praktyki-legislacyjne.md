@@ -1,5 +1,6 @@
 ---
-title: Wytyczne jako wparcie w tworzeniu przejrzystego prawa
+title: Wytyczne do przeprowadzania oceny wpływu oraz konsultacji publicznych w
+  ramach rządowego procesu legislacyjnego
 date: 2020-09-21T08:41:45.442Z
 zajawka: Mamy dla Was pomocny materiał w pracy nad zmianami prawa - wytyczne,
   które mają wspomóc przejrzyste tworzenie prawa. Jest to przewodnik w pracach
