@@ -1,7 +1,8 @@
 ---
 title: Szkolenie dla Kongresu Ruchów Miejskich w lutym 2021
 date: 2021-01-29T10:40:36.210Z
-zajawka: Szkolenie skierowane jest do działaczy skupionych wokół Kongresu Ruchów Miejskich
+zajawka: Szkolenie skierowane jest do działaczy skupionych wokół Kongresu Ruchów
+  Miejskich
 obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1605790542/aiso/Zdj%C4%99cia%20szkolenia/startup-593341_1920_768.jpg
 obrazek_opis: ludzie przy stole podczas warsztatu
 ---
@@ -17,7 +18,9 @@ Szkolenie dotyczy największych wyzwań jakie stoją przed Kongresem a także wy
 
 **Kto może wziąć udział w szkoleniu?**
 
-Uczestnik szkoleń musi być wydelegowany przez organizację społeczną (m.in. stowarzyszenie, fundacja), która posiada NIP. Jedna organizacja może wydelegować tylko jednego uczestnika.
+Szkolenie jest dla członków Kongresu Ruchów Miejskich. Jeśli interesuje Cię tematyka ruchów miejskich sprawdź czym zajmuje się Kongres ([TUTAJ](https://kongresruchowmiejskich.pl/)) i działaj skuteczniej razem na rzecz Twojego Miasta. 
+
+**Uczestnik szkoleń musi być wydelegowany** **przez organizację społeczną** (m.in. stowarzyszenie, fundacja), która posiada NIP. Jedna organizacja może wydelegować tylko jednego uczestnika.
 
 **Jak się zgłosić?**
 
@@ -33,10 +36,10 @@ Poinformujemy Cię o wynikach rekrutacji. Następnie poprosimy Cię o wypełnien
 
 **Zgłoszenie na szkolenie jest jednoznaczne z akceptacją zdalnej formy szkolenia.**
 
-**Zgłoszenia przyjmujemy do 05.02.2021**
+**Zgłoszenia przyjmujemy do 11.02.2021**
 
 Zgodnie z wymogami grantodawcy, szkolenie zdalne musi być rejestrowane. Nagranie nie będzie udostępniane uczestnikom ani osobom postronnym. Będzie przechowywane tylko na potrzeby ewentualnej kontroli projektu.
 
-**Masz pytania?**
+**Masz pytania? Interesują Cię inne tematy społeczne, a potrzebuje wsparcia swojego środowiska? Możemy dla Ciebie zrobić zamknięte szkolenie jak wykorzystywać prawo w swoich działaniach.** 
 
 Napisz do nas {% email %} lub zadzwoń 42 630 17 49, 519 300 647
