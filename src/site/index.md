@@ -231,4 +231,7 @@ dokumenty:
 
 
     [Lista zakwalifikowanych uczestników](https://res.cloudinary.com/inspro/image/upload/v1596798807/aiso/lista_uczestnik%C3%B3w_zakwalifikowanych_do_szkole%C5%84.pdf)
+
+
+    [Wysłuchaj naszego spotu](https://instytutsprawobywatelskich.pl/wp-content/uploads/2021/02/spot-aiso.mp3)
 ---
