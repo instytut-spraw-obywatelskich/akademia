@@ -17,7 +17,7 @@ co_dajemy:
     ekonomia społeczna, smog, gospodarka wodna, ochrona klimatu, komunikacja
     rowerowa, prawo pracy, dzika przyroda, ochrona drzew itp.
 
-    2. **Bezpłatne, dwudniowe szkolenie zamknięte** dla społeczników z koalicji organizacji, która zajmuje się jednym tematem, np. Federacja Piesza Polska, Koalicja Żywa Ziemia, Kongres Ruchów Miejskich. Program szkolenia będzie dostosowany do potrzeb koalicji.
+    2. **Bezpłatne, dwudniowe szkolenie zamknięte** dla społeczników z koalicji, związków lub federacji organizacji. Robiliśmy już szkolenia dla organizacji społecznych działających w ramach m.in. Federacji Piesza Polska, Koalicji Żywa Ziemia, Kongresu Ruchów Miejskich, sieci antyspalarniowej, sieci rowerowej, Koalicji Społecznej Stop Fermom Przemysłowym. Program szkolenia będzie dostosowany do potrzeb koalicji.
 
     3. **Wiedzę, umiejętności i narzędzia.** Zajęcia poprowadzą eksperci, społecznicy i decydenci z wieloletnim doświadczeniem w wykorzystywaniu prawa do zmiany społecznej.
 
