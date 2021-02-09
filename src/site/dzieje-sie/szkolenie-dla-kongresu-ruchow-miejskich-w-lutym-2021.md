@@ -20,7 +20,7 @@ Szkolenie dotyczy największych wyzwań jakie stoją przed Kongresem a także wy
 
 Szkolenie jest dla członków Kongresu Ruchów Miejskich. Jeśli interesuje Cię tematyka ruchów miejskich sprawdź czym zajmuje się Kongres ([TUTAJ](https://kongresruchowmiejskich.pl/)) i działaj skuteczniej razem na rzecz Twojego Miasta. 
 
-**Uczestnik szkoleń musi być wydelegowany** **przez organizację społeczną** (m.in. stowarzyszenie, fundacja), która posiada NIP. Jedna organizacja może wydelegować tylko jednego uczestnika.
+**Uczestnik szkoleń musi być wydelegowany** **przez organizację społeczną** (m.in. stowarzyszenie, fundacja), która posiada NIP. Jedna organizacja może wydelegować kilku uczestników.
 
 **Jak się zgłosić?**
 
