@@ -1,24 +1,25 @@
 ---
-title: Szkolenie dla Kongresu Ruchów Miejskich w lutym 2021
+title: Już w lutym szkolenie dla ruchów miejskich
 date: 2021-01-29T10:40:36.210Z
-zajawka: Szkolenie skierowane jest do działaczy skupionych wokół Kongresu Ruchów
-  Miejskich
+zajawka: "**Szkolenie „Wykorzystaj prawo” w ramach Akademii Instytutu Spraw
+  Obywatelskich skierowane jest do społeczników działających w ramach Kongresu
+  Ruchów Miejskich. Dotyczy największych wyzwań, jakie stoją przed Kongresem,
+  a także wyznaczenia celów strategicznych z wykorzystaniem prawa lokalnego
+  i krajowego.**"
 obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1605790542/aiso/Zdj%C4%99cia%20szkolenia/startup-593341_1920_768.jpg
 obrazek_opis: ludzie przy stole podczas warsztatu
 ---
-Szkolenie dotyczy największych wyzwań jakie stoją przed Kongresem a także wyznaczenie celów strategicznych z wykorzystaniem prawa lokalnego i krajowego.
-
 **Kiedy:** 20.02 i 27.02.2021 (3 i 4 sobota lutego) w godz. 09:00-16:00
 
 **Gdzie:** Ze względu na aktualne wytyczne dot. przeciwdziałania epidemii, szkolenie odbędzie zdalnie.
 
 **Prowadzący:** 
 
-**Rafał Górski** - społecznik, wojownik, państwowiec. Prawo wykorzystuje w walce o dobro wspólne od 1995 roku. Prezes Instytutu Spraw Obywatelskich. Zaangażowany w kampanie obywatelskie, m.in.: „Tiry na tory”, „Obywatele decydują” i „Wolne od GMO? Chcę wiedzieć!”. Ekspert Centrum Wspierania Rad Pracowników i Centrum KLUCZ (Ośrodek Wsparcia Ekonomii Społecznej). Pomysłodawca „Kuźni Kampanierów”.
+**Rafał Górski** - społecznik, wojownik, państwowiec. Prawo wykorzystuje w walce o dobro wspólne od 1995 roku. Prezes Instytutu Spraw Obywatelskich. Członek Polskiego Towarzystwa Legislacji. Zaangażowany w kampanie obywatelskie, m.in.: „Tiry na tory”, „Obywatele decydują” i „Wolne od GMO? Chcę wiedzieć!”. Ekspert Centrum Wspierania Rad Pracowników i Centrum KLUCZ (Ośrodek Wsparcia Ekonomii Społecznej). Pomysłodawca „Kuźni Kampanierów”.
 
 **Kto może wziąć udział w szkoleniu?**
 
-Szkolenie jest dla członków Kongresu Ruchów Miejskich. Jeśli interesuje Cię tematyka ruchów miejskich sprawdź czym zajmuje się Kongres ([TUTAJ](https://kongresruchowmiejskich.pl/)) i działaj skuteczniej razem na rzecz Twojego Miasta. 
+Szkolenie jest przeznaczone dla przedstawicieli organizacji społecznych działających w ramach Kongresu Ruchów Miejskich. Jeśli interesuje Cię tematyka ruchów miejskich, sprawdź, czym zajmuje się Kongres ([TUTAJ](https://kongresruchowmiejskich.pl/)) i działaj skuteczniej razem z nim na rzecz Twojego miasta.
 
 **Uczestnik szkoleń musi być wydelegowany** **przez organizację społeczną** (m.in. stowarzyszenie, fundacja), która posiada NIP. Jedna organizacja może wydelegować kilku uczestników.
 
@@ -40,6 +41,6 @@ Poinformujemy Cię o wynikach rekrutacji. Następnie poprosimy Cię o wypełnien
 
 Zgodnie z wymogami grantodawcy, szkolenie zdalne musi być rejestrowane. Nagranie nie będzie udostępniane uczestnikom ani osobom postronnym. Będzie przechowywane tylko na potrzeby ewentualnej kontroli projektu.
 
-**Masz pytania? Interesują Cię inne tematy społeczne, a potrzebuje wsparcia swojego środowiska? Możemy dla Ciebie zrobić zamknięte szkolenie jak wykorzystywać prawo w swoich działaniach.** 
+**Masz pytania? Potrzebujesz wzmocnienia swoich działań społecznych? Weź udział w Akademii Instytutu Spraw Obywatelskich.**
 
 Napisz do nas {% email %} lub zadzwoń 42 630 17 49, 519 300 647
