@@ -1,8 +1,11 @@
 ---
 title: Szkolenie dla Kongresu Ruchów Miejskich
 date: 2020-10-26T12:20:29.052Z
-zajawka: Już w listopadzie zapraszamy na bezpłatne, dwudniowe szkolenie
-  działaczy Kongresu Ruchów Miejskich.
+zajawka: "**Szkolenie „Wykorzystaj prawo” w ramach Akademii Instytutu Spraw
+  Obywatelskich skierowane jest do społeczników działających w ramach Kongresu
+  Ruchów Miejskich. Dotyczy największych wyzwań, jakie stoją przed Kongresem,
+  a także wyznaczenia celów strategicznych z wykorzystaniem prawa lokalnego
+  i krajowego.**"
 obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1603714800/aiso/Zdj%C4%99cia%20szkolenia/Br%C4%85zowy_Vintage_Zdj%C4%99cie_Kola%C5%BC_Post_na_Facebooku768x460.jpg
 obrazek_opis: miasto ludzie
 ---
@@ -16,7 +19,7 @@ Zobacz [szczegółowy program szkolenia.](https://res.cloudinary.com/inspro/imag
 
 **Prowadzący:** 
 
-**Rafał Górski** - społecznik, wojownik, państwowiec. Prawo wykorzystuje w walce o dobro wspólne od 1995 roku. Prezes Instytutu Spraw Obywatelskich. Zaangażowany w kampanie obywatelskie, m.in.: „Tiry na tory”, „Obywatele decydują” i „Wolne od GMO? Chcę wiedzieć!”. Ekspert Centrum Wspierania Rad Pracowników i Centrum KLUCZ (Ośrodek Wsparcia Ekonomii Społecznej). Pomysłodawca „Kuźni Kampanierów”.
+**Rafał Górski** - społecznik, wojownik, państwowiec. Prawo wykorzystuje w walce o dobro wspólne od 1995 roku. Prezes Instytutu Spraw Obywatelskich.  Członek Polskiego Towarzystwa Legislacji. Zaangażowany w kampanie obywatelskie, m.in.: „Tiry na tory”, „Obywatele decydują” i „Wolne od GMO? Chcę wiedzieć!”. Ekspert Centrum Wspierania Rad Pracowników i Centrum KLUCZ (Ośrodek Wsparcia Ekonomii Społecznej). Pomysłodawca „Kuźni Kampanierów”.
 
 **Kto może wziąć udział w szkoleniu?**
 
