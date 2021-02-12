@@ -13,6 +13,8 @@ obrazek_opis: ludzie przy stole podczas warsztatu
 
 **Gdzie:** Ze względu na aktualne wytyczne dot. przeciwdziałania epidemii, szkolenie odbędzie zdalnie.
 
+**[Program](https://res.cloudinary.com/inspro/image/upload/v1613120103/aiso/Akademia_program_KRM_luty_2021.pdf)**
+
 **Prowadzący:** 
 
 **Rafał Górski** - społecznik, wojownik, państwowiec. Prawo wykorzystuje w walce o dobro wspólne od 1995 roku. Prezes Instytutu Spraw Obywatelskich. Członek Polskiego Towarzystwa Legislacji. Zaangażowany w kampanie obywatelskie, m.in.: „Tiry na tory”, „Obywatele decydują” i „Wolne od GMO? Chcę wiedzieć!”. Ekspert Centrum Wspierania Rad Pracowników i Centrum KLUCZ (Ośrodek Wsparcia Ekonomii Społecznej). Pomysłodawca „Kuźni Kampanierów”.
