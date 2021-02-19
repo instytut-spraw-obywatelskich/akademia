@@ -1,6 +1,6 @@
 ---
-title: Szkolenie dla organizacji pozarządowych - wykorzystaj prawo jako
-  "narzędzie" do zmiany społecznej
+title: Szkolenie otwarte dla ngo - wykorzystaj prawo jako "narzędzie" do zmiany
+  społecznej
 date: 2021-02-19T08:27:55.537Z
 zajawka: "**Szkolenie „Wykorzystaj prawo” w ramach Akademii Instytutu Spraw
   Obywatelskich skierowane jest do społeczników działających w różnych
