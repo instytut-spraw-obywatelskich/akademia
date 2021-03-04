@@ -207,6 +207,36 @@ co_mowia_inni:
         polityczno-kuluarowych. Udział w szkoleniu dał mi wiedzę praktyczną
         postępowania przy procesach legislacyjnych.
       kto: Paweł Harlander
+    - co: Jak zobaczyłam że inni też mają takie problemy, a jednak Wam się chce to
+        trochę dostałam kopa. W tym sensie, że rozmawialiśmy już między sobą, że
+        nie ma sensu o to walczyć, że po co nam angażowanie się w takie
+        problemy. A to spotkanie spowodowało, że zobaczyłam, że jest nas więcej,
+        trzeba walczyć i, że każdy mały krok jest ważny.
+      kto: Jagna
+    - co: Przede wszystkim zyskałam dużo wiedzy, jestem wdzięczna że podzieliliście
+        się ze mną swoimi doświadczeniami. Jestem świadoma tego, że jesteśmy
+        daleko od ideału, bo liczba ferm w Polsce wzrasta. Mimo tego jestem
+        optymistyczna, bo widzę ile Wy dajecie z siebie i wiem, że z taką
+        ilością ludzi którzy mają taką motywację i chęci do działania, jesteśmy
+        w stanie zdziałać dużo.
+      kto: Daria
+    - co: Pokrótce powiem, że to szkolenie pozwoliło mi uporządkować moją wiedzę.
+        Wiadomo, że to jest walka na lata, ale chodzi o to, żebyśmy szli w
+        dobrym kierunku.
+      kto: Sebastian
+    - co: Pokazuje się to światełko w tunelu. Mamy może za małą siłę przebicia,
+        natomiast jeżeli będziemy więcej takich konstruktywnych spotkań mieli,
+        to będziemy siłą którą usłyszą, nawet w Unii. Wiele się też nauczyłem w
+        zakresie referendum, spraw prawnych i uważam, że nie były to stracone
+        dwa dni.
+      kto: Józef
+    - co: Półtora roku temu zaczynałam z białą kartką, intuicyjnie dążyłam do tego, co
+        wczoraj i dzisiaj zostało uporządkowane. Dla mnie to jest bardzo cenne
+        szkolenie i chyba dzięki niemu mamy zaczątek jakiegoś ruchu.
+      kto: Marta
+    - co: Na szkoleniu dostałam więcej niż oczekiwałam. W kupie siła. Myślę o tym,
+        żeby ruszyć śnieżną kulę.
+      kto: Katarzyna
 czego_oczekujemy:
   naglowek: Czego oczekujemy?
   tresc: >-
