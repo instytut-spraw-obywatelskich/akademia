@@ -237,6 +237,10 @@ co_mowia_inni:
     - co: Na szkoleniu dostałam więcej niż oczekiwałam. W kupie siła. Myślę o tym,
         żeby ruszyć śnieżną kulę.
       kto: Katarzyna
+    - co: Cieszę ze spotkania, że mogliśmy dzielić się pomysłami, że jest nas dużo i,
+        że będzie więcej. Mogliśmy dotknąć tego tematu z różnych perspektyw i
+        poziomów. Mam nadzieję, że to nas doprowadzi do sukcesu.
+      kto: Dominika
 czego_oczekujemy:
   naglowek: Czego oczekujemy?
   tresc: >-
