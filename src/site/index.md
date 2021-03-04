@@ -141,6 +141,50 @@ zespol:
         Prezesa Rady Ministrów oraz Kanclerz Wyższej Szkoły
         Humanistyczno-Ekonomicznej w Sieradzu. Prowadził zajęcia z zakresu nauk
         politycznych, teorii organizacji oraz bezpieczeństwa wewnętrznego.
+    - nazwisko: Jarosław Ogrodowski
+      foto: https://res.cloudinary.com/inspro/image/upload/v1614846730/aiso/Zdj%C4%99cia%20szkolenia/Jaros%C5%82aw_Ogrodowski.jpg
+      bio: ekspert w zakresie partycypacji społecznej i rewitalizacji, społecznik,
+        samorządowiec. Pracował w Biurze ds. Rewitalizacji i Zabudowy Urzędu
+        Miasta Łodzi. W latach 2016-2019 pracownik Instytutu Rozwoju Miast,
+        gdzie odpowiadał za prowadzenie szkoleń, tworzenie dokumentów
+        strategicznych dla samorządów oraz tworzenie publikacji poradnikowych i
+        podręczników dla samorządów z zakresu partycypacji społecznej i
+        rewitalizacji. Współzałożyciel ruchu „TAK dla Łodzi”, Ruchu Społecznego
+        „Szacunek dla Łodzi” oraz fundacji Instytut Działań Samorządowych.
+    - nazwisko: Piotr Bucki
+      foto: https://res.cloudinary.com/inspro/image/upload/v1614846339/aiso/Zdj%C4%99cia%20szkolenia/Piotr_Bucki_400_400.jpg
+      bio: architekt, który wybrał projektowanie zdań a nie budynków. Aktor, który
+        scenę teatralną zamienił na sale szkoleniowe i spotkania z widownią na
+        konferencjach. Psycholog, który lubi badać i ciągle zadaje sobie
+        pytanie, „skąd wiem, to co wiem?". Od 18 lat uczy ludzi projektować
+        komunikację w różnych wymiarach. Zawsze bazuje przy tym na psychologii
+        poznawczej i neuronaukach. Autor książek,m.in. „Porozmawiajmy o
+        komunikacji", „Złap równowagę" i „Viral". Napisał wstęp do polskiego
+        wydania bestsellera „Przyczepne historie".Od ponad 9 lat związany z WSB,
+        gdzie projektuje kierunki i wykłada, głównie w obszarze brandingu,
+        marketingu i komunikacji. Wykłada też na USWPS, SGH i AGH. Szkoli m.in.
+        w Allegro, Dynatrace, Santanderze, Nordea IT. Współpracuje z Europejską
+        Agencją Kosmiczną i GNSSA, gdzie współtworzy programy szkoleniowe dla
+        startupów i konsultantów.
+    - nazwisko: Tomasz Piotr Sidewicz
+      foto: https://res.cloudinary.com/inspro/image/upload/v1614846333/aiso/Zdj%C4%99cia%20szkolenia/Tomasz_Piotr_Sidewicz_AMX_Studio_400_400.jpg
+      bio: zawodowy negocjator, który bierze odpowiedzialność za efekt prowadzonych
+        negocjacji. Specjalizuje się w trudnej komunikacji biznesowej, wpływie
+        społecznym (manipulacje), rozpoznawaniu kłamania oraz negocjacjach w
+        konflikcie interesów. Pasjonuje się komunikacją interpersonalną, zarówno
+        werbalną, jak i niewerbalną, szczególnie w obszarach wpływu (pragmatyka)
+        i językoznawstwa kryminalistycznego.
+    - nazwisko: Michał Rżysko
+      foto: https://res.cloudinary.com/inspro/image/upload/v1614846344/aiso/Zdj%C4%99cia%20szkolenia/Micha%C5%82_R%C5%BCysko_400_400.jpg
+      bio: zajmuje się zarządzeniem projektami, promocją i pozyskiwaniem funduszy.
+        Związany jest z Fundacją Pomoc Maltańska – Maltańska Służba Medyczna,
+        gdzie pozyskuje fundusze i zarządza projektami międzynarodowymi. Jest
+        certyfikowanym trenerem organizacji pozarządowych, współpracownikiem
+        Polskiego Stowarzyszeniem Fundraisingu, Toruńskiej Federacji Organizacji
+        Pozarządowych, Centrum Wolontariatu w Warszawie, Korpusu Solidarności,
+        Fundacji Orlen, Instytutu Pozytywnej Edukacji i wielu innych, dla
+        których prowadzi warsztaty, szkolenia i konsultacje z zakresu
+        fundraisingu.
 kontakt:
   z_kim: Martą Stępniak
   foto: https://res.cloudinary.com/inspro/image/upload/v1589893660/aiso/marta-stepniak.jpg
