@@ -1,6 +1,5 @@
 ---
-title: Szkolenie otwarte dla ngo - wykorzystaj prawo jako "narzędzie" do zmiany
-  społecznej
+title: Prawo jako „narzędzie” zmiany społecznej. Bezpłatne szkolenie dla aktywistów
 date: 2021-02-19T08:27:55.537Z
 zajawka: "**Szkolenie „Wykorzystaj prawo” w ramach Akademii Instytutu Spraw
   Obywatelskich skierowane jest do społeczników działających w różnych
@@ -38,7 +37,7 @@ Poinformujemy Cię o wynikach rekrutacji. Następnie poprosimy Cię o wypełnien
 
 **Zgłoszenie na szkolenie jest jednoznaczne z akceptacją zdalnej formy szkolenia.**
 
-**Zgłoszenia przyjmujemy do 05.03.2021 roku**
+**Zgłoszenia przyjmujemy do 10.03.2021 roku**
 
 Zgodnie z wymogami grantodawcy, szkolenie zdalne musi być rejestrowane. Nagranie nie będzie udostępniane uczestnikom ani osobom postronnym. Będzie przechowywane tylko na potrzeby ewentualnej kontroli projektu.
 
