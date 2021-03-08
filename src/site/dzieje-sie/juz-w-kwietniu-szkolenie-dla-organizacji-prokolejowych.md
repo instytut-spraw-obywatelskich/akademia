@@ -7,6 +7,9 @@ zajawka: Razem z Fundacją ProKolej zapraszamy na zdalne dwudniowe szkolenie
   wykorzystywać prawo jako „narzędzie” do zmiany społecznej. Chcesz się
   dowiedzieć więcej o działaniach prokolejowych sprawdź stronę - [Fundacji
   ProKolej](http://www.prokolej.org/)
+obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1615205736/aiso/Zdj%C4%99cia%20szkolenia/grafiki%20pionowe%20i%20poziome/pexels-leon-macapagal-768-512.jpg
+obrazek_opis: połączenia kolejowe
+obrazek_podpis: "źródłó: Pexels"
 ---
 **Kiedy:** 17-18.04.2021 (sobota-niedziela) w godz. 09:00-16:00
 
