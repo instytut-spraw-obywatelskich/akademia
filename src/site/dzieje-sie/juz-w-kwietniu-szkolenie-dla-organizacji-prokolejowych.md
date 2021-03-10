@@ -9,7 +9,7 @@ zajawka: Razem z Fundacją ProKolej zapraszamy na zdalne dwudniowe szkolenie
   ProKolej](http://www.prokolej.org/)
 obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1615368233/aiso/Zdj%C4%99cia%20szkolenia/grafiki%20pionowe%20i%20poziome/DSC_0059_768_512.jpg
 obrazek_opis: połączenia kolejowe
-obrazek_podpis: "źródłó: Pexels"
+obrazek_podpis: "źródło: zdjęcie udostępnione przez Fundację ProKolej"
 ---
 **Kiedy:** 17-18.04.2021 (sobota-niedziela) w godz. 09:00-16:00
 
