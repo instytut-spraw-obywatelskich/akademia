@@ -25,13 +25,13 @@ Szkolenie jest przeznaczone dla przedstawicieli organizacji społecznych. **Ucze
 
 **Jak się zgłosić?**
 
-Aby zgłosić się na szkolenie należy wypełnić [formularz zgłoszeniowy](https://forms.gle/QDVnGAVcfetC9gTW8)
+Aby zgłosić się na szkolenie należy wypełnić** [formularz zgłoszeniowy](https://forms.gle/QDVnGAVcfetC9gTW8)**
 
 Zgłoszenie się na szkolenie nie jest jednoznaczne z potwierdzeniem możliwości uczestnictwa.
 
-Na stronie Akademii Instytutu możesz się zapoznać z [Regulaminem](https://res.cloudinary.com/inspro/raw/upload/v1601120217/aiso/regulamin_z_zalacznikami.zip).
+Na stronie Akademii Instytutu możesz się zapoznać z **[Regulaminem](https://res.cloudinary.com/inspro/raw/upload/v1601120217/aiso/regulamin_z_zalacznikami.zip).**
 
-Poinformujemy Cię o wynikach rekrutacji. Następnie poprosimy Cię o wypełnienie [dokumentacji projektowej](https://res.cloudinary.com/inspro/raw/upload/v1595492482/aiso/dokumenty_przystapienia_do_projektu.zip), podpisania przez osoby uprawnione do reprezentacji i dostarczenia do nas przed szkoleniem.
+Poinformujemy Cię o wynikach rekrutacji. Następnie poprosimy Cię o wypełnienie **[dokumentacji projektowej](https://res.cloudinary.com/inspro/raw/upload/v1595492482/aiso/dokumenty_przystapienia_do_projektu.zip)**, podpisania przez osoby uprawnione do reprezentacji i dostarczenia do nas przed szkoleniem.
 
 **W ramach szkolenia uczestnik otrzyma: materiały szkoleniowe a także zaświadczenie udziału w szkoleniu.**
 
