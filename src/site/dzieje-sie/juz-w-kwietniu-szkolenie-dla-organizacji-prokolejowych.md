@@ -15,7 +15,7 @@ obrazek_podpis: "źródło: zdjęcie udostępnione przez Fundację ProKolej"
 
 **Gdzie:** Ze względu na aktualne wytyczne dot. przeciwdziałania epidemii, szkolenie odbędzie zdalnie
 
-**[Folder szkolenia z ramowym programem](https://res.cloudinary.com/inspro/image/upload/v1594962795/aiso/aiso-instytut.pdf)** 
+[Wstępny ramowy program szkolenia](https://res.cloudinary.com/inspro/image/upload/v1615531495/aiso/Zdj%C4%99cia%20szkolenia/grafiki%20pionowe%20i%20poziome/program.pdf)
 
 **Prowadzący**
 
