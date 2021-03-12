@@ -25,7 +25,9 @@ Szkolenie jest przeznaczone dla przedstawicieli organizacji społecznych. **Ucze
 
 **Jak się zgłosić?**
 
-Aby zgłosić się na szkolenie należy wypełnić** [formularz zgłoszeniowy](https://forms.gle/QDVnGAVcfetC9gTW8)**
+Aby zgłosić się na szkolenie należy wypełnić** [](https://forms.gle/QDVnGAVcfetC9gTW8)**
+
+**[formularz zgłoszeniowy](https://forms.gle/QDVnGAVcfetC9gTW8)**
 
 Zgłoszenie się na szkolenie nie jest jednoznaczne z potwierdzeniem możliwości uczestnictwa.
 
