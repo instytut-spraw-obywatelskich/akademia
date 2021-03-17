@@ -1,11 +1,16 @@
 ---
 title: Prawo jako „narzędzie” zmiany społecznej. Bezpłatne szkolenie dla aktywistów
 date: 2021-02-19T08:27:55.537Z
-zajawka: "**Szkolenie „Wykorzystaj prawo” w ramach Akademii Instytutu Spraw
-  Obywatelskich skierowane jest do społeczników działających w różnych
-  organizacjach pozarządowych. Jeśli chcesz się dowiedzieć jak wykorzystywać
-  prawo jako „narzędzie” do zmiany społecznej, jak wyznaczać cele strategicznych
-  z wykorzystaniem prawa lokalnego i krajowego, zapisz się na szkolenie.**"
+zajawka: >-
+  **Walczysz z inwestycją szkodliwą dla Ciebie i Twojej rodziny? Bronisz swojego
+  prawa do czystego powietrza, ciszy lub zieleni? Stawiasz opór głupocie i
+  chciwości? Wykorzystaj prawo.**
+
+
+  Jeśli działasz w organizacji społecznej, podpowiemy Ci, jak skutecznie walczyć o dobro wspólne zgodnie z prawem.
+
+
+  **Bezpłatne szkolenie „Wykorzystaj prawo” w ramach Akademii Instytutu Spraw Obywatelskich skierowane jest do społeczników, którzy chcą się dowiedzieć, jak używać prawa do zmiany społecznej. Zapisz się na szkolenie już dziś. Liczba miejsc jest ograniczona.**
 obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1613723217/aiso/Zdj%C4%99cia%20szkolenia/og%C3%B3lne_szkolenie.jpg
 obrazek_opis: szkolenie dla organizacji pozarządowych, sala, uczestnicy, prowadzący
 ---
