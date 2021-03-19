@@ -2,14 +2,14 @@
 title: Rekomendacje do ustawy o zatrudnieniu socjalnym - szkolenie zdalne
 date: 2021-03-19T05:26:10.229Z
 zajawka: >-
-  Szkolenie ma na celu wypracowanie rekomendacji do ustawy o zatrudnieniu
-  socjalnym w zakresie prowadzenia działalności KIS i CIS.
+  **Ministerstwo Rodziny i Polityki Społecznej pracuje nad własnymi
+  rekomendacjami do ustawy o zatrudnieniu socjalnym. W grudniu na szkoleniu
+  pracowaliśmy nad własnymi pomysłami na podstawie doświadczeń kilkunastu
+  organizacji z całej Polski i dwóch testowych  projektów (Kra­jowej Sieci
+  Rein­te­gracji i Testowego Modelu Współpracy).**
 
 
-  Ministerstwo Rodziny i Polityki Społecznej pracuje nad własnymi rekomendacjami do ustawy o zatrudnieniu socjalnym. W grudniu na szkoleniu pracowaliśmy nad własnymi pomysłami na podstawie doświadczeń kilkunastu organizacji z całej Polski i dwóch testowych  projektów (Kra­jowej Sieci Rein­te­gracji i Testowego Modelu Współpracy).
-
-
-  Dołącz do nas i miej wpływ na kształt ustawy.
+  **Dołącz do nas i miej wpływ na kształt ustawy.**
 obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1616131487/aiso/Zdj%C4%99cia%20szkolenia/grafiki%20pionowe%20i%20poziome/workshop-768_513.jpg
 obrazek_opis: tablica i markery
 obrazek_podpis: źródło Pixabay
@@ -32,6 +32,8 @@ Szczegółowy program zamieścimy niebawem.
 
 Szkolenie jest przeznaczone dla przedstawicieli organizacji społecznych. **Uczestnik szkoleń musi być wydelegowany** **przez organizację społeczną** (m.in. stowarzyszenie, fundacja), która posiada NIP. Jedna organizacja może wydelegować kilku uczestników.
 
+**Uwaga - osoby, które wzięły udział w grudniowym szkoleniu nie muszą zgłaszać się jeszcze raz.**
+
 **Jak się zgłosić?**
 
 Aby zgłosić się na szkolenie należy wypełnić [formularz zgłoszeniowy](https://forms.gle/QDVnGAVcfetC9gTW8)
@@ -46,7 +48,7 @@ Poinformujemy Cię o wynikach rekrutacji. **Następnie poprosimy Cię o wypeł
 
 **Zgłoszenie na szkolenie jest jednoznaczne z akceptacją zdalnej formy szkolenia.**
 
-**Zgłoszenia przyjmujemy do 31.04.2021 roku**
+**Zgłoszenia przyjmujemy do 02.04.2021 roku**
 
 Zgodnie z wymogami grantodawcy, szkolenie zdalne musi być rejestrowane. Nagranie nie będzie udostępniane uczestnikom ani osobom postronnym. Będzie przechowywane tylko na potrzeby ewentualnej kontroli projektu.
 
