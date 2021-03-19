@@ -4,9 +4,9 @@ date: 2021-03-19T05:26:10.229Z
 zajawka: >-
   **Ministerstwo Rodziny i Polityki Społecznej pracuje nad własnymi
   rekomendacjami do ustawy o zatrudnieniu socjalnym. W grudniu na szkoleniu
-  pracowaliśmy nad własnymi pomysłami na podstawie doświadczeń kilkunastu
-  organizacji z całej Polski i dwóch testowych  projektów (Kra­jowej Sieci
-  Rein­te­gracji i Testowego Modelu Współpracy).**
+  pracowaliśmy nad  naszymi pomysłami zmian do ustawy na podstawie doświadczeń
+  kilkunastu organizacji z całej Polski i dwóch testowych  projektów (Kra­jowej
+  Sieci Rein­te­gracji i Testowego Modelu Współpracy).**
 
 
   **Dołącz do nas i miej wpływ na kształt ustawy.**
