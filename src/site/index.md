@@ -42,20 +42,16 @@ program_szkolenia:
           czas: 1
         - tytul: Jak wygrać kampanię obywatelską? Wykorzystaj prawo
           opis: |-
-            Cel – wskaż najbliższą zmianę; 
-
-            Układ sił – analizuj sojuszników i wrogów 
-
-            Wiatr – wykorzystaj szanse, Komunikacja – mobilizuj do działania
-
-            Kampanier – zacznij od siebie, 
-
+            Cel – wskaż najbliższą zmianę;\
+            Układ sił – analizuj sojuszników i wrogów\
+            Wiatr – wykorzystaj szanse,\
+            Komunikacja – mobilizuj do działania\
+            Kampanier – zacznij od siebie,\
             Skrzynka narzędziowa
           czas: 4
-        - tytul: Planowanie kampanii obywatelskiej z wykorzystaniem prawa lokalnego i
-            krajowego
+        - tytul: "Skrzynka narzędziowa - prawo lokalne, krajowe i UE "
           opis: null
-          czas: 1
+          czas: 2
         - tytul: "Podsumowanie "
           opis: "[](http://www.inpris.pl/przedsiewziecia/twoje-prawo/)"
           czas: 1
@@ -64,16 +60,11 @@ program_szkolenia:
         - tytul: Film „Wpuszczeni w korek”, studium przypadku, analiza
           opis: ""
           czas: 2
-        - tytul: Planowanie kampanii obywatelskiej z wykorzystaniem prawa lokalnego i
-            krajowego
+        - tytul: "Planowanie kampanii obywatelskiej z wykorzystaniem prawa lokalnego,
+            krajowego i UE "
           opis: ""
-          czas: 2
-        - tytul: Planowanie kampanii obywatelskiej z wykorzystaniem prawa lokalnego i
-            krajowego
-          opis: ""
-          czas: 4
+          czas: 5
         - tytul: Z czym wychodzisz?
-          opis: podsumowanie
           czas: 1
 metody_pracy:
   naglowek: Metody pracy
