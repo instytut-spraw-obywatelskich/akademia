@@ -63,9 +63,9 @@ program_szkolenia:
         - tytul: Planowanie własnej kampanii obywatelskiej z wykorzystaniem prawa
             lokalnego, krajowego i UE
           opis: ""
-          czas: 5
+          czas: 4.5
         - tytul: Z czym wychodzisz?
-          czas: 1
+          czas: 0.5
 metody_pracy:
   naglowek: Metody pracy
   tresc: >
