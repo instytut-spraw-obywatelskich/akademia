@@ -37,41 +37,43 @@ program_szkolenia:
   dni:
     - dzien: pierwszy
       warsztaty:
-        - tytul: Kto jest kim?
+        - tytul: Wprowadzenie, program szkolenia, potrzeby
           opis: poznajmy się
           czas: 1
-        - tytul: Jak wykorzystać prawo krajowe?
-          opis: proces legislacyjny, m.in. ustawa rządowa, ustawa poselska, obywatelska
-            inicjatywa ustawodawcza, prawo do petycji
+        - tytul: Jak wygrać kampanię obywatelską? Wykorzystaj prawo
+          opis: >-
+            Cel – wskaż najbliższą zmianę; Układ sił – analizuj sojuszników i
+            wrogów 
+
+
+            Wiatr – wykorzystaj szanse, Komunikacja – mobilizuj do działania
+
+
+            Kampanier – zacznij od siebie, 
+
+
+            Skrzynka narzędziowa
           czas: 4
-        - tytul: Jak wykorzystać prawo UE?
+        - tytul: Planowanie kampanii obywatelskiej z wykorzystaniem prawa lokalnego i
+            krajowego
           opis: null
           czas: 1
-        - tytul: Gra „Twoje Prawo”
-          opis: >
-            [inpris.pl/przedsiewziecia/twoje-prawo](http://www.inpris.pl/przedsiewziecia/twoje-prawo/)
-          czas: 2
+        - tytul: "Podsumowanie "
+          opis: "[](http://www.inpris.pl/przedsiewziecia/twoje-prawo/)"
+          czas: 1
     - dzien: drugi
       warsztaty:
-        - tytul: Jak wykorzystać prawo samorządowe?
-          opis: "proces zmiany prawa: dostęp do informacji publicznej, konsultacje
-            społeczne, obywatelska inicjatywa uchwałodawcza, panel obywatelski,
-            referendum lokalne"
-          czas: 3
-        - tytul: Wybrane narzędzia zmiany
-          opis: >
-            * Poradnik „Obywatelska Analiza Prawa – monitoring, narzędzia, model
-            obywatelskiej oceny skutków regulacji”
-
-            * Obywatelska Analiza Skutków Regulacji Prawnych
-
-            * Bank danych [bankdanych.io](https://bankdanych.io/)
-
-            * Poradnik „Do rzeczy. Jak korzystać z danych w działaniach rzeczniczych?”
-          czas: 1
-        - tytul: Wykorzystaj prawo do zmiany społecznej
-          opis: praca nad indywidualnymi planami działania
-          czas: 3
+        - tytul: Film „Wpuszczeni w korek”, studium przypadku, analiza
+          opis: ""
+          czas: 2
+        - tytul: Planowanie kampanii obywatelskiej z wykorzystaniem prawa lokalnego i
+            krajowego
+          opis: ""
+          czas: 2
+        - tytul: Planowanie kampanii obywatelskiej z wykorzystaniem prawa lokalnego i
+            krajowego
+          opis: ""
+          czas: 4
         - tytul: Z czym wychodzisz?
           opis: podsumowanie
           czas: 1
