@@ -46,7 +46,7 @@ program_szkolenia:
             Układ sił – analizuj sojuszników i wrogów\
             Wiatr – wykorzystaj szanse,\
             Komunikacja – mobilizuj do działania\
-            Kampanier – zacznij od siebie,\
+            Kampanier – zacznij od siebie\
             Skrzynka narzędziowa
           czas: 4
         - tytul: "Skrzynka narzędziowa - prawo lokalne, krajowe i UE "
@@ -60,8 +60,8 @@ program_szkolenia:
         - tytul: Film „Wpuszczeni w korek”, studium przypadku, analiza
           opis: ""
           czas: 2
-        - tytul: "Planowanie kampanii obywatelskiej z wykorzystaniem prawa lokalnego,
-            krajowego i UE "
+        - tytul: Planowanie własnej kampanii obywatelskiej z wykorzystaniem prawa
+            lokalnego, krajowego i UE
           opis: ""
           czas: 5
         - tytul: Z czym wychodzisz?
