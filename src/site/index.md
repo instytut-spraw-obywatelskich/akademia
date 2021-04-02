@@ -41,16 +41,14 @@ program_szkolenia:
           opis: poznajmy się
           czas: 1
         - tytul: Jak wygrać kampanię obywatelską? Wykorzystaj prawo
-          opis: >-
-            Cel – wskaż najbliższą zmianę; Układ sił – analizuj sojuszników i
-            wrogów 
+          opis: |-
+            Cel – wskaż najbliższą zmianę; 
 
+            Układ sił – analizuj sojuszników i wrogów 
 
             Wiatr – wykorzystaj szanse, Komunikacja – mobilizuj do działania
 
-
             Kampanier – zacznij od siebie, 
-
 
             Skrzynka narzędziowa
           czas: 4
