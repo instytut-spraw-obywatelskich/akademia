@@ -1,5 +1,5 @@
 ---
-title: Rekomendacje do ustawy o zatrudnieniu socjalnym - szkolenie zdalne
+title: Propozycja nowelizacji ustawy o zatrudnieniu socjalnym - szkolenie zdalne
 date: 2021-03-19T05:26:10.229Z
 zajawka: >-
   **Ministerstwo Rodziny i Polityki Społecznej pracuje nad własnymi
