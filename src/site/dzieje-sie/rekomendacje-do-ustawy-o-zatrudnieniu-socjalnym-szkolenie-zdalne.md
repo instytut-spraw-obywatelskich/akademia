@@ -14,7 +14,7 @@ obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1616131487
 obrazek_opis: tablica i markery
 obrazek_podpis: źródło Pixabay
 ---
-Nasz ekspert Cezary Miżejewski zebrał dotychczasowe rekomendacje od uczestników i na szkoleniu będziemy mogli je omówić. 
+Nasz ekspert Cezary Miżejewski zebrał dotychczasowe rekomendacje od uczestników i na szkoleniu będziemy mogli omówić **propozycję nowelizacji ustawy.**
 
 **Kiedy: 24-25.04.2021 (sobota-niedziela) godz. 09:00-16:00**
 
