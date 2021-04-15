@@ -17,4 +17,4 @@ obrazek_opis: "okładka poradnika "
 
 Poradnik do pobrania[ TUTAJ](https://res.cloudinary.com/inspro/image/upload/v1618488497/aiso/Zdj%C4%99cia%20szkolenia/grafiki%20pionowe%20i%20poziome/Anty-bezradnik-przestrzenny-Pob%C5%82ocki-Mergler-Wudarski.pdf)
 
-![](https://res.cloudinary.com/inspro/image/upload/v1618488486/aiso/Zdj%C4%99cia%20szkolenia/grafiki%20pionowe%20i%20poziome/anty_bezradnik_pion.jpg "Okładka poradnika.Wydawca: Biblioteka Res Publiki Nowej. Fundacja Res Publica im. H. Krzeczkowskiego, 00-362 Warszawa, ul. Gałczyńskiego 5")
+![Okładka poradnika.Wydawca: Biblioteka Res Publiki Nowej. Fundacja Res Publica im. H. Krzeczkowskiego, 00-362 Warszawa](https://res.cloudinary.com/inspro/image/upload/v1618488486/aiso/Zdj%C4%99cia%20szkolenia/grafiki%20pionowe%20i%20poziome/anty_bezradnik_pion.jpg "Okładka poradnika.Wydawca: Biblioteka Res Publiki Nowej. Fundacja Res Publica im. H. Krzeczkowskiego, 00-362 Warszawa, ul. Gałczyńskiego 5")
