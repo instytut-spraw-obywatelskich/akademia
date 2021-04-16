@@ -46,31 +46,7 @@ Należy jednak pamiętać, że strażnictwo to nie sam monitoring, ale trzy rów
 •    badanie wycinka rzeczywistości;\
 •    zmiana.
 
-[<!--\[if gte vml 1]><v:shapetype
- id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
- path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
- <v:stroke joinstyle="miter"/>
- <v:formulas>
-  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
-  <v:f eqn="sum @0 1 0"/>
-  <v:f eqn="sum 0 0 @1"/>
-  <v:f eqn="prod @2 1 2"/>
-  <v:f eqn="prod @3 21600 pixelWidth"/>
-  <v:f eqn="prod @3 21600 pixelHeight"/>
-  <v:f eqn="sum @0 0 1"/>
-  <v:f eqn="prod @6 1 2"/>
-  <v:f eqn="prod @7 21600 pixelWidth"/>
-  <v:f eqn="sum @8 21600 0"/>
-  <v:f eqn="prod @7 21600 pixelHeight"/>
-  <v:f eqn="sum @10 21600 0"/>
- </v:formulas>
- <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
- <o:lock v:ext="edit" aspectratio="t"/>
-</v:shapetype><v:shape id="_x0000_i1025" type="#_x0000_t75" alt="trzy zachodzące na siebie koła: zmiana, działanie w interesie społecznym i badanie wycinka rzeczywistości"
- style='width:229.5pt;height:181.5pt' o:button="t">
- <v:imagedata src="file:///C:/Users/MARTAS~1/AppData/Local/Temp/msohtmlclip1/01/clip_image001.jpg"
-  o:href="http://watchdog.org.pl/wwwdane/images/trzy%20kola%20pl.JPG"/>
-</v:shape><!\[endif]--><!--\[if !vml]-->![trzy zachodzące na siebie koła: zmiana, działanie w interesie społecznym i badanie wycinka rzeczywistości](file:///C:/Users/MARTAS~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)<!--\[endif]-->](http://watchdog.org.pl/wwwdane/images/trzy%20kola%20pl.JPG)
+[](http://watchdog.org.pl/wwwdane/images/trzy%20kola%20pl.JPG)
 
 Pierwszy komponent, bez którego nie można mówić o strażnictwie to **działanie w interesie publicznym**, które można przeciwstawić działalności we interesie własnym. Działania strażnicze dotyczą nie tylko wyjaśniania osobistej sytuacji, lecz zakładają przyglądanie się sprawie w szerszym kontekście, szukanie przyczyn danego stanu rzeczy, które są istotne także dla innych osób bądź podmiotów instytucjonalnych mogących znaleźć się w podobnej sytuacji.
 
@@ -119,8 +95,6 @@ Możemy rozróżnić 3 podstawowe typy metod wprowadzania zmiany – społeczne,
 **2. Działania prawne** – czyli działania, których celem jest zmiana prawa lub istotna zmiana praktyki jego stosowania. Może to być składanie wniosków, w którym proponujemy sposób rozwiązania danej kwestii lub składanie skarg, które służą zwróceniu uwagi na konkretne błędy w działaniu urzędu. W działaniach prawnych mieści się również udział w postępowaniu administracyjnym oraz litygacja strategiczna, którą nazywamy postępowanie, zwykle przed sądem, w celu kształtowania systemu prawnego przez precedensowy charakter rozstrzygnięcia sądu.
 
 **3. Działania polityczne** – oznaczają współpracę z decydentami. Wywieranie za pomocą różnych instytucji, bezpośredniego wpływu na przedstawicieli władz publicznych odpowiedzialnych za rozwiązanie problemu oraz lobbing rozumiany jako systematyczne, formalne działania zmierzające do wywarcia wpływu na organy władzy państwowej w interesie określonych grup społecznych.
-
-
 
 # Dlaczego tak trudno o zmianę?
 
