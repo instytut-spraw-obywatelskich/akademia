@@ -8,7 +8,7 @@ zajawka: >-
   **Chcesz obronić drzewa przed wycinką? Chcesz zapobiec przycince, amputacji i okaleczaniu drzew?**
 
 
-  **Zgłoś się na szkolenie „W obronie drzew wykorzystaj prawo”. Mamy dla Ciebie wiedzę, narzędzia oraz okazję do poznania społeczników walczących w obronie drzew.**
+  **Zgłoś się na szkolenie „W obronie drzew wykorzystaj prawo”. Mamy dla Ciebie wiedzę, narzędzia oraz okazję do wymiany doświadczeń ze społecznikami walczącymi w obronie drzew.**
 obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1618478534/aiso/Zdj%C4%99cia%20szkolenia/grafiki%20pionowe%20i%20poziome/zdjecie_drzwa.jpg
 obrazek_opis: pień ściętego drzewa
 ---
