@@ -86,7 +86,8 @@ Nie warto również tracić energii na przekonywanie osób, które owszem są w�
 
 # **Jak wprowadzać tę zmianę, czyli słów kilka o metodach**
 
-Możemy rozróżnić 3 podstawowe typy metod wprowadzania zmiany – społeczne, prawne i polityczne.\
+Możemy rozróżnić 3 podstawowe typy metod wprowadzania zmiany – społeczne, prawne i polityczne.
+
 \
 1. **Działania społeczne** – Może to być na przykład nagłaśnianie, edukacja obywatelska, zbieranie podpisów w miejscach publicznych, pisanie listów, petycji, rozmowy telefoniczne, chodzenie *od drzwi do drzwi*. Będzie to również organizowanie lub uczestniczenie w konsultacjach i debatach publicznych oraz przedstawianie rekomendacji czyli propozycji konkretnych zmian adresowanych do decydentów. Są również metody społeczne, które kojarzone są z bezpośrednim naciskiem, czyli z   działaniami bez użycia przemocy, bazującymi na masowym uczestnictwie, obywatelskim nieposłuszeństwie, czy zakłócaniu działania instytucji/organizacji/firmy. Ich celem jest nakłonienie władz do podjęcia negocjacji.
 
