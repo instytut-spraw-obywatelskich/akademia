@@ -9,11 +9,9 @@ obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1618568036
 obrazek_opis: Człowiek z lupą
 obrazek_podpis: źródło Pixabay
 ---
-Tekst do ponrania - [TUTAJ](https://res.cloudinary.com/inspro/image/upload/v1618568086/aiso/Zdj%C4%99cia%20szkolenia/grafiki%20pionowe%20i%20poziome/Stra%C5%BCnictwo.pdf)
+Tekst do pobrania - [TUTAJ](https://res.cloudinary.com/inspro/image/upload/v1618568086/aiso/Zdj%C4%99cia%20szkolenia/grafiki%20pionowe%20i%20poziome/Stra%C5%BCnictwo.pdf)
 
-# Definicyjną cechą strażnictwa jest zmiana
-
-
+# **Definicyjną cechą strażnictwa jest zmiana**
 
 **Kontrola społeczna – sprawdzamy czy działania władz są zgodne nie tylko z literą prawa, ale również z jego duchem.**
 
@@ -26,7 +24,7 @@ Jednak czy kontrola państwowa i kontrola społeczna oznaczają to samo? W pierw
 Istotna cechą kontroli społecznej jest sprawdzanie i ocenianie usług administracji publicznej z perspektywy konsumenta. Bezpośredni konsument usług i świadczeń administracji publicznej zainteresowany jest najpełniejszym i najsprawniejszym wypełnianiem zadań przez podmioty administracji publicznej oraz innych dostarczycieli usług publicznych.
 
 \
-Wyobraźmy sobie zatem taką sytuację, w której. rada gminy jest sklepem obuwniczym, a my, obywatele jego klientami. Państwowa Inspekcja Handlowa czy Urząd Skarbowy mogą skontrolować jego pracę pod względem finansowym lub merytorycznym ( np. czy obuwie sprzedawane w sklepie ma odpowiednie atesty). Ale dopiero sam klient może faktycznie ocenić, jak został obsłużony, czy rzeczywiście buty, które kupił odpowiadają temu, jak opisał je sprzedawca, czy na pewno zapłaciliśmy najlepszą cenę. Tak samo rzecz ma się z administracją publiczną. Obywatele mają prawo oceniać jakość usług, funkcjonalność oraz to, **czy działania władz są zgodne nie tylko z literą prawa, ale również z jego duchem.**
+Wyobraźmy sobie zatem taką sytuację, w której. rada gminy jest sklepem obuwniczym, a my, obywatele jego klientami. Państwowa Inspekcja Handlowa czy Urząd Skarbowy mogą skontrolować jego pracę pod względem finansowym lub merytorycznym ( np. czy obuwie sprzedawane w sklepie ma odpowiednie atesty). Ale dopiero sam klient może faktycznie ocenić, jak został obsłużony, czy rzeczywiście buty, które kupił odpowiadają temu, jak opisał je sprzedawca, czy na pewno zapłaciliśmy najlepszą cenę. Tak samo rzecz ma się z administracją publiczną. Obywatele mają prawo oceniać jakość usług, funkcjonalność oraz to, czy działania władz są zgodne nie tylko z literą prawa, ale również z jego duchem.
 
 \
 Kontrola społeczna obejmuje swym zasięgiem szerszy zakres niż kontrola państwowa, ponieważ sprawdza celowość i przydatność społeczną realizowanych zadań, i osiąganych efektów. W kontroli społecznej istotnymi punktami odniesienia funkcjonowania aparatu administracyjnego są między innymi takie pojęcia jak: dobra i zła administracja, przyjazna i dostępna dla obywateli władza, respektowanie interesów obywateli, rozumienie sytuacji jednostki i grup społecznych, czy wreszcie uwzględnianie społecznego kontekstu przy rozwiązywaniu problemów.
@@ -35,7 +33,7 @@ Demokratyczne państwo prawne nie może istnieć bez kontroli w formie obywatels
 
 Do zalet kontroli społecznej należy przede wszystkim to, że reagując na działania administracji publicznej i wytykając jej błędy, nieprawidłowości, naruszenia zasad, czy prawa, kontrola społeczna daje sygnały o tym, w jakim stopniu obywatele akceptują funkcjonowanie władzy publicznej i realizowanie przypisanych jej zadań. To zaś może być istotnym czynnikiem w procesach naprawczych i ulepszających tę władzę.
 
-# Strażnictwo to nie tylko monitoring
+# **Strażnictwo to nie tylko monitoring**
 
 Kontrola społeczna może być prowadzona przez jedną zaangażowaną osobę, przez nieformalną lub formalną grupę. Może być również prowadzona różnymi środkami: przez internet i w realnym świecie. W zasadzie każde dozwolone prawem działanie, którego celem jest obserwacja poczynań władz, można uznać za nadzór obywatelski. Warto tu również wspomnieć o tak zwanych sygnalistach (ang. whistleblowers), którzy wiedząc o źle prowadzonych działaniach w danej instytucji, czy przedsiębiorstwie, na przykład takim, w którym sami pracują, alarmują odpowiednie organy.\
 Jedną z form prowadzenia kontroli społecznej są zorganizowane działania kontrolne określane jako monitoring społeczny lub audyt obywatelski. Działania takie przybierają najczęściej formę projektu realizowanego przez organizacje strażnicze i skupiają się na metodycznej kontroli wycinka działalności wybranych instytucji. Obywatele będący specjalistami w konkretnej dziedzinie mogą sprawdzają zgodność z prawem na przykład funkcjonowania oddziałów zamkniętych w szpitalach psychiatrycznych. Ich działania mogą obejmować również diagnozę tego, czy funkcjonowanie oddziałów zamkniętych jest zgodne z założeniami Konwencji o Ochronie Praw Człowieka i Podstawowych Wolności oraz z innymi dokumentami ratyfikowanymi przez Polskę. Sprawdzają również zgodność z prawem wewnętrznych regulaminów. W szpitalach psychiatrycznych to one najczęściej mają realny wpływ na to, co się dzieje na konkretnym oddziale. Podobnie rodzice, niezadowoleni z długich kolejek w zapisie dzieci do przedszkoli, mogą przeprowadzić monitoring przepisów odnośnie opieki przedszkolnej i ich wykonania w danej gminie. Przykładów na monitoring można podać wiele – właściwie wykonywanie każdego przepisu, według którego funkcjonują instytucje publiczne może stać się podstawą do przeprowadzenia kontroli obywatelskiej.
@@ -54,7 +52,7 @@ Drugim komponentem jest **badanie wycinka rzeczywistości**, które w zależnoś
 
 W tym momencie dochodzimy do trzeciego komponentu – **zmiany**.
 
-# Czym jest zmiana? Jak ją rozumiemy w działaniach strażniczych?
+# **Czym jest zmiana? Jak ją rozumiemy w działaniach strażniczych?**
 
 Zmiana, w naszym rozumieniu, będzie oznaczała zmianę przyczyn stanu rzeczy, który uznamy za szkodliwy społecznie, gdy na przykład nie są respektowane prawa człowieka. Ponieważ najczęściej przyczyny złego stanu rzeczy są wielopłaszczyznowe, zmiana również będzie musiała być systemowa. Oznacza to, że zmiana będzie musiała w sposób kompleksowy dotyczyć jednocześnie wszystkich pól, które zdiagnozowaliśmy w wyniku monitoringu wybranego przez nas wycinka rzeczywistości. Działanie na rzecz zmiany rozumiemy jako działanie na rzecz poprawy stanu rzeczy.
 
@@ -62,7 +60,7 @@ Zmiana, o której mówimy może dotyczyć zmiany w prawie, zmiany w jego wykonyw
 
 Warto pamiętać, że za każdą zmianą stoją ludzie, którzy mogą być jej przychylni lub przeciwnie, mogą być do niej nastawieni negatywnie i wszelkimi sposobami będą walczyć ze zmianami i z ludźmi chcącymi je wprowadzić.
 
-# Na kogo pragną wpływać organizacje strażnicze, co chcą osiągnąć i jak?
+# **Na kogo pragną wpływać organizacje strażnicze, co chcą osiągnąć i jak?**
 
 **Kogo sprawdzamy?**
 
@@ -78,7 +76,7 @@ Granice tego, co sprawdzamy jako strażnicy wyznacza prawo. Strażnika nie inter
 
 Zadaniem i celem organizacji strażniczych jest takie wpływanie na osoby pracujące w instytucjach, aby ich działania były zgodne z interesem publicznym. Jeśli na przeszkodzie temu stoi złe prawo (nie tylko jego złe wykonywanie), strażnik dąży do zmiany szkodliwych przepisów. Takie założenie wyklucza wszelkiego rodzaju personalne porachunki, o które często są posądzane osoby prowadzące działalność strażniczą.
 
-# Jaki mur burzą organizacje strażnicze? Jak znaleźć właściwą cegłę?
+# **Jaki mur burzą organizacje strażnicze? Jak znaleźć właściwą cegłę?**
 
 Mówi się, że "jeśli znajdziemy cegłę, którą umiejętnie wyjmiemy, możemy od razu zburzyć cały mur". Tak właśnie należy planować strategię wprowadzania zmiany. Jaki mur burzą organizacje strażnicze? Nie chcą one burzyć urzędów czy innych instytucji. Strażnicy zmieniają instytucje wywierając wpływ na ludzi, którzy podejmują decyzje w imieniu instytucji.
 
@@ -86,7 +84,7 @@ Dlatego też kluczową sprawą – przesądzającą często o powodzeniu podjęt
 
 Nie warto również tracić energii na przekonywanie osób, które owszem są władne podjąć decyzję, lecz nie one będą ostatecznie wdrażać zmiany. Posługując się powyższym przykładem można powiedzieć, że za zły stan autostrad będzie odpowiadał premier, ale będzie nam dużo trudniej dotrzeć do niego, niż do dyrektora w oddziale GDDKiA. Dlatego tak ważna jest wiedza na temat zakresu odpowiedzialności poszczególnych instytucji. Posiadanie jej powoduje, iż nie szukamy po omacku. Dlatego też w interesie każdej organizacji strażniczej leży jasność i przejrzystość struktur władzy, ich otwartość oraz czytelny podziału obowiązków.
 
-# Jak wprowadzać tę zmianę, czyli słów kilka o metodach
+# **Jak wprowadzać tę zmianę, czyli słów kilka o metodach**
 
 Możemy rozróżnić 3 podstawowe typy metod wprowadzania zmiany – społeczne, prawne i polityczne.\
 \
@@ -96,7 +94,7 @@ Możemy rozróżnić 3 podstawowe typy metod wprowadzania zmiany – społeczne,
 
 **3. Działania polityczne** – oznaczają współpracę z decydentami. Wywieranie za pomocą różnych instytucji, bezpośredniego wpływu na przedstawicieli władz publicznych odpowiedzialnych za rozwiązanie problemu oraz lobbing rozumiany jako systematyczne, formalne działania zmierzające do wywarcia wpływu na organy władzy państwowej w interesie określonych grup społecznych.
 
-# Dlaczego tak trudno o zmianę?
+# **Dlaczego tak trudno o zmianę?**
 
 Działania strażnicze uważane są za trudne i niewdzięczne. Już samo przeprowadzenie monitoringu wymaga rozległej wiedzy prawnej, wiedzy o rzeczywistości monitorowanego obszaru oraz umiejętności analizy zebranych informacji. Zdiagnozowanie prawdziwych przyczyn problemów również nie jest prostą sprawą, choć umiejętnie przeprowadzony monitoring w tym pomaga.
 
@@ -110,7 +108,7 @@ Ludzkie reakcje na zmiany często pozostają nieprzewidywalne. Naturalną reakcj
 
 Nie jest łatwo być ignorowanym, wyśmiewanym, lecz pewność słuszności celu zawsze pomaga w przezwyciężeniu tej trudności.
 
-# Czy musimy pokonywać opór całego świata?
+# **Czy musimy pokonywać opór całego świata?**
 
 W zależności od etapu wprowadzenia zmiany, na jakim się aktualnie znajdujemy, świadome wybranie grupy przejawiającej opór, który zamierzamy pokonać, będzie kluczowe dla powodzenia naszej sprawy. W sytuacji zmiany, z którą pracują organizacje strażnicze, zaangażowanych w nią ludzi można podzielić na trzy grupy: tych, którzy są przekonani do zmiany (np. osoby, które skorzystają na zmianie, pomysłodawcy zmiany), tych, którzy określają się przeciwko zmianie (osoby, które realnie stracą na wprowadzeniu zmiany) oraz tych, którzy nie mają zdania – pozostają obojętni (można powiedzieć, że nie zostali jeszcze przekonani przez żadną ze stron).
 
@@ -118,7 +116,7 @@ Powyższy podział pokazuje nam, kto może stać się naszym koalicjantem – kt
 
 Przykładowo: grupą, która okazała się być przeciwko zmianie, podczas wprowadzania komunikatów o najbliższym przystanku w autobusach w jednej w dolnośląskich gmin, byli wczesnoporanni pasażerowie, którym te komunikaty przeszkadzały w spaniu. Pasażerów udało się przekonać, z czasem i ta grupa przyzwyczaiła się do nowych warunków. Zmianę uznano za skutecznie wprowadzoną, gdy ci sami pasażerowie zaczęli sobie chwalić nowy system, który, bez otwierania oczu pozwalał kontrolować aktualną pozycję autobusu.
 
-# Długofalowa strategia
+# **Długofalowa strategia**
 
 Systemowa zmiana równoznaczna jest z potrzebą opracowania oraz realizowania długofalowej strategii. W przypadku zmian w prawie lub zmian w świadomości decydentów i wykonawców nie mówimy o roku, czy dwóch, ale o podjęciu systematycznej pracy przez wiele lat. Często nawet zmasowane działania mogą nie wystarczyć. Jednak przy odpowiednio zaplanowanej strategii, minimum działań wystarcza w uzyskaniu tego, do czego dążymy.
 
