@@ -20,7 +20,7 @@ Nasz ekspert Cezary Miżejewski zebrał dotychczasowe rekomendacje od uczestnik�
 
 **Gdzie:** szkolenie odbędzie zdalnie na platformie zoom
 
-Szczegółowy program zamieścimy niebawem.
+Szczegółowy program [TUTAJ](https://res.cloudinary.com/inspro/image/upload/v1618991549/aiso/Akademia_program_2021_04_CIS_KIS.pdf)
 
 **Prowadzący:**
 
