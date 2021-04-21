@@ -2,11 +2,16 @@
 title: Propozycja nowelizacji ustawy o zatrudnieniu socjalnym - szkolenie zdalne
 date: 2021-03-19T05:26:10.229Z
 zajawka: >-
-  **Ministerstwo Rodziny i Polityki Społecznej pracuje nad własnymi
-  rekomendacjami do ustawy o zatrudnieniu socjalnym. W grudniu na szkoleniu
-  pracowaliśmy nad  naszymi pomysłami zmian do ustawy na podstawie doświadczeń
-  kilkunastu organizacji z całej Polski i dwóch testowych  projektów (Kra­jowej
-  Sieci Rein­te­gracji i Testowego Modelu Współpracy).**
+  **Zarządzasz lub pracujesz w CIS/KIS? Współpracujesz z podmiotami prowadzącymi
+  te jednostki? Ministerstwo Rodziny i Polityki Społecznej pracuje nad
+  rekomendacjami do ustawy o zatrudnieniu socjalnym, które będą miały wpływ na
+  Twoją pracę.**
+
+
+  **Na podstawie doświadczeń kilkunastu organizacji z Polski przygotowaliśmy nowelizację ustawy o zatrudnieniu socjalnym.  Ty też możesz zgłosić swoje uwagi i mieć wpływ na jej kształt!**
+
+
+  **Chcesz omówić  stabilność finansowania centrów? Uważasz, że świadczenie powinno być głodowym zasiłkiem czy raczej powinniśmy premiować aktywność? A może zależy Ci na elastycznych rozwiązaniach dla rodziców?**
 
 
   **Dołącz do nas i miej wpływ na kształt ustawy.**
@@ -14,7 +19,7 @@ obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1616131487
 obrazek_opis: tablica i markery
 obrazek_podpis: źródło Pixabay
 ---
-Nasz ekspert Cezary Miżejewski zebrał dotychczasowe rekomendacje od uczestników i na szkoleniu będziemy mogli omówić **propozycję nowelizacji ustawy.**
+Nasz ekspert Cezary Miżejewski zebrał dotychczasowe rekomendacje i na szkoleniu będziemy mogli omówić **propozycję nowelizacji ustawy.**
 
 **Kiedy: 24-25.04.2021 (sobota-niedziela) godz. 09:00-16:00**
 
