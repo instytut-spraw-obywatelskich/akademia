@@ -13,7 +13,7 @@ obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1619009388
 
 **Gdzie:** szkolenie odbędzie zdalnie na platformie zoom
 
-Szczegółowy program [TUTAJ](https://res.cloudinary.com/inspro/image/upload/v1618991549/aiso/Akademia_program_2021_04_CIS_KIS.pdf)
+Szczegółowy program [](https://res.cloudinary.com/inspro/image/upload/v1618991549/aiso/Akademia_program_2021_04_CIS_KIS.pdf)zamieścimy niebawem
 
 **Prowadzący:**
 
