@@ -23,5 +23,10 @@
         {% endif %}
       </article>
     {% endfor %}
+    <nav class="flex sm:text-xl md:text-2xl max-w-3xl mx-auto my-24 {% if page.url == pagination.href.first %}justify-end{% else %}justify-between{% endif %}">
+      {% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">&larr; Nowsze</a>{% endif %}
+      {% if pagination.href.next %}<a href="{{ pagination.href.next }}">Starsze &rarr;</a>{% endif %}</li>
+      </ol>
+    </nav>
   </main>
 {% include "components/footer.njk" %}
