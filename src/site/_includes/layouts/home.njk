@@ -189,12 +189,12 @@
         {% set cls = cycler("odd", "even") %}
         {% for item in co_mowia_inni.opinie %}
           {% set cykl = cls.next() %}
-          {% if loop.first or (cykl == "odd") %}<article>{% endif %}
+          {% if loop.first or (cykl == "odd") %}<div>{% endif %}
           <blockquote class="pl-4 xs:pl-8 sm:pl-16 pt-8">
             <div class="text-lg sm:text-xl md:text-2xl italic">{{ item.co | markdownify | cudzyslowy | sierotki | safe }}</div>
             <p class="font-caveat text-2xl sm:text-3xl md:text-4xl text-blue-800">{{ item.kto | cudzyslowy | sierotki | safe }}</p>
           </blockquote>
-          {% if loop.last or (cykl == "even") %}</article>{% endif %}
+          {% if loop.last or (cykl == "even") %}</div>{% endif %}
         {% endfor %}
         </div>
       </div>
