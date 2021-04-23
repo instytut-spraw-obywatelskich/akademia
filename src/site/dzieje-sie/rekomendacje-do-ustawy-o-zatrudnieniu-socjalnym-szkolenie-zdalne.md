@@ -21,11 +21,11 @@ obrazek_podpis: źródło Pixabay
 ---
 Nasz ekspert Cezary Miżejewski zebrał dotychczasowe rekomendacje i na szkoleniu będziemy mogli omówić **propozycję nowelizacji ustawy.**
 
-**Kiedy: 24-25.04.2021 (sobota-niedziela) godz. 09:00-16:00**
+**Kiedy: 07-08.06.2021 (poniedziałek-wtorek) godz. 09:00-16:00**
 
 **Gdzie:** szkolenie odbędzie zdalnie na platformie zoom
 
-Szczegółowy program [TUTAJ](https://res.cloudinary.com/inspro/image/upload/v1618991549/aiso/Akademia_program_2021_04_CIS_KIS.pdf)
+Szczegółowy program [TUTAJ](https://res.cloudinary.com/inspro/image/upload/v1619160782/aiso/Akademia_program_2021_CIS_KIS.pdf)
 
 **Prowadzący:**
 
@@ -53,7 +53,7 @@ Poinformujemy Cię o wynikach rekrutacji. **Następnie poprosimy Cię o wypeł
 
 **Zgłoszenie na szkolenie jest jednoznaczne z akceptacją zdalnej formy szkolenia.**
 
-**Zgłoszenia przyjmujemy do 22.04.2021 roku**
+**Zgłoszenia przyjmujemy do 12.05.2021 roku**
 
 Zgodnie z wymogami grantodawcy, szkolenie zdalne musi być rejestrowane. Nagranie nie będzie udostępniane uczestnikom ani osobom postronnym. Będzie przechowywane tylko na potrzeby ewentualnej kontroli projektu.
 
