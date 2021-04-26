@@ -2,10 +2,8 @@
 title: W obronie drzew wykorzystaj prawo
 date: 2021-04-15T09:41:29.577Z
 zajawka: >-
-  **Zanim wytną Twoje drzewa**
-
-
-  **Chcesz obronić drzewa przed wycinką? Chcesz zapobiec przycince, amputacji i okaleczaniu drzew?**
+  **Chcesz obronić drzewa przed wycinką? Chcesz zapobiec przycince, amputacji i
+  okaleczaniu drzew?**
 
 
   **Zgłoś się na szkolenie „W obronie drzew wykorzystaj prawo”. Mamy dla Ciebie wiedzę, narzędzia oraz okazję do wymiany doświadczeń ze społecznikami walczącymi w obronie drzew.**
