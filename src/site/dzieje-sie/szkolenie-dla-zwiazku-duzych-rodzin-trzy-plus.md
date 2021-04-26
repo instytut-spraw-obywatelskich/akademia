@@ -8,6 +8,8 @@ zajawka: >-
 
   Podczas 3 spotkań dowiecie jak wykorzystać prawo jako „narzędzie” do zmiany społecznej.
 obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1619435979/aiso/Zdj%C4%99cia%20szkolenia/grafiki%20pionowe%20i%20poziome/rodzina.png
+obrazek_opis: .
+obrazek_podpis: ""
 ---
 **Kiedy: 10-11-12.05.2021 (poniedziałek-wtorek-środa) godz. 16:00-20:30**
 
