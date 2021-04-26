@@ -20,6 +20,8 @@ obrazek_opis: pień ściętego drzewa
 
 **Rafał Górski** - społecznik, wojownik, państwowiec. Prawo wykorzystuje w walce o dobro wspólne od 1995 roku. Prezes Instytutu Spraw Obywatelskich. Członek Polskiego Towarzystwa Legislacji. Zaangażowany w kampanie obywatelskie, m.in.: „Tiry na tory”, „Obywatele decydują” i „Wolne od GMO? Chcę wiedzieć!”. Ekspert Centrum Wspierania Rad Pracowników i Centrum KLUCZ (Ośrodek Wsparcia Ekonomii Społecznej). Pomysłodawca „Kuźni Kampanierów”.
 
+**Anna Socha** - biolog środowiskowy, absolwentka UAM Poznań. Wiele lat związana z jedną z wiodących organizacji pozarządowych działających na rzecz ochrony przyrody w Polsce i za granicą, zaangażowana w działania strażnicze wspierające ochronę lasów, wód i terenów przyrodniczo cennych. Obecnie ukierunkowana na ochronę drzew w przestrzeni publicznej. Uczestniczka szkoleń i kursów Instytutu Drzew, potwierdzonych certyfikatami. Prowadzi własną firmę, zainteresowana empatycznym postrzeganiem przyrody i współistnieniem z nią człowieka jako spójna całość.
+
 **Kto może wziąć udział w szkoleniu?**
 
 Szkolenie jest przeznaczone dla przedstawicieli organizacji społecznych. **Uczestnik szkoleń musi być wydelegowany** **przez organizację społeczną** (m.in. stowarzyszenie, fundacja), która posiada NIP. Jedna organizacja może wydelegować kilku uczestników.
@@ -38,7 +40,7 @@ Poinformujemy Cię o wynikach rekrutacji. **Następnie poprosimy Cię o wypełni
 
 **Zgłoszenie na szkolenie jest jednoznaczne z akceptacją zdalnej formy szkolenia.**
 
-**Zgłoszenia przyjmujemy do 29.04.2021 roku**
+**Zgłoszenia przyjmujemy do 04.05.2021 roku**
 
 Zgodnie z wymogami grantodawcy, szkolenie zdalne musi być rejestrowane. Nagranie nie będzie udostępniane uczestnikom ani osobom postronnym. Będzie przechowywane tylko na potrzeby ewentualnej kontroli projektu.
 
