@@ -10,9 +10,9 @@ zajawka: >-
 obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1618478534/aiso/Zdj%C4%99cia%20szkolenia/grafiki%20pionowe%20i%20poziome/zdjecie_drzwa.jpg
 obrazek_opis: pień ściętego drzewa
 ---
-**Kiedy:** 15-16.05.2021 (sobota-niedziela) w godz. 09:00-16:00
+**Kiedy:** Ze względów organizacyjnych termin szkolenia został przesunięty na 03-04.07.2021 (sobota 12:00-19:30, niedziela 9:00-16:00) 
 
-**Gdzie:** Ze względu na aktualne wytyczne dot. przeciwdziałania epidemii planujemy przeprowadzisz szkolenie zdalnie
+**Gdzie:** Ze względu na aktualne wytyczne dot. przeciwdziałania epidemii planujemy przeprowadzisz szkolenie hybrydyowo, tzn. uczestnicy będą mogli wziąć udział w szkoleniu stacjonarnie w Warszawie lub zdalnie.
 
 **Prowadzący**
 
@@ -34,13 +34,15 @@ Na stronie Akademii Instytutu możesz się zapoznać z [Regulaminem](https://res
 
 Poinformujemy Cię o wynikach rekrutacji. **Następnie poprosimy Cię o wypełnienie [dokumentacji projektowej](https://res.cloudinary.com/inspro/raw/upload/v1595492482/aiso/dokumenty_przystapienia_do_projektu.zip), podpisania przez osoby uprawnione do reprezentacji i dostarczenia do nas przed szkoleniem.**
 
-**W ramach szkolenia uczestnik otrzyma: materiały szkoleniowe a także zaświadczenie udziału w szkoleniu.**
+**W ramach szkolenia uczestnik otrzymuje:** materiały szkoleniowe, a także zaświadczenie udziału w szkoleniu. 
 
-**Zgłoszenie na szkolenie jest jednoznaczne z akceptacją zdalnej formy szkolenia.**
+**W przypadku osób biorących udział stacjonarnie w szkoleniu** zapewniamy przerwy kawowe oraz obiad. Dla osób spoza Warszawy, zapewniamy nocleg z kolacją i śniadaniem oraz możliwość zwrotu kosztów dojazdu (do 100 zł).
 
-**Zgłoszenia przyjmujemy do 04.05.2021 roku**
+**Z myślą o bezpieczeństwie uczestników** podjęliśmy kompleksowe działania, aby szkolenie stacjonarne było możliwe. Zastosowane przez nas rozwiązania, zostały przygotowane na bazie wytycznych [Ministerstwa Rozwoju](https://www.gov.pl/web/rozwoj/spotkania-biznesowe-szkolenia-konferencje-i-kongresy). Są w pełni dostosowane do aktualnego etapu zaawansowania stanu epidemicznego.
 
-Zgodnie z wymogami grantodawcy, szkolenie zdalne musi być rejestrowane. Nagranie nie będzie udostępniane uczestnikom ani osobom postronnym. Będzie przechowywane tylko na potrzeby ewentualnej kontroli projektu.
+**Zgłoszenia przyjmujemy do 19.05.2021 roku**
+
+Zgodnie z wymogami grantodawcy, szkolenie zdalne/hybrydowe musi być rejestrowane. Nagranie nie będzie udostępniane uczestnikom ani osobom postronnym. Będzie przechowywane tylko na potrzeby ewentualnej kontroli projektu.
 
 [Wysłuchaj naszego spotu](https://instytutsprawobywatelskich.pl/wp-content/uploads/2021/02/spot-aiso.mp3)
 
