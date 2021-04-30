@@ -12,7 +12,7 @@ obrazek_opis: pień ściętego drzewa
 ---
 **Kiedy:** Ze względów organizacyjnych termin szkolenia został przesunięty na 03-04.07.2021 (sobota 12:00-19:30, niedziela 9:00-16:00) 
 
-**Gdzie:** Ze względu na aktualne wytyczne dot. przeciwdziałania epidemii planujemy przeprowadzisz szkolenie hybrydyowo, tzn. uczestnicy będą mogli wziąć udział w szkoleniu stacjonarnie w Warszawie lub zdalnie.
+**Gdzie:** Ze względu na aktualne wytyczne dot. przeciwdziałania epidemii planujemy przeprowadzisz szkolenie hybrydowo, tzn. uczestnicy będą mogli wziąć udział w szkoleniu stacjonarnie w Warszawie lub zdalnie, jeśli zbierze się większa grupa.
 
 **Prowadzący**
 
