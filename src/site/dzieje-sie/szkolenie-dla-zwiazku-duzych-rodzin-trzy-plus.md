@@ -21,7 +21,7 @@ Szczegółowy program [](https://res.cloudinary.com/inspro/image/upload/v1618991
 
 **Rafał Górski** - społecznik, wojownik, państwowiec. Prawo wykorzystuje w walce o dobro wspólne od 1995 roku. Prezes Instytutu Spraw Obywatelskich. Członek Polskiego Towarzystwa Legislacji. Zaangażowany w kampanie obywatelskie, m.in.: „Tiry na tory”, „Obywatele decydują” i „Wolne od GMO? Chcę wiedzieć!”. Ekspert Centrum Wspierania Rad Pracowników i Centrum KLUCZ (Ośrodek Wsparcia Ekonomii Społecznej). Pomysłodawca „Kuźni Kampanierów”.
 
-**Jarosław Ogrodowski** - ekspert w zakresie partycypacji społecznej i rewitalizacji, społecznik, samorządowiec. Pracował w Biurze ds. Rewitalizacji i Zabudowy Urzędu Miasta Łodzi. W latach 2016-2019 pracownik Instytutu Rozwoju Miast, gdzie odpowiadał za prowadzenie szkoleń, tworzenie dokumentów strategicznych dla samorządów oraz tworzenie publikacji poradnikowych i podręczników dla samorządów z zakresu partycypacji społecznej i rewitalizacji. 
+
 
 **Kto może wziąć udział w szkoleniu?**
 
