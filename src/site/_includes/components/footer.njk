@@ -20,22 +20,15 @@
         </div>
       </div>
     </footer>
+    <div id="infoCiastka" class="fixed bottom-0 w-full bg-white p-2 z-50 text-sm border-t border-czerwony hidden flex-col xs:flex-row justify-center items-center gap-2">
+      <p>Stosujemy pliki cookies. Korzystanie z&nbsp;serwisu bez zmiany ustawień dotyczących cookies oznacza, że cookies będą zamieszczane w&nbsp;Państwa urządzeniu. Jeśli nie wyrażają Państwo zgody, prosimy o&nbsp;zmianę ustawień przeglądarki internetowej.</p>
+      <button id="zamknijInfoCiastka" class="bg-czerwony text-white px-2 py-1 rounded">Zamknij</button>
+    </div>
     <script>
-      function targetBlank() {
-        var wewnetrzny = location.host.replace("www.", "");
-            wewnetrzny = new RegExp(wewnetrzny, "i");              
-        var linki = document.getElementsByTagName('a');
-        for (var i = 0; i < linki.length; i++) {
-          var href = linki[i].host;
-          if( !wewnetrzny.test(href) ) {
-            linki[i].setAttribute('target', '_blank');
-          }
-        }
-      };
-      targetBlank();
-    </script>
-    {% if page.url == "/" %}
-      <script>
+      {% include "components/infoCiastka.js" %}
+      {% include "components/targetBlank.js" %}
+      {% if page.url == "/" %}
+        {% include "components/siema.js" %}
         if (window.netlifyIdentity) {
           window.netlifyIdentity.on("init", user => {
             if (!user) {
@@ -45,22 +38,8 @@
             }
           });
         }
-        {% include "components/siema.js" %}
-        const mySiema = new Siema({
-          selector: '.siema',
-          duration: 200,
-          easing: 'ease-out',
-          perPage: 1,
-          startIndex: 0,
-          draggable: true,
-          loop: true,
-        });
-        const prev = document.querySelector('.prev');
-        const next = document.querySelector('.next');
-        prev.addEventListener('click', () => mySiema.prev());
-        next.addEventListener('click', () => mySiema.next());
-      </script>
-    {% endif %}
+      {% endif %}
+    </script>
     <div id="fm-pu-container" style="position: fixed; width: 100%; height: 100%; left: 0; top: 0; z-index: 999999; display: none; align-items: center;"><script>var container = document.getElementById('fm-pu-container');function hide(){container.style.display = 'none'; document.removeEventListener('mouseout', showPopup);} function showPopup(e){if(e.clientY <= 0){container.style.display = 'flex';}} var fmFCFoh7h1n03jn=function(e){if(e.data.type == 'resize'){ var iframe=document.getElementById('fm-fc-f-oh7h1n03jn');iframe.style.minHeight=e.data.size+'px';if(window.innerHeight<iframe.offsetHeight){container.style.cssText='overflow:auto;align-items:flex-start;-webkit-overflow-scrolling:touch';}}else if(e.data.type == 'hide'){hide();}else if(e.data.type == 'timeout'){setTimeout(function(){container.style.display='flex';}, e.data.time * 1000 );}else if(e.data.type == 'onexit'){document.addEventListener('mouseout',showPopup)}else if(e.data.type=='setBackground'){container.style.background=e.data.background;}};window.addEventListener?addEventListener('message',fmFCFoh7h1n03jn,!1):attachEvent('onmessage',fmFCFoh7h1n03jn);container.addEventListener("click", hide);</script><iframe id="fm-fc-f-oh7h1n03jn" src="https://forms.freshmail.io/f/qlcnk4ltc5/oh7h1n03jn/index.html" frameborder="0" marginheight="0" marginwidth="0" width="100%" style="min-height: 705px"></iframe></div>
   </body>
 </html>
