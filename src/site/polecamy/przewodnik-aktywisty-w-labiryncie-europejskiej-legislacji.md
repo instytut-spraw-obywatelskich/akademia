@@ -1,5 +1,5 @@
 ---
-title: Przewodnik aktywisty w labiryncie europejskiej legislacji
+title: Przewodnik aktywisty po labiryncie europejskiej legislacji
 date: 2021-05-10T08:34:46.593Z
 zajawka: Celem niniejszego przewodnika jest zapewnienie aktywistom wglądu w to,
   skąd pochodzą wnioski legislacyjne i nielegislacyjne w Unii Europejskiej oraz
