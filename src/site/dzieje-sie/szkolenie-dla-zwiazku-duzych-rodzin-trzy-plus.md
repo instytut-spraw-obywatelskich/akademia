@@ -21,7 +21,7 @@ Szczegółowy program [](https://res.cloudinary.com/inspro/image/upload/v1618991
 
 **Rafał Górski** - społecznik, wojownik, państwowiec. Prawo wykorzystuje w walce o dobro wspólne od 1995 roku. Prezes Instytutu Spraw Obywatelskich. Członek Polskiego Towarzystwa Legislacji. Zaangażowany w kampanie obywatelskie, m.in.: „Tiry na tory”, „Obywatele decydują” i „Wolne od GMO? Chcę wiedzieć!”. Ekspert Centrum Wspierania Rad Pracowników i Centrum KLUCZ (Ośrodek Wsparcia Ekonomii Społecznej). Pomysłodawca „Kuźni Kampanierów”.
 
-
+**Karolina Szlachetka** - prawnik, absolwentka Wydziału Prawa i Administracji Uniwersytetu Łódzkiego. Doświadczenie zdobyła pracując w kancelarii adwokackiej i Sądzie Okręgowym w Łodzi. Od 10 lat pracownik jednostki administracji publicznej na szczeblu centralnym. Wieloletni praktyk w zakresie udzielania informacji publicznej, obsługi środków pochodzących z funduszy strukturalnych Unii Europejskiej oraz legislacji.
 
 **Kto może wziąć udział w szkoleniu?**
 
