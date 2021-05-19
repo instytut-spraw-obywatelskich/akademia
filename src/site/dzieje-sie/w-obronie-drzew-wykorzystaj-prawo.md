@@ -40,7 +40,7 @@ Poinformujemy Cię o wynikach rekrutacji. **Następnie poprosimy Cię o wypełni
 
 **Z myślą o bezpieczeństwie uczestników** podjęliśmy kompleksowe działania, aby szkolenie stacjonarne było możliwe. Zastosowane przez nas rozwiązania, zostały przygotowane na bazie wytycznych [Ministerstwa Rozwoju](https://www.gov.pl/web/rozwoj/spotkania-biznesowe-szkolenia-konferencje-i-kongresy). Są w pełni dostosowane do aktualnego etapu zaawansowania stanu epidemicznego.
 
-**Zgłoszenia przyjmujemy do 19.05.2021 roku**
+**Zgłoszenia przyjmujemy do 15.06.2021 roku**
 
 Zgodnie z wymogami grantodawcy, szkolenie zdalne/hybrydowe musi być rejestrowane. Nagranie nie będzie udostępniane uczestnikom ani osobom postronnym. Będzie przechowywane tylko na potrzeby ewentualnej kontroli projektu.
 
