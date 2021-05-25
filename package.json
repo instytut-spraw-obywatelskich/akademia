@@ -15,15 +15,15 @@
   "author": "fusil.li",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "^0.11.0",
-    "autoprefixer": "^9.7.6",
-    "cssnano": "^4.1.10",
-    "date-fns": "^2.13.0",
+    "@11ty/eleventy": "^0.12.1",
+    "autoprefixer": "^10.2.5",
+    "cssnano": "^5.0.4",
+    "date-fns": "^2.21.3",
     "html-minifier": "^4.0.0",
-    "markdown-it": "^10.0.0",
+    "markdown-it": "^12.0.6",
     "npm-run-all": "^4.1.5",
-    "postcss-cli": "^7.1.1",
-    "postcss-nested": "^4.2.1",
-    "tailwindcss": "^1.4.6"
+    "postcss-cli": "^8.3.1",
+    "postcss-nested": "^5.0.5",
+    "tailwindcss": "^2.1.2"
   }
 }

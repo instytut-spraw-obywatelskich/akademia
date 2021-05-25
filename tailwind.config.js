@@ -44,7 +44,10 @@ module.exports = {
     },    
     extend: {
       colors: {
-        'czerwony': '#d10a10'
+        'czerwony': '#d10a10',
+        'gray': {
+          100: '#f7fafc'
+        }
       }
     }
   },
