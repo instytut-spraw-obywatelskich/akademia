@@ -3,9 +3,9 @@ title: Szkolenie WRZOSu „Wpływ organizacji pozarządowych na lokalne i region
   polityki społeczne”
 date: 2021-06-21T07:49:53.053Z
 zajawka: W imieniu Wspólnoty Roboczej Związków Organizacji Socjalnych i
-  Instytutu Spraw Obywatelskich zapraszamy na szkolenia **„**Wpływ organizacji
-  pozarządowych na lokalne i regionalne polityki społeczne”, które odbędą się w
-  dniach 24-25 czerwca 2021 w Olsztynie, w Kuźni Społecznej, ul. M.Kotańskiego
+  Instytutu Spraw Obywatelskich zapraszamy na szkolenie "Wpływ organizacji
+  pozarządowych na lokalne i regionalne polityki społeczne”, które odbędzie się
+  w dniach 24-25 czerwca 2021 w Olsztynie, w Kuźni Społecznej, ul. M.Kotańskiego
   1, 10-166 Olsztyn.
 obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1624263404/aiso/Zdj%C4%99cia%20szkolenia/768_432.jpg
 ---
