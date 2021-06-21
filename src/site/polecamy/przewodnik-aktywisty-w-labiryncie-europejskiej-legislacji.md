@@ -8,6 +8,6 @@ zajawka: Celem niniejszego przewodnika jest zapewnienie aktywistom wglądu w to,
   wiedzieć jak postepować na każdym jej etapie.
 obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1620635663/aiso/Zdj%C4%99cia%20szkolenia/grafiki%20pionowe%20i%20poziome/europe-1395916_1920.jpg
 ---
-Poradnik dostępny w języku angielskim, przygotowany przez European Cultural Foundation. 
+Poradnik dostępny w języku angielskim został przygotowany przez European Digital Rights ([EDRi](https://edri.org/)).
 
 [Zapraszamy do lektury.](https://res.cloudinary.com/inspro/image/upload/v1620635672/aiso/Zdj%C4%99cia%20szkolenia/grafiki%20pionowe%20i%20poziome/Activistguide_V3_web.pdf)
