@@ -12,11 +12,13 @@ obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1624264907
 ---
 **Kiedy: 07-08.08.2021 (sobota-niedziela)**
 
-**Gdzie: Warszawa**
+**Gdzie:** Ze względu na aktualne wytyczne dot. przeciwdziałania epidemii planujemy przeprowadzisz szkolenie hybrydowo, tzn. **uczestnicy będą mogli wziąć udział w szkoleniu stacjonarnie w Warszawie (Hotel Felix, Omulewska 24, 04-128 Warszawa) lub zdalnie, jeśli zbierze się większa grupa.**
 
 **Prowadzący**
 
 **Rafał Górski** - społecznik, wojownik, państwowiec. Prawo wykorzystuje w walce o dobro wspólne od 1995 roku. Prezes Instytutu Spraw Obywatelskich. Członek Polskiego Towarzystwa Legislacji. Zaangażowany w kampanie obywatelskie, m.in.: „Tiry na tory”, „Obywatele decydują” i „Wolne od GMO? Chcę wiedzieć!”. Ekspert Centrum Wspierania Rad Pracowników i Centrum KLUCZ (Ośrodek Wsparcia Ekonomii Społecznej). Pomysłodawca „Kuźni Kampanierów”.
+
+**Jarosław Ogrodowski** - ekspert w zakresie partycypacji społecznej i rewitalizacji, społecznik, samorządowiec. Pracował w Biurze ds. Rewitalizacji i Zabudowy Urzędu Miasta Łodzi. W latach 2016-2019 pracownik Instytutu Rozwoju Miast, gdzie odpowiadał za tworzenie dokumentów strategicznych dla samorządów oraz tworzenie publikacji poradnikowych i podręczników dla samorządów z zakresu partycypacji społecznej i rewitalizacji. Współzałożyciel ruchu „TAK dla Łodzi”, Ruchu Społecznego „Szacunek dla Łodzi” oraz fundacji Instytut Działań Samorządowych.
 
 **Kto może wziąć udział w szkoleniu?**
 
