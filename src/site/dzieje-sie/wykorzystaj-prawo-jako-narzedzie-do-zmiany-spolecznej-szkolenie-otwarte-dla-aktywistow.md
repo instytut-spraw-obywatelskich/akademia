@@ -14,6 +14,8 @@ obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1624264907
 
 **Gdzie:** Ze względu na aktualne wytyczne dot. przeciwdziałania epidemii planujemy przeprowadzisz szkolenie hybrydowo, tzn. **uczestnicy będą mogli wziąć udział w szkoleniu stacjonarnie w Warszawie (Hotel Felix, Omulewska 24, 04-128 Warszawa) lub zdalnie, jeśli zbierze się większa grupa.**
 
+**Szkolenie odbędzie się w godz. (sobota 12:00-19:30, niedziela 09:00-15:45)**
+
 **Prowadzący**
 
 **Rafał Górski** - społecznik, wojownik, państwowiec. Prawo wykorzystuje w walce o dobro wspólne od 1995 roku. Prezes Instytutu Spraw Obywatelskich. Członek Polskiego Towarzystwa Legislacji. Zaangażowany w kampanie obywatelskie, m.in.: „Tiry na tory”, „Obywatele decydują” i „Wolne od GMO? Chcę wiedzieć!”. Ekspert Centrum Wspierania Rad Pracowników i Centrum KLUCZ (Ośrodek Wsparcia Ekonomii Społecznej). Pomysłodawca „Kuźni Kampanierów”.
