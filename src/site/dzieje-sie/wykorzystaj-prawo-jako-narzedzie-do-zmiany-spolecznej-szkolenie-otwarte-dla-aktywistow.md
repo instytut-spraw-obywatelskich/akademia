@@ -10,11 +10,11 @@ zajawka: >-
   **Bezpłatne szkolenie „Wykorzystaj prawo” w ramach Akademii Instytutu Spraw Obywatelskich skierowane jest do społeczników, którzy chcą się dowiedzieć, jak używać prawa do zmiany społecznej. Zapisz się na szkolenie już dziś. Liczba miejsc jest ograniczona.**
 obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1624264907/aiso/Zdj%C4%99cia%20szkolenia/768_512_katowice.jpg
 ---
-**Kiedy: 07-08.08.2021 (sobota-niedziela)**
+**Kiedy: 07-08.08.2021 (sobota 12:00-19:30, niedziela 09:00-16:00)**
 
 **Gdzie:** Ze względu na aktualne wytyczne dot. przeciwdziałania epidemii planujemy przeprowadzisz szkolenie hybrydowo, tzn. **uczestnicy będą mogli wziąć udział w szkoleniu stacjonarnie w Warszawie (Hotel Felix, Omulewska 24, 04-128 Warszawa) lub zdalnie, jeśli zbierze się większa grupa.**
 
-**Szkolenie odbędzie się w godz. (sobota 12:00-19:30, niedziela 09:00-15:45)**
+**Program:** [TUTAJ](https://res.cloudinary.com/inspro/image/upload/v1625131621/aiso/Program_szkolenia_Akademia_otwarte_7_8_sierpnia_2021.pdf)
 
 **Prowadzący**
 
@@ -40,7 +40,7 @@ Poinformujemy Cię o wynikach rekrutacji. Następnie poprosimy Cię o wypełni
 
 **W ramach szkolenia uczestnik otrzyma: materiały szkoleniowe a także zaświadczenie udziału w szkoleniu.** **Zapewniamy przerwy kawowe oraz obiad. Dla osób spoza Warszawy, zapewniamy nocleg z kolacją i śniadaniem oraz możliwość zwrotu kosztów dojazdu (do 100 zł).**
 
-**Zgłoszenia przyjmujemy do 12.07.2021 roku**
+**Zgłoszenia przyjmujemy do 20.07.2021 roku**
 
 **Z myślą o bezpieczeństwie uczestników** podjęliśmy kompleksowe działania, aby szkolenie stacjonarne było możliwe. Zastosowane przez nas rozwiązania, zostały przygotowane na bazie wytycznych [Ministerstwa Rozwoju](https://www.gov.pl/web/rozwoj/spotkania-biznesowe-szkolenia-konferencje-i-kongresy). Są w pełni dostosowane do aktualnego etapu zaawansowania stanu epidemicznego.
 
