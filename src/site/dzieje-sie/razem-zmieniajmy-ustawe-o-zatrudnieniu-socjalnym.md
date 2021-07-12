@@ -26,4 +26,4 @@ W naszych nowych rozwiązaniach proponujemy:
 
 Żeby wzmocnić siłę apelu społecznego o wprowadzenie zmian do ustawy, potrzebne jest Wasze poparcie. Liczy się głos każdej organizacji. **Dołącz do nas i wpisz swoją organizację jako sygnatariusza popierającego propozycje nowelizacji w ustawie o zatrudnieniu socjalnym - [TUTAJ](https://docs.google.com/document/d/1MEriUgILcClieEh83xa62a5K_ezrRHNT0HTIwyDlPEA/edit?usp=sharing)**    
 
-Po zebraniu podpisów sygnatariuszy Wspólnota  projekt nowelizacji zostanie złożony w MRiPS.
+Po zebraniu podpisów sygnatariuszy projekt nowelizacji zostanie złożony w MRiPS.
