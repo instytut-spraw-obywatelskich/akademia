@@ -10,9 +10,9 @@ zajawka: >-
 
 
   **Zapisz się na szkolenie już dziś. Liczba miejsc jest ograniczona.**
-obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1626091268/aiso/Zdj%C4%99cia%20szkolenia/UCHWA%C5%81A_KRAJOBRAZOWA1.png
-obrazek_opis: "Z Canva: Mature woman leaning on City banner"
-obrazek_podpis: "źródło canva.pl: Mature woman leaning on City banner"
+obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1626093420/aiso/Zdj%C4%99cia%20szkolenia/UCHWA%C5%81A_KRAJOBRAZOWA3.png
+obrazek_opis: ""
+obrazek_podpis: ""
 ---
 **Kiedy: 04-05.09.2021 (sobota 12:00-19:30, niedziela 09:00-16:00)**
 
