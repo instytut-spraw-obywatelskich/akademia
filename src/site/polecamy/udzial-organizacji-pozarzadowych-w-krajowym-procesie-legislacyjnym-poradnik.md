@@ -1,16 +1,11 @@
 ---
 title: Udział organizacji pozarządowych w krajowym procesie legislacyjnym – poradnik
 date: 2021-07-12T11:10:43.953Z
-zajawka: Bez względu na to, jaką misję realizuje Twoja organizacja, jej
-  przedłużeniem może stać się kreowanie zmiany rzeczywistości społecznej na polu
-  regulacji prawnych. To w trzecim sektorze, zdecydowanie częściej niż na
-  uniwersytetach, powstają inspirujące idee i uzasadnienia nowych kierunków
-  polityk publicznych. Działacze społeczni są aktywnymi komentatorami życia
-  publicznego i uczestnikami formalnych i nieformalnych procedur tworzenia
-  prawa. Dla polityków mogą być pomostem do ich wyborców, a dla urzędników
-  skarbnicą wiedzy i testerem nowych rozwiązań. Ambicje społeczników powinny
-  sięgać dalej niż udział w debacie publicznej, dotyczącej bliskich Ci
-  zagadnień, choć wymaga to profesjonalizacji i dodatkowego nakładu pracy.
+zajawka: >-
+  **1. Wstęp**
+
+
+  Bez względu na to, jaką misję realizuje Twoja organizacja, jej przedłużeniem może stać się kreowanie zmiany rzeczywistości społecznej na polu regulacji prawnych. To w trzecim sektorze, zdecydowanie częściej niż na uniwersytetach, powstają inspirujące idee i uzasadnienia nowych kierunków polityk publicznych. Działacze społeczni są aktywnymi komentatorami życia publicznego i uczestnikami formalnych i nieformalnych procedur tworzenia prawa. Dla polityków mogą być pomostem do ich wyborców, a dla urzędników skarbnicą wiedzy i testerem nowych rozwiązań. Ambicje społeczników powinny sięgać dalej niż udział w debacie publicznej, dotyczącej bliskich Ci zagadnień, choć wymaga to profesjonalizacji i dodatkowego nakładu pracy.
 obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1626088476/aiso/Zdj%C4%99cia%20szkolenia/canva2.png
 obrazek_podpis: "Źródło: Andrii Yalanskyi Getty Images, dostęp Canva "
 ---
