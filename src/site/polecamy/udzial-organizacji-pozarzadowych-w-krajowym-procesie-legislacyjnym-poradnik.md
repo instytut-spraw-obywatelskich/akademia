@@ -91,8 +91,6 @@ To wszystko powoduje, że zanim projekt ustawy trafi na pierwsze czytanie, mogą
 
                 Drugą możliwością Prezydenta RP jest skierowanie ustawy do Trybunału Konstytucyjnego, który może orzec o jej całościowej lub częściowej niezgodności z Konstytucją RP. W tym pierwszym przypadku ustawa upada, zaś w drugim istnieje możliwość jej przyjęcia bez niekonstytucyjnych przepisów.
 
- 
-
 **3. Narzędzia udziału organizacji pozarządowych w procesie stanowienia prawa**
 
 **3.1 Inicjatywa ustawodawcza**
@@ -123,8 +121,6 @@ Jeżeli zbiórka podpisów zakończy się powodzeniem, projekt ustawy wraz z wyk
 
 Pełnomocnik komitetu zobowiązany jest do złożenia ministrowi właściwemu do spraw finansów publicznych sprawozdania finansowego o źródłach pozyskanych funduszy na cele inicjatywy ustawodawczej w terminie 3 miesięcy od dnia wniesienia do Marszałka Sejmu projektu ustawy. Sprawozdanie musi również zostać podane do publicznej wiadomości w dzienniku o zasięgu ogólnopolskim oraz być przechowywane przez pełnomocnika komitetu przez okres 12 miesięcy od dnia jego publikacji w dzienniku ogólnopolskim. Niedopełnienie obowiązków związanych z finansowaniem o.i.u. zagrożone jest karą grzywny, ograniczenia lub pozbawienia wolności do lat 3. Wymogi proceduralne, jakie wiążą się ze zgłoszeniem o.i.u., podnoszą próg wejścia do jej przeprowadzenia, ale pomogą podnieść Twoją organizację na wyższy poziom oraz dotrzeć z przekazem i argumentacją do tysięcy obywateli oraz… 460 posłów.
 
- 
-
 **3.2 Referendum**
 
                 Jeżeli chodzi o inicjatywę prawodawczą, obywatele mogą również korzystać z inicjatywy dot. przeprowadzenia referendum ogólnokrajowego oraz lokalnego. Procedura obywatelskiej inicjatywy referendalnej jest zasadniczo podobna do tej ustawodawczej. Kwestia referendum ogólnokrajowego uregulowana została w Ustawie z 14 marca 2003 roku o referendum ogólnokrajowym.Do inicjatywy obywatelskiej w tym zakresie odnosi się art. 63 ww. ustawy.
@@ -140,8 +136,6 @@ Celem zawnioskowania do Sejmu o przeprowadzenie referendum ogólnokrajowego nale
 3)      amnestii.
 
                 Należy pamiętać o tym, że ostatecznie decyzja o zarządzeniu referendum ogólnokrajowego należy do Sejmu, który dokonuje jej w drodze uchwały podjętej bezwzględną większością głosów. W tym kontekście wątpliwa wydaje się zasadność tak wysokiego progu poparcia dla organizacji referendum, którego rozstrzygnięcie nie byłoby prawnie wiążące, a stanowiłoby jedynie polityczne zobowiązanie Sejmu, Senatu i Prezydenta RP w formie wskazania woli Narodu wobec danego rozstrzygnięcia. Nic więc dziwnego, że ta forma partycypacji obywateli nie cieszy się popularnością.
-
- 
 
 **3.3 Konsultacje publiczne**
 
@@ -191,8 +185,6 @@ z radami pożytku publicznego,
 4)      tworzenie wspólnych zespołów o charakterze doradczym i inicjatywnym, złożonych\
 z przedstawicieli organizacji pozarządowych oraz przedstawicieli organów administracyjnych.
 
- 
-
 **4. Źródła wiedzy o przebiegu procesu legislacyjnego**
 
                 Pierwszym i najważniejszym źródłem zbierania informacji dotyczących procesu legislacyjnego są obowiązujące akty prawa. Informacje prasowe mogą być pomocne, ale nie rozstrzygające. Jest to być może truizmem, ale każdą informację dot. stanowienia prawa powinniśmy weryfikować w kontekście regulacji prawnych zawartych w Konstytucji, ustawach oraz rozporządzeniach. Wszystkie akty dostępne są za darmo na stronie isap.sejm.gov.pl. Jeżeli jednak ktoś ma taką możliwość, zalecane jest korzystanie z programów agregujących akty prawne oraz dokumenty powiązane z nimi, jak np. System Informacji Prawnej Lex lub System Informacji Prawnej LEGALIS, które jednak nie są darmowe.
@@ -216,7 +208,9 @@ Przydatny może okazać się również Publiczny Portal Informacji o Prawie[](#_
 
 W orzecznictwie i praktyce ukształtowało się podejście, że informacją publiczną jest każda wiadomość, dokument, cząstka informacji etc. powstała w wyniku działalności władz publicznych oraz ich organów, a także innych podmiotów, które władzę publiczną realizują lub gospodarują mieniem komunalnym lub majątkiem Skarbu Państwa w ramach kompetencji władz publicznych. Oznacza to, że nie możemy wnioskować o dostęp do dokumentów roboczych. Zwrócenie się z wnioskiem o dostęp do informacji publicznej z pewnością zwróci uwagę partnerów publicznych na naszą organizację, dlatego warto poprzedzić przekazanie formalnego wniosku rozmową telefoniczną – być może drogą mailową uda się uzyskać te same informacje szybciej i, co ważniejsze, bez ewentualnych zadrażnień. Sukces naszej sprawy uzależniony jest od budowania szerokiej koalicji poparcia, której znaczącym wsparciem mogą być sprzyjający nam urzędnicy służby cywilnej.
 
-Autorem tekstu jest Konrad Hennig - doktor nauk politycznych, ekspert w zakresie analizy polityk publicznych.
+**Autorem tekstu jest Konrad Hennig - doktor nauk politycznych, ekspert w zakresie analizy polityk publicznych.**
+
+
 
 - - -
 
