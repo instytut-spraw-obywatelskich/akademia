@@ -9,7 +9,6 @@ obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1626156143
 ---
 **Szczegółowe informacje z harmonogramem zjazdów znajdziecie [TUTAJ](https://res.cloudinary.com/inspro/image/upload/v1626153138/aiso/Zdj%C4%99cia%20szkolenia/kurs-specjalistyczny-II-edycja-2021-07-08.pdf)** 
 
-
 W kursie mogą wziąć udział tylko osoby, które są uczestnikami projektu tj. wzięły udział w szkoleniu regionalnym (były obecne podczas wszystkich dni zajęciowych), przesłały kompletne, papierowe formularze przystąpienia do projektu ze zgodami rodo.  
 
 **W kursie może wziąć udział 15 osób**, dlatego przy wyborze uczestników będziemy brać pod uwagę udzielone odpowiedzi w formularzu zgłoszeniowym i dotychczasowe zaangażowanie podczas szkoleń regionalnych. Skontaktujemy się z wybranymi uczestnikami, by poinformować co dalej. Ostateczna lista uczestników będzie zamieszczona na stronie Akademii.
@@ -24,7 +23,7 @@ Uwaga, decyzja, czy zajęcia będą organizowane w formie stacjonarnej czy zdaln
 
 **Formularz zgłoszeniowy dostępny [TUTAJ](https://forms.gle/ZXGysZb1hAQqLtdo7)**
 
-Inne dokumenty: w[zór umowy](https://res.cloudinary.com/inspro/image/upload/v1626155637/aiso/umowa_kurs_specjalistycznyIIedycja.pdf)
+Inne dokumenty: [wzór umowy](https://res.cloudinary.com/inspro/image/upload/v1626155637/aiso/umowa_kurs_specjalistycznyIIedycja.pdf)
 
 ![](https://res.cloudinary.com/inspro/image/upload/v1626156145/aiso/Zdj%C4%99cia%20szkolenia/2_aiso.jpg)
 
