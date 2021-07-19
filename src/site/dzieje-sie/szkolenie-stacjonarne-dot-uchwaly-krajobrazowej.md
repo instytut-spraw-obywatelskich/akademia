@@ -16,7 +16,7 @@ obrazek_podpis: ""
 ---
 **Kiedy: 04-05.09.2021 (sobota 12:00-19:30, niedziela 09:00-16:00)**
 
-**Gdzie:** Warszawa lub Poznań
+**Gdzie:** Warszawa
 
 Szczegółowy program zamieścimy niebawem.
 
