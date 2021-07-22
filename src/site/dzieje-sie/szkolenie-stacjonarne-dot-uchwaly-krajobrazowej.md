@@ -10,7 +10,7 @@ zajawka: >-
 
 
   **Zapisz się na szkolenie już dziś. Liczba miejsc jest ograniczona.**
-obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1626156584/aiso/Zdj%C4%99cia%20szkolenia/UCHWA%C5%81A_KRAJOBRAZOWA3.png
+obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1626940592/aiso/Zdj%C4%99cia%20szkolenia/foto3768512.png
 obrazek_opis: ""
 obrazek_podpis: ""
 ---
