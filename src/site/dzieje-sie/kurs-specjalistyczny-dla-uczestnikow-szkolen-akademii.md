@@ -26,6 +26,20 @@ Uwaga, decyzja, czy zajęcia będą organizowane w formie stacjonarnej czy zdaln
 
 Inne dokumenty: [wzór umowy](https://res.cloudinary.com/inspro/image/upload/v1626155637/aiso/umowa_kurs_specjalistycznyIIedycja.pdf)
 
+**Co o naszym kursie mówią sami uczestnicy**
+
+*"Kurs ogromnie merytoryczny – dostarczający ogromnej dawki wiedzy i nowych narzędzi! Pozytywna atmosfera! I ogromnie ciekawy program! Udział w szkoleniach dał mi nowe narzędzia, bardzo dużą dawkę wiedzy. Kurs na wysokim poziomie! Merytorycznie najwyższy level! Wskazał mi obszary, w których muszę się podszkolić i w jaki sposób mogę to zrobić"* - Dorota D.
+
+*"Kurs został zorganizowany w sposób przemyślany co do rodzajów wybranych tematów w mojej ocenie bardzo przydatnych dla realizacji celów stowarzyszenia. Udział w kursie dał mi dużo nowej wiedzy, którą postaram się wykorzystać pozytywnie w swoich działaniach na polu społecznym"* - Barbara P.
+
+*"Dostałam więcej niż oczekiwałam. Udział w kursie uporządkował stare i dał nowe pomysły"* - Katarzyna D.
+
+*"Moja opinia o kursie jest pozytywna. Wiele inspirujących myśli, które pragnę wykorzystać w działalności społecznej" -* Antoni P.
+
+"*Kurs pomaga i pokazuje jak skutecznie i poprawnie działać." -* Renata W.
+
+
+
 ![](https://res.cloudinary.com/inspro/image/upload/v1626156145/aiso/Zdj%C4%99cia%20szkolenia/2_aiso.jpg)
 
 ![](https://res.cloudinary.com/inspro/image/upload/v1626156149/aiso/Zdj%C4%99cia%20szkolenia/3_aiso.jpg)
