@@ -18,7 +18,7 @@ obrazek_podpis: ""
 
 **Gdzie:** Warszawa
 
-Szczegółowy program zamieścimy niebawem.
+Program szkolenia [TUTAJ](https://res.cloudinary.com/inspro/image/upload/v1627637618/aiso/Zdj%C4%99cia%20szkolenia/Program_szkolenia_Akademia_uchwala_krajobrazowa.pdf)
 
 **Prowadzący**
 
