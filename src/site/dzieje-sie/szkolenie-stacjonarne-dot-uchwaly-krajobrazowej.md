@@ -16,7 +16,7 @@ obrazek_podpis: ""
 ---
 **Kiedy: 04-05.09.2021 (sobota 12:00-19:30, niedziela 09:00-16:00)**
 
-**Gdzie:** Warszawa
+**Gdzie:** **Hotel Roko ul. Mikołajska 2, 02-455 Warszawa**
 
 Program szkolenia [TUTAJ](https://res.cloudinary.com/inspro/image/upload/v1627637618/aiso/Zdj%C4%99cia%20szkolenia/Program_szkolenia_Akademia_uchwala_krajobrazowa.pdf)
 
