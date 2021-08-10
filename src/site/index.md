@@ -37,34 +37,35 @@ program_szkolenia:
   dni:
     - dzien: pierwszy
       warsztaty:
-        - tytul: Wprowadzenie, program szkolenia, potrzeby
-          opis: poznajmy się
-          czas: 1
-        - tytul: Jak wygrać kampanię obywatelską? Wykorzystaj prawo
-          opis: |-
-            Cel – wskaż najbliższą zmianę;\
-            Układ sił – analizuj sojuszników i wrogów\
-            Wiatr – wykorzystaj szanse,\
-            Komunikacja – mobilizuj do działania\
-            Kampanier – zacznij od siebie\
-            Skrzynka narzędziowa
-          czas: 4
-        - tytul: "Skrzynka narzędziowa - prawo lokalne, krajowe i UE "
+        - tytul: Wprowadzenie, poznajmy się, potrzeby
+          opis: ""
+          czas: 1.5
+        - tytul: Podstawowe zasady i przebieg procesu stanowienia prawa
+          opis: ""
+          czas: 2.5
+        - tytul: Udział organizacji pozarządowych w tworzeniu i konsultowaniu prawa
           opis: null
           czas: 2
-        - tytul: "Podsumowanie "
+        - tytul: Skrzynka narzędziowa – prawo lokalne, krajowe i UE
           opis: "[](http://www.inpris.pl/przedsiewziecia/twoje-prawo/)"
-          czas: 1
+          czas: 2
     - dzien: drugi
       warsztaty:
-        - tytul: Film „Wpuszczeni w korek”, studium przypadku, analiza
+        - tytul: Film, studium przypadku, analiza
           opis: ""
+          czas: 2
+        - tytul: Jak wygrać kampanię obywatelską? Wykorzystaj prawo
+          opis: |-
+            Cel – wskaż najbliższą zmianę\
+            Układ sił – analizuj sojuszników i wrogów\
+            Wiatr – wykorzystaj szanse\
+            Komunikacja – mobilizuj do działania\
+            Kampanier – zacznij od siebie
           czas: 2
         - tytul: Planowanie własnej kampanii obywatelskiej z wykorzystaniem prawa
             lokalnego, krajowego i UE
-          opis: ""
-          czas: 4.5
-        - tytul: Z czym wychodzisz?
+          czas: 3.5
+        - tytul: Podsumowanie
           czas: 0.5
 metody_pracy:
   naglowek: Metody pracy
