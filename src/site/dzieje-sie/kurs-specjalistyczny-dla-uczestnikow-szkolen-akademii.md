@@ -20,7 +20,7 @@ Uwaga, decyzja, czy zajęcia będą organizowane w formie stacjonarnej czy zdaln
 
 **Aktualnie planujemy przeprowadzić kurs w formie stacjonarnej - miejsce Hotel Ibis Stare Miasto Warszawa** (Muranowska 2, 00-209 Warszawa)
 
-**Na zgłoszenia czekamy do 20 sierpnia 2021. Ilość miejsc ograniczona - zgłoś się już dziś.**
+**Na zgłoszenia czekamy do końca sierpnia 2021. Ilość miejsc ograniczona - zgłoś się już dziś.**
 
 **Formularz zgłoszeniowy dostępny [TUTAJ](https://forms.gle/ZXGysZb1hAQqLtdo7)**
 
