@@ -48,6 +48,8 @@ Poinformujemy Cię o wynikach rekrutacji. Następnie poprosimy Cię o wypełni
 
 **Z myślą o bezpieczeństwie uczestników** podjęliśmy kompleksowe działania, aby szkolenie stacjonarne było możliwe. Zastosowane przez nas rozwiązania, zostały przygotowane na bazie wytycznych [Ministerstwa Rozwoju](https://www.gov.pl/web/rozwoj/spotkania-biznesowe-szkolenia-konferencje-i-kongresy). Są w pełni dostosowane do aktualnego etapu zaawansowania stanu epidemicznego.
 
+Wysłuchaj naszego podcastu dot. [Uchwała krajobrazowa. Walcz z reklamozą](https://instytutsprawobywatelskich.pl/uchwala-krajobrazowa-walcz-z-reklamoza/)
+
 [Wysłuchaj naszego spotu](https://instytutsprawobywatelskich.pl/wp-content/uploads/2021/02/spot-aiso.mp3)
 
 **Masz pytania? Potrzebujesz wzmocnienia swoich działań społecznych? Weź udział w Akademii Instytutu Spraw Obywatelskich.**
