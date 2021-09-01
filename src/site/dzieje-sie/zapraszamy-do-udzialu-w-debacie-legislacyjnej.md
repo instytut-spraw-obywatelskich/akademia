@@ -1,5 +1,5 @@
 ---
-title: Zapraszamy do udziału w debacie legislacyjnej
+title: Zapraszamy uczestników szkoleń Akademii na debatę legislacyjną
 date: 2021-09-01T05:49:26.159Z
 zajawka: Celem debaty jest zwiększenie wiedzy społeczników na temat możliwości
   wykorzystania prawa do zmiany społecznej. **Debata kierowana jest do
