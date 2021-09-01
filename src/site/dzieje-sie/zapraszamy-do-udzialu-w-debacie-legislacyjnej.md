@@ -22,5 +22,4 @@ Zgłaszać można się poprzez formularz dostępny [TUTAJ](https://forms.gle/6JH
 
 **W ramach debaty uczestnik otrzyma: materiały szkoleniowe.** **Zapewniamy przerwę kawową oraz lunch. Dla osób spoza Warszawy możemy zapewnić nocleg ze śniadaniem oraz możliwość zwrotu kosztów dojazdu (do 210 zł).**
 
-Jeśli będą mieli Państwo pytania, chętnie udzielimy na nie odpowiedzi –prosimy je zgłaszać na adres [](mailto:office@pihrb.org)akademia\[at]instytut.lodz.pl\
-Zapraszamy do udziału!
+Jeśli mają Państwa pytania chętnie udzielimy na nie odpowiedzi - prosimy je zgłaszać na adres akademia\[at]instytut.lodz.pl
