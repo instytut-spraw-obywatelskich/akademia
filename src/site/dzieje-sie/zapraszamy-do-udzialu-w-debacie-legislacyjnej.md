@@ -14,9 +14,8 @@ Debata odbędzie się dnia **25 września 2021 r. (sobota) w godzinach 10:
 
 **Forma udziału w wydarzeniu:** 
 
-\- **dla uczestników dotychczasowych szkoleń Akademii** stacjonarnie w Warszawie (liczba miejsc ograniczona) lub online (oglądanie transmisji na żywo z możliwością zadawania pytań),
-
-\- **dla pozostałych chętnych** online (oglądanie transmisji na żywo z możliwością zadawania pytań).
+* **dla uczestników dotychczasowych szkoleń Akademii** - stacjonarnie w Warszawie (liczba miejsc ograniczona) lub online (oglądanie transmisji na żywo z możliwością zadawania pytań),
+* **dla pozostałych chętnych** - online (oglądanie transmisji na żywo z możliwością zadawania pytań).
 
 Debata da Państwu okazję do sieciowania z innymi uczestnikami szkoleń Akademii, aktywistami oraz ekspertami.
 
