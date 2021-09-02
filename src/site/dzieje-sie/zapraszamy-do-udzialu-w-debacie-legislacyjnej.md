@@ -24,8 +24,10 @@ Debata da Państwu okazję do sieciowania z innymi uczestnikami szkoleń Akademi
 
 Zgłaszać można się poprzez formularz dostępny [TUTAJ](https://forms.gle/6JHXZrPjFsmXp2JK9)
 
-**Każda osoba, biorąca udział w debacie otrzyma naszą publikację poradnik legislacyjny.** 
+**Uczestnikom szkoleń Akademii zapewniamy:**
 
-**Uczestnikom szkoleń Akademii zapewniamy przerwę kawową oraz lunch. Osobom spoza Warszawy zapewniamy nocleg ze śniadaniem oraz zwrot kosztów dojazdu do 210 zł (dotyczy pierwszych 20 osób zakwalifikowanych  .**
+* przerwę kawową
+*  lunch
+* nocleg ze śniadaniem oraz zwrot kosztów dojazdu do 210 zł dla os. spoza Warszawy (dotyczy pierwszych 20 osób zakwalifikowanych)
 
-Jeśli mają Państwa pytania chętnie udzielimy na nie odpowiedzi - prosimy je zgłaszać na adres akademia\[at]instytut.lodz.pl
+Jeśli mają Państwo pytania chętnie udzielimy na nie odpowiedzi - prosimy je zgłaszać na adres akademia\[at]instytut.lodz.pl
