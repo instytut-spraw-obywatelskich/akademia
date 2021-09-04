@@ -13,7 +13,7 @@ co_dajemy:
   tresc: >-
     1. **Bezpłatne, dwudniowe szkolenie otwarte** dla społeczników z organizacji
     zajmujących się różnymi tematami, np.: prawa pieszych, rolnictwo
-    ekologiczne, 5G i elektrosmog, zieleń w mieście, spalarnie śmieci, kolej,
+    ekologiczne, elektrosmog, zieleń w mieście, spalarnie śmieci, kolej,
     ekonomia społeczna, smog, gospodarka wodna, ochrona klimatu, komunikacja
     rowerowa, prawo pracy, dzika przyroda, ochrona drzew itp.
 
