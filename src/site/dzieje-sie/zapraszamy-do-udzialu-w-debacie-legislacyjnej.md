@@ -6,7 +6,7 @@ zajawka: Celem debaty jest zwiększenie wiedzy społeczników na temat możli
   wszystkich aktywistów.**
 obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1630473994/aiso/Zdj%C4%99cia%20szkolenia/debata.png
 ---
-Debata odbędzie się dnia **25 września 2021 r. (sobota) w godzinach 10:30 – 16:35 w Warszawie** (dokładny adres podamy niebawem) i podzielona będzie na trzy panele: 
+Debata odbędzie się dnia **25 września 2021 r. (sobota) w godzinach 10:30 – 16:35 w Warszawie** (Hotel Arche Puławska Residence, Puławska 361) i podzielona będzie na trzy panele: 
 
 * jak zmieniać prawo lokalne
 * jak zmieniać prawo krajowe
@@ -26,7 +26,7 @@ Zgłaszać można się poprzez formularz dostępny [TUTAJ](https://forms.gle/6JH
 **Uczestnikom szkoleń Akademii zapewniamy:**
 
 * przerwę kawową
-*  lunch
+* lunch
 * nocleg ze śniadaniem oraz zwrot kosztów dojazdu do 210 zł dla os. spoza Warszawy (dotyczy pierwszych 20 osób zakwalifikowanych)
 
 Jeśli mają Państwo pytania chętnie udzielimy na nie odpowiedzi - prosimy je zgłaszać na adres akademia\[at]instytut.lodz.pl
