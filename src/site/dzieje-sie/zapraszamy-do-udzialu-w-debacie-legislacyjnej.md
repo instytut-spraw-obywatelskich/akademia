@@ -57,6 +57,8 @@ Moderator: **Rafał Górski** - społecznik, wojownik, państwowiec. Prawo wykor
 
 **Justyna Zwolińska** - prawniczka specjalizująca się w zagadnieniach związanych z polityką jakości i ochroną środowiska w rolnictwie, polityką żywnościową, Wspólną Polityką Rolną oraz dobrostanem zwierząt gospodarskich. Wykładowczyni i doktorantka w Instytucie Nauk o Żywieniu Człowieka SGGW. Wykładowczyni na podyplomowych studiach „Prawo o żywności” na Uniwersytecie SWPS. Wieloletnia współpracowniczka organizacji pozarządowych zajmujących się rolnictwem, ochroną środowiska i zwierząt. Członkini Stowarzyszenia „Prawnicy na rzecz zwierząt” oraz Forum Rolnictwa Ekologicznego im. Mieczysława Górnego. Członkini Rady Fundacji „Strefa Zieleni”.  Koordynatorka ds. rzecznictwa Koalicji Żywa Ziemia w ramach obywatelskiej inicjatywy europejskiej Good Food Good Farming.
 
-Moderator: **Piotr Skubisz**
+Moderator: **Piotr Skubisz** - koordynuje współpracę z europejską federacją organizacji pozarządowych [Transport & Enviroment](http://www.transportenvironment.org/ "Transport & Enviroment"), specjalista w zakresie transformacji energetycznej.
+
+
 
 Jeśli mają Państwo pytania chętnie udzielimy na nie odpowiedzi - prosimy je zgłaszać na adres akademia\[at]instytut.lodz.pl
