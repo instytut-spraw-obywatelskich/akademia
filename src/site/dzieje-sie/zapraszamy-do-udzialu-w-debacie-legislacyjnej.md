@@ -43,6 +43,8 @@ Moderator: **Jarosław Ogrodowski** - ekspert w zakresie partycypacji społeczne
 
 
 
+
+
 ### **Panel: Jak zmieniać prawo krajowe?**
 
 **Agnieszka Ścigaj** - socjolog, przedsiębiorca społeczny, dyrektor Ośrodka Pomocy Społecznej w Kluczach, poseł na Sejm VIII i IX kadencji. Przewodnicząca Koła Poselskiego Polskie Sprawy, wiceprzewodnicząca sejmowej Komisji Polityki Społecznej i Rodziny. Za działalność społeczną odznaczona Srebrnym Krzyżem Zasługi. Autor i koordynator projektów europejskich w obszarze innowacji społecznych oraz rozwoju przedsiębiorczości. Wykładowca akademicki oraz doradca instytucji samorządowych w zakresie planowania strategicznego oraz projektów finansowanych ze środków Unii Europejskiej.
@@ -55,6 +57,8 @@ Moderator: **Rafał Górski** - społecznik, wojownik, państwowiec. Prawo wykor
 
 
 
+
+
 ### **Panel: Jak zmieniać prawo UE?**
 
 **Piotr Barczak** - z wykształcenia geodeta. Zdobył liczne dyplomy ukończenia szkoleń dot. ochrony środowiska i przystosowania do zmian klimatu. W 2010 roku rozpoczął pracę w Ministerstwie Środowiska, gdzie dołączył do wydziału współpracy międzynarodowej. W 2011 roku został wysłany do Brukseli, aby wzmocnić wydział polityki ochrony środowiska w Stałym Przedstawicielstwie RP przy UE. Pracował w tematach gazu łupkowego w Europie i USA oraz landgrabbingu w Afryce. Brał również udział w kilku misjach w Kongo i Sudanie Południowym współpracując z Caritasem i misjami ONZ. Od 2013 członek zespołu Europejskiego Biura Ochrony Środowiska (EEB). Obecnie jest odpowiedzialny za politykę odpadów w EEB, reprezentującym głos około 140 europejskich organizacji pozarządowych zajmujących się ochroną środowiska. Stoi on na czele grupy roboczej ds. odpadów EEB.
@@ -64,6 +68,8 @@ Moderator: **Rafał Górski** - społecznik, wojownik, państwowiec. Prawo wykor
 **Justyna Zwolińska** - prawniczka specjalizująca się w zagadnieniach związanych z polityką jakości i ochroną środowiska w rolnictwie, polityką żywnościową, Wspólną Polityką Rolną oraz dobrostanem zwierząt gospodarskich. Wykładowczyni i doktorantka w Instytucie Nauk o Żywieniu Człowieka SGGW. Wykładowczyni na podyplomowych studiach „Prawo o żywności” na Uniwersytecie SWPS. Wieloletnia współpracowniczka organizacji pozarządowych zajmujących się rolnictwem, ochroną środowiska i zwierząt. Członkini Stowarzyszenia „Prawnicy na rzecz zwierząt” oraz Forum Rolnictwa Ekologicznego im. Mieczysława Górnego. Członkini Rady Fundacji „Strefa Zieleni”.  Koordynatorka ds. rzecznictwa Koalicji Żywa Ziemia w ramach obywatelskiej inicjatywy europejskiej Good Food Good Farming.
 
 Moderator: **Piotr Skubisz** - koordynuje współpracę z europejską federacją organizacji pozarządowych [Transport & Enviroment](http://www.transportenvironment.org/ "Transport & Enviroment"), specjalista w zakresie transformacji energetycznej, bioenergii.
+
+
 
 
 
