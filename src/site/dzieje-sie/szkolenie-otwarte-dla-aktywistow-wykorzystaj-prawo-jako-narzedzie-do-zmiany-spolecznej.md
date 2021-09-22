@@ -14,7 +14,7 @@ obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1631534605
 
 **Gdzie:** Warszawa 
 
-Program zamieścimy niebawem
+**[Program](https://res.cloudinary.com/inspro/image/upload/v1632308970/aiso/Zdj%C4%99cia%20szkolenia/Akademia_program_2021_11.pdf)**
 
 **Prowadzący**
 
