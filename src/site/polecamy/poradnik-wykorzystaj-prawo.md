@@ -13,7 +13,7 @@ zajawka: >-
   że dobrze wykonaliśmy naszą pracę w ramach Akademii Instytutu Spraw
 
   Obywatelskich.
-obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1632492686/aiso/wykorzystaj-prawo1_1.png
+obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1632493438/aiso/wykorzystaj-prawo1_1.png
 ---
 W Konstytucji Rzeczypospolitej Polskiej czytamy: „Rzeczpospolita Polska
 jest dobrem wspólnym wszystkich obywateli”. Motywacją do uruchomienia
