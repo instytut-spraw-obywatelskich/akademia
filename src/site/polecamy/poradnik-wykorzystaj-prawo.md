@@ -54,4 +54,4 @@ to nie my wykorzystujemy prawo, ale prawo wykorzystuje nas.
 
 ![](https://res.cloudinary.com/inspro/image/upload/v1632493090/aiso/wykorzystaj-prawo_ok%C5%82adka.png)
 
-**[Zapraszamy do lektury całego poradnika](https://res.cloudinary.com/inspro/image/upload/v1632492372/aiso/Wykorzystaj-Prawo.pdf)**
+**[Zapraszamy do lektury całego poradnika](https://instytutsprawobywatelskich.pl/publikacje/wykorzystaj-prawo/)**
