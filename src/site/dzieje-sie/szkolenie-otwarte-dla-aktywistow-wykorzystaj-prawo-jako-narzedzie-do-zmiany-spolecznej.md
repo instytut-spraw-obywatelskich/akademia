@@ -10,7 +10,7 @@ zajawka: >-
   **Bezpłatne szkolenie „Wykorzystaj prawo” w ramach Akademii Instytutu Spraw Obywatelskich skierowane jest do społeczników, którzy chcą się dowiedzieć, jak używać prawa do zmiany społecznej. Zapisz się na szkolenie już dziś. Liczba miejsc jest ograniczona.**
 obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1631534605/aiso/Zdj%C4%99cia%20szkolenia/uchwa%C5%82a_768_432.jpg
 ---
-**Kiedy: 20-21.11.2021 (sobota 12:00-19:30, niedziela 09:00-16:00)**
+**Kiedy: 27-28.11.2021 (sobota 12:00-19:30, niedziela 09:00-16:00)**
 
 **Gdzie:** Warszawa 
 
