@@ -5,7 +5,7 @@ zajawka: W dniu 25 września 2021 r. zorganizowaliśmy w Warszawie debatę
   poświęconą wykorzystaniu prawa na poziomie samorządowym, krajowym i
   europejskim w działaniach aktywistów.
 ---
-![](https://res.cloudinary.com/inspro/image/upload/v1633498623/aiso/Zdj%C4%99cia%20szkolenia/2021AISO002.jpg "zdj. Piotr Skubisz")
+![zdj. Piotr Skubisz](https://res.cloudinary.com/inspro/image/upload/v1633498623/aiso/Zdj%C4%99cia%20szkolenia/2021AISO002.jpg)
 
 ![](https://res.cloudinary.com/inspro/image/upload/v1633498622/aiso/Zdj%C4%99cia%20szkolenia/2021AISO011.jpg "zdj. Piotr Skubisz")
 
@@ -24,7 +24,5 @@ zajawka: W dniu 25 września 2021 r. zorganizowaliśmy w Warszawie debatę
 ![](https://res.cloudinary.com/inspro/image/upload/v1633498622/aiso/Zdj%C4%99cia%20szkolenia/2021AISO046.jpg "zdj. Piotr Skubisz")
 
 ![](https://res.cloudinary.com/inspro/image/upload/v1633498623/aiso/Zdj%C4%99cia%20szkolenia/IMG_6861.jpg "zdj. Ilona Pietrzak")
-
-
 
 ![]()
