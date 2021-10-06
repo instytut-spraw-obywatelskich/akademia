@@ -26,3 +26,5 @@ zajawka: W dniu 25 września 2021 r. zorganizowaliśmy w Warszawie debatę
 ![](https://res.cloudinary.com/inspro/image/upload/v1633498623/aiso/Zdj%C4%99cia%20szkolenia/IMG_6861.jpg "zdj. Ilona Pietrzak")
 
 ![]()
+
+zdj. 1-9 Piotr Skubisz, zdj. 10 Ilona Pietrzak
