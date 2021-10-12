@@ -1,8 +1,8 @@
 ---
 title: PROCES LEGISLACYJNY NA POZIOMIE JEDNOSTKI SAMORZĄDU TERYTORIALNEGO
 date: 2021-10-12T06:06:03.195Z
-zajawka: Tekst dotyczący tworzenia prawa lokalnego przygotowała Karolina
-  Szlachetka. Prawniczka, absolwentka Wydziału Prawa i Administracji
+zajawka: Tekst dotyczący tworzenia prawa lokalnego przygotowała **Karolina
+  Szlachetka**. Prawniczka, absolwentka Wydziału Prawa i Administracji
   Uniwersytetu Łódzkiego. Doświadczenie zdobyła pracując w kancelarii
   adwokackiej i Sądzie Okręgowym w Łodzi. Od 10 lat pracownik jednostki
   administracji publicznej na szczeblu centralnym. Wieloletni praktyk w zakresie
@@ -10,7 +10,7 @@ zajawka: Tekst dotyczący tworzenia prawa lokalnego przygotowała Karolina
   strukturalnych Unii Europejskiej oraz legislacji.
 obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1634018737/aiso/Zdj%C4%99cia%20szkolenia/Prawo_lokale.png
 ---
-#### Teksty aktów prawnych obowiązujących w Rzeczypospolitej Polskiej można znaleźć na stronie:[ https://isap.sejm.gov.pl/](https://isap.sejm.gov.pl/)
+Teksty aktów prawnych obowiązujących w Rzeczypospolitej Polskiej można znaleźć na stronie:[ https://isap.sejm.gov.pl/](https://isap.sejm.gov.pl/)
 
 ### **Akty prawa miejscowego – czym są?**
 
@@ -20,8 +20,6 @@ Art. 87 Konstytucji Rzeczypospolitej Polskiej wskazuje, iż źródłem powszechn
 * ustawy,
 * ratyfikowane umowy międzynarodowe,
 * rozporządzenia
-
-  oraz
 * akty prawa miejscowego, z zastrzeżeniem, iż są one źródłem prawa powszechnie obowiązującego na obszarze działania organów, które je ustanowiły.
 
 Link do Konstytucji Rzeczypospolitej Polskiej:[ https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU19970780483/U/D19970483Lj.pdf](https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU19970780483/U/D19970483Lj.pdf)
@@ -42,17 +40,17 @@ Natomiast generalny charakter aktów prawnych oznacza, iż każda norma prawna p
 
 Akt prawny to zbiór przepisów stworzonych przez właściwy do tego organ. Organ właściwy, czyli taki, który posiada odpowiednie umocowanie. Nadto, aktem prawnym będzie również działanie właściwego organu państwa, czy podmiotu prawnego, którego celem jest wywołanie określonych skutków prawnych.
 
-Trybunał Konstytucyjny w postanowieniu z 6 października 2004 r. (SK 42/2002) wskazał: „Konstytucja posługuje się tylko ogólną definicją aktów prawa miejscowego. Mimo dużego zróżnicowania tych aktów zarówno pod względem przedmiotowym, jak i podmiotowym (akty organów administracji rządowej, jak i samodzielnych, o zupełnie innej pozycji ustrojowej, organów samorządu terytorialnego), Konstytucja nie wymienia ich nazw rodzajowych. W poszczególnych ustawach, będących podstawą wydawania aktów prawa miejscowego, występują one jako uchwały, zarządzenia lub rozporządzenia porządkowe, miejscowe plany zagospodarowania przestrzennego itp. Co więcej, samo nazwanie jakiegoś aktu administracji rządowej rozporządzeniem, a aktu organu samorządu terytorialnego uchwałą itp., nie wystarcza do przyjęcia, że mamy do czynienia z aktem prawa miejscowego. Niezbędne są każdorazowe ustalenia, czy dany akt mimo swojej specyfiki przedmiotowej lub podmiotowej i takiego, a nie innego stopnia konkretyzacji jest lub nie jest aktem prawa miejscowego. Tak zróżnicowana wewnętrznie sfera prawotwórstwa wymaga też traktowania w sposób odrębny każdego rodzaju aktu prawa miejscowego przy badaniu, czy mieści się on w wymogach związanych z aktami normatywnymi określonymi w [art. 188 pkt 1-3](https://sip.lex.pl/#/document/16798613?unitId=art(188)pkt(1)&cm=DOCUMENT) i [pkt 5](https://sip.lex.pl/#/document/16798613?unitId=art(188)pkt(5)&cm=DOCUMENT) w związku z [art. 79 ust. 1](https://sip.lex.pl/#/document/16798613?unitId=art(79)ust(1)&cm=DOCUMENT) Konstytucji”.
+###### Trybunał Konstytucyjny w postanowieniu z 6 października 2004 r. (SK 42/2002) wskazał: „Konstytucja posługuje się tylko ogólną definicją aktów prawa miejscowego. Mimo dużego zróżnicowania tych aktów zarówno pod względem przedmiotowym, jak i podmiotowym (akty organów administracji rządowej, jak i samodzielnych, o zupełnie innej pozycji ustrojowej, organów samorządu terytorialnego), Konstytucja nie wymienia ich nazw rodzajowych. W poszczególnych ustawach, będących podstawą wydawania aktów prawa miejscowego, występują one jako uchwały, zarządzenia lub rozporządzenia porządkowe, miejscowe plany zagospodarowania przestrzennego itp. Co więcej, samo nazwanie jakiegoś aktu administracji rządowej rozporządzeniem, a aktu organu samorządu terytorialnego uchwałą itp., nie wystarcza do przyjęcia, że mamy do czynienia z aktem prawa miejscowego. Niezbędne są każdorazowe ustalenia, czy dany akt mimo swojej specyfiki przedmiotowej lub podmiotowej i takiego, a nie innego stopnia konkretyzacji jest lub nie jest aktem prawa miejscowego. Tak zróżnicowana wewnętrznie sfera prawotwórstwa wymaga też traktowania w sposób odrębny każdego rodzaju aktu prawa miejscowego przy badaniu, czy mieści się on w wymogach związanych z aktami normatywnymi określonymi w [art. 188 pkt 1-3](https://sip.lex.pl/#/document/16798613?unitId=art(188)pkt(1)&cm=DOCUMENT) i [pkt 5](https://sip.lex.pl/#/document/16798613?unitId=art(188)pkt(5)&cm=DOCUMENT) w związku z [art. 79 ust. 1](https://sip.lex.pl/#/document/16798613?unitId=art(79)ust(1)&cm=DOCUMENT) Konstytucji”.
 
 Uchwała jest podstawową formą podejmowania decyzji przez jednostki samorządu terytorialnego.
 
 *Przykłady uchwał:*
 
-#### UCHWAŁA BUDŻETOWA NA 2021 ROK Nr XXV/250/2021 RADY MIEJSKIEJ W DROBINIE z dnia 21 stycznia 2021 r.
+###### UCHWAŁA BUDŻETOWA NA 2021 ROK Nr XXV/250/2021 RADY MIEJSKIEJ W DROBINIE z dnia 21 stycznia 2021 r.
 
-#### UCHWAŁA Nr VII/65/2019 RADY GMINY LINIEWO z dnia 18 czerwca 2019 r. w sprawie obywatelskiej inicjatywy uchwałodawczej
+###### UCHWAŁA Nr VII/65/2019 RADY GMINY LINIEWO z dnia 18 czerwca 2019 r. w sprawie obywatelskiej inicjatywy uchwałodawczej
 
-#### UCHWAŁA Nr VIII/31/2019 RADY GMINY ŁUKTA z dnia 31 maja 2019 r. zmieniająca *uchwałę* w sprawie Statutu Sołectwa Komorowo. 
+###### UCHWAŁA Nr VIII/31/2019 RADY GMINY ŁUKTA z dnia 31 maja 2019 r. zmieniająca *uchwałę* w sprawie Statutu Sołectwa Komorowo. 
 
 ### **Dlaczego potrzebne jest prawo miejscowe?**
 
@@ -77,35 +75,35 @@ IV SA/Gl 723/15
 
 Uzasadnienie faktyczne
 
-#### (…) Rada Gminy Lubomia wprowadziła "Lubomską Kartę Rodziny 3+" dla rodzin wielodzietnych, w tym rodzin zastępczych z terenu Gminy Lubomia. Uchwała została doręczona organowi nadzoru w dniu 25 maja 2015 r. Zdaniem organu nadzoru Rada Gminy Lubomia błędnie upatruje podstawy prawnej uchwały w treści m.in.: art. 7 ust. 1 pkt 6a i pkt 16 oraz art. 18 ust. 1 ustawy z dnia z dnia 8 marca 1990 r. o samorządzie gminnym (tekst jedn. Dz.U. z 2015 r., poz. 1515, dalej: usg oraz ustawa samorządowa) w związku z celami strategicznymi w ramach "Systemu profilaktyki i opieki nad dzieckiem i rodziną w gminie Lubomia" przyjętego uchwałą Nr LI/336/2010 Rady Gminy Lubomia z dnia 30 czerwca 2010 r. Zgodnie z art. 7 ust. 1 pkt 6a i pkt 16 ustawy o samorządzie gminnym zaspokajanie zbiorowych potrzeb wspólnoty należy do zadań własnych gminy. W szczególności zadania własne obejmują sprawy wspierania rodziny i systemu pieczy zastępczej oraz polityki prorodzinnej, w tym zapewnienia kobietom w ciąży opieki socjalnej, medycznej i prawnej. Z kolei według art. 18 ust. 1 tej ustawy do właściwości rady gminy należą wszystkie sprawy pozostające w zakresie działania gminy, o ile ustawy nie stanowią inaczej. Przepis ten formułuje zatem ustawową zasadę domniemania kompetencji przysługujących gminie na rzecz rady gminy. Natomiast nie stanowią one samodzielnej podstawy prawnej podjęcia omawianego aktu, a tym bardziej aktu o charakterze normatywnym.
+##### (…) Rada Gminy Lubomia wprowadziła "Lubomską Kartę Rodziny 3+" dla rodzin wielodzietnych, w tym rodzin zastępczych z terenu Gminy Lubomia. Uchwała została doręczona organowi nadzoru w dniu 25 maja 2015 r. Zdaniem organu nadzoru Rada Gminy Lubomia błędnie upatruje podstawy prawnej uchwały w treści m.in.: art. 7 ust. 1 pkt 6a i pkt 16 oraz art. 18 ust. 1 ustawy z dnia z dnia 8 marca 1990 r. o samorządzie gminnym (tekst jedn. Dz.U. z 2015 r., poz. 1515, dalej: usg oraz ustawa samorządowa) w związku z celami strategicznymi w ramach "Systemu profilaktyki i opieki nad dzieckiem i rodziną w gminie Lubomia" przyjętego uchwałą Nr LI/336/2010 Rady Gminy Lubomia z dnia 30 czerwca 2010 r. Zgodnie z art. 7 ust. 1 pkt 6a i pkt 16 ustawy o samorządzie gminnym zaspokajanie zbiorowych potrzeb wspólnoty należy do zadań własnych gminy. W szczególności zadania własne obejmują sprawy wspierania rodziny i systemu pieczy zastępczej oraz polityki prorodzinnej, w tym zapewnienia kobietom w ciąży opieki socjalnej, medycznej i prawnej. Z kolei według art. 18 ust. 1 tej ustawy do właściwości rady gminy należą wszystkie sprawy pozostające w zakresie działania gminy, o ile ustawy nie stanowią inaczej. Przepis ten formułuje zatem ustawową zasadę domniemania kompetencji przysługujących gminie na rzecz rady gminy. Natomiast nie stanowią one samodzielnej podstawy prawnej podjęcia omawianego aktu, a tym bardziej aktu o charakterze normatywnym.
 
-#### Rada Gminy regulując zakres podmiotowy określiła pojęcie "rodziny wielodzietnej", a ponadto zawarła definicję *"osoby zamieszkałej"***.** W § 1 ust. 1 załącznika do niniejszej uchwały Rada zawarła definicję "rodziny wielodzietnej". Zgodnie z tym przepisem przez rodzinę wielodzietną należy rozumieć rodzinę zamieszkałą na terenie gminy Lubomia, mającą na utrzymaniu troje lub więcej dzieci w wieku do 18 roku życia lub do 25 roku życia, jeśli kontynuują naukę w szkole (szkole wyższej), a w przypadku dziecka niepełnosprawnego powyżej 18-tego roku życia na okres ważności orzeczenia o stopniu niepełnosprawności, w tym także rodzinę zastępczą. Z kolei stosownie do unormowania zawartego w § 1 ust. 5 załącznika do uchwały przez osobę zamieszkałą na terenie gminy Lubomia należy rozumieć osobę posiadającą zameldowanie na pobyt stały lub czasowy lub osobę przebywającą na terenie gminy Lubomia lub osobę korzystającą ze świadczeń rodzinnych. W ocenie organu nadzoru nie ma wątpliwości, iż Lubomska Karta Rodziny 3+ jako dokument zapewniający specjalne uprawnienia rodzinom wielodzietnym może być przyznana tylko i wyłącznie mieszkańcom danej jednostki samorządu terytorialnego, w tym przypadku mieszkańcom Gminy Lubomia. Gmina przyznając przedmiotowe ulgi dla rodzin wielodzietnych w kwestii dotyczącej pojęcia osoby zamieszkałej winna odnieść się do regulacji zawartej w ustawie z dnia 23 kwietnia 1964 r. kodeks cywilny (tekst jedn. Dz.U. z 2014 r., poz. 121, ze zm., dalej: Kodeks cywilny lub Kc), a zwłaszcza art. 25 tej ustawy i dokonać interpretacji pojęcia zamieszkania na użytek niniejszej uchwały. *Miejscem zamieszkania osoby fizycznej - zgodnie z art. 25 Kodeksu cywilnego - jest miejscowość, w której osoba ta przebywa z zamiarem stałego pobytu. O przyjęciu zamieszkania danej osoby w określonej miejscowości nie decyduje zatem miejscowość, w której osoba fizyczna jest zameldowana na pobyt stały lub czasowy, lub w której korzysta ze świadczeń rodzinnych, ale ta miejscowość, w której ona przebywa z zamiarem stałego pobytu*. Do stwierdzenia tego faktu konieczne jest ustalenie zatem występowania łącznie dwóch przesłanek, a mianowicie przebywania (element obiektywny – gdy występują okoliczności pozwalające przeciętnemu obserwatorowi na wyciągnięcie wniosku, że określona miejscowość jest głównym ośrodkiem działalności danej osoby) i zamiaru stałego pobytu (element subiektywny – gdy dana osoba oświadcza, iż w danej miejscowości skupia centrum swych spraw życiowych).
+##### Rada Gminy regulując zakres podmiotowy określiła pojęcie "rodziny wielodzietnej", a ponadto zawarła definicję *"osoby zamieszkałej"**\*.** W § 1 ust. 1 załącznika do niniejszej uchwały Rada zawarła definicję "rodziny wielodzietnej". Zgodnie z tym przepisem przez rodzinę wielodzietną należy rozumieć rodzinę zamieszkałą na terenie gminy Lubomia, mającą na utrzymaniu troje lub więcej dzieci w wieku do 18 roku życia lub do 25 roku życia, jeśli kontynuują naukę w szkole (szkole wyższej), a w przypadku dziecka niepełnosprawnego powyżej 18-tego roku życia na okres ważności orzeczenia o stopniu niepełnosprawności, w tym także rodzinę zastępczą. Z kolei stosownie do unormowania zawartego w § 1 ust. 5 załącznika do uchwały przez osobę zamieszkałą na terenie gminy Lubomia należy rozumieć osobę posiadającą zameldowanie na pobyt stały lub czasowy lub osobę przebywającą na terenie gminy Lubomia lub osobę korzystającą ze świadczeń rodzinnych. W ocenie organu nadzoru nie ma wątpliwości, iż Lubomska Karta Rodziny 3+ jako dokument zapewniający specjalne uprawnienia rodzinom wielodzietnym może być przyznana tylko i wyłącznie mieszkańcom danej jednostki samorządu terytorialnego, w tym przypadku mieszkańcom Gminy Lubomia. Gmina przyznając przedmiotowe ulgi dla rodzin wielodzietnych w kwestii dotyczącej pojęcia osoby zamieszkałej winna odnieść się do regulacji zawartej w ustawie z dnia 23 kwietnia 1964 r. kodeks cywilny (tekst jedn. Dz.U. z 2014 r., poz. 121, ze zm., dalej: Kodeks cywilny lub Kc), a zwłaszcza art. 25 tej ustawy i dokonać interpretacji pojęcia zamieszkania na użytek niniejszej uchwały. *Miejscem zamieszkania osoby fizycznej - zgodnie z art. 25 Kodeksu cywilnego - jest miejscowość, w której osoba ta przebywa z zamiarem stałego pobytu. O przyjęciu zamieszkania danej osoby w określonej miejscowości nie decyduje zatem miejscowość, w której osoba fizyczna jest zameldowana na pobyt stały lub czasowy, lub w której korzysta ze świadczeń rodzinnych, ale ta miejscowość, w której ona przebywa z zamiarem stałego pobytu*. Do stwierdzenia tego faktu konieczne jest ustalenie zatem występowania łącznie dwóch przesłanek, a mianowicie przebywania (element obiektywny – gdy występują okoliczności pozwalające przeciętnemu obserwatorowi na wyciągnięcie wniosku, że określona miejscowość jest głównym ośrodkiem działalności danej osoby) i zamiaru stałego pobytu (element subiektywny – gdy dana osoba oświadcza, iż w danej miejscowości skupia centrum swych spraw życiowych).
 
-#### Podsumowując, organ nadzoru wywiódł, iż to właśnie osobom, które zamieszkują, tj. mają miejsce zamieszkania na danym obszarze ustawodawca przyznał prawo do otrzymania jakiegokolwiek świadczenia (ulgi) z gminy. Nie sposób zatem przyjąć, że w drodze aktu podstawowego, w przedmiotowej sprawie uchwały rady gminy, dopuszczalne było definiowanie pojęcia osoby zamieszkałej w oderwaniu od ogólnie przyjętej definicji zawartej w Kodeksie cywilnym.
+##### Podsumowując, organ nadzoru wywiódł, iż to właśnie osobom, które zamieszkują, tj. mają miejsce zamieszkania na danym obszarze ustawodawca przyznał prawo do otrzymania jakiegokolwiek świadczenia (ulgi) z gminy. Nie sposób zatem przyjąć, że w drodze aktu podstawowego, w przedmiotowej sprawie uchwały rady gminy, dopuszczalne było definiowanie pojęcia osoby zamieszkałej w oderwaniu od ogólnie przyjętej definicji zawartej w Kodeksie cywilnym.
 
-#### Uzasadnienie prawne
+##### Uzasadnienie prawne
 
-#### Wojewódzki Sąd Administracyjny w Gliwicach zważył, co następuje:
+##### Wojewódzki Sąd Administracyjny w Gliwicach zważył, co następuje:
 
-#### Skarga jest uzasadniona.
+##### Skarga jest uzasadniona.
 
-#### (…) Zgodnie natomiast z art. 91 ust. 1 usg uchwała lub zarządzenie organu gminy sprzeczne z prawem są nieważne. Ustawodawca nie wprowadził jednak definicji pojęcia "sprzeczności z prawem". Wykształciła się ona w drodze stosowania prawa. Przez sprzeczność taką przyjęło się rozumieć niezgodność z aktami prawa powszechnie obowiązującego, a więc Konstytucją, ustawami, aktami wykonawczymi, oraz powszechnie obowiązującymi aktami prawa miejscowego (por. wyrok Trybunału Konstytucyjnego z dnia 9 grudnia 2003 r. P 9/02, OTK-A 2003, nr 9, poz. 100).
+##### (…) Zgodnie natomiast z art. 91 ust. 1 usg uchwała lub zarządzenie organu gminy sprzeczne z prawem są nieważne. Ustawodawca nie wprowadził jednak definicji pojęcia "sprzeczności z prawem". Wykształciła się ona w drodze stosowania prawa. Przez sprzeczność taką przyjęło się rozumieć niezgodność z aktami prawa powszechnie obowiązującego, a więc Konstytucją, ustawami, aktami wykonawczymi, oraz powszechnie obowiązującymi aktami prawa miejscowego (por. wyrok Trybunału Konstytucyjnego z dnia 9 grudnia 2003 r. P 9/02, OTK-A 2003, nr 9, poz. 100).
 
-#### *(…) Dopuszczalny zakres prawotwórstwa lokalnego uwzględniać musi jedną z fundamentalnych zasad, a mianowicie to, że akty prawa miejscowego to zawsze akty podustawowe, o charakterze wykonawczym do ustawy. Przepis wykonawczy może ze swej istoty jedynie "wykonywać" ustawę, a więc ją uzupełniać, nie może natomiast jej "powtarzać", czy regulować kwestii, które są regulowane w ustawie, traci bowiem wówczas swój wykonawczy charakter, stając się samodzielnym źródłem prawa i wykraczając w ten sposób poza granice upoważnienia ustawowego (por. w odniesieniu do rozporządzeń wyrok TK z dnia 6 marca 2000 r., P 10/99, OTK 2000, nr 2, poz. 56).* Skoro zatem stanowione akty prawa miejscowego muszą tę ustawę "wykonywać", muszą się one mieścić w przedmiocie regulacji tej ustawy. Podejmując bowiem akty prawa miejscowego w oparciu o normę ustawową, organ stanowiący musi ściśle działać na podstawie i w granicach upoważnienia zawartego w danej ustawie i niedopuszczalne jest dokonywanie wykładni rozszerzającej przepisów kompetencyjnych. Norma kompetencyjna musi być tak realizowana, aby nie naruszała innych przepisów ustawy, w tym niedopuszczalne jest wkraczanie w materię uregulowaną ustawą (w niniejszej sprawie w szczególności chodzi o unormowania zawarte w art. 56 ust. 1 ustawy o finansach publicznych). Zakres upoważnienia winien być zawsze ustalany przez pryzmat zasad demokratycznego państwa prawnego, działania w granicach i na podstawie prawa oraz innych przepisów regulujących daną dziedzinę (art. 7 Konstytucji RP).
+##### *(…) Dopuszczalny zakres prawotwórstwa lokalnego uwzględniać musi jedną z fundamentalnych zasad, a mianowicie to, że akty prawa miejscowego to zawsze akty podustawowe, o charakterze wykonawczym do ustawy. Przepis wykonawczy może ze swej istoty jedynie "wykonywać" ustawę, a więc ją uzupełniać, nie może natomiast jej "powtarzać", czy regulować kwestii, które są regulowane w ustawie, traci bowiem wówczas swój wykonawczy charakter, stając się samodzielnym źródłem prawa i wykraczając w ten sposób poza granice upoważnienia ustawowego (por. w odniesieniu do rozporządzeń wyrok TK z dnia 6 marca 2000 r., P 10/99, OTK 2000, nr 2, poz. 56).* Skoro zatem stanowione akty prawa miejscowego muszą tę ustawę "wykonywać", muszą się one mieścić w przedmiocie regulacji tej ustawy. Podejmując bowiem akty prawa miejscowego w oparciu o normę ustawową, organ stanowiący musi ściśle działać na podstawie i w granicach upoważnienia zawartego w danej ustawie i niedopuszczalne jest dokonywanie wykładni rozszerzającej przepisów kompetencyjnych. Norma kompetencyjna musi być tak realizowana, aby nie naruszała innych przepisów ustawy, w tym niedopuszczalne jest wkraczanie w materię uregulowaną ustawą (w niniejszej sprawie w szczególności chodzi o unormowania zawarte w art. 56 ust. 1 ustawy o finansach publicznych). Zakres upoważnienia winien być zawsze ustalany przez pryzmat zasad demokratycznego państwa prawnego, działania w granicach i na podstawie prawa oraz innych przepisów regulujących daną dziedzinę (art. 7 Konstytucji RP).
 
-#### (…) Przenosząc powyższe rozważania na grunt rozpoznawanej sprawy stwierdzić należy, że rację ma organ nadzoru podnosząc, iż w zaskarżonej uchwale niedopuszczalne było definiowanie pojęcia osoby zamieszkałej w oderwaniu od ogólnie przyjętej definicji zawartej w Kodeksie cywilnym. Dla przyjęcia, czy dana rodzina wielodzietna zamieszkuje na terenie gminy, a co za tym idzie, czy jej członkom przysługuje prawo do skorzystania z "Lubomskiej Karty Rodziny 3+" pozostaje bez znaczenia to, czy rodzina ta zamieszkując na terenie danej jednostki samorządu terytorialnego posiada stały lub czasowy meldunek, jak również to, czy korzysta ze świadczeń rodzinnych. Nie są to bowiem kryteria, które determinują przynależność do wspólnoty samorządowej. (…)”
+##### (…) Przenosząc powyższe rozważania na grunt rozpoznawanej sprawy stwierdzić należy, że rację ma organ nadzoru podnosząc, iż w zaskarżonej uchwale niedopuszczalne było definiowanie pojęcia osoby zamieszkałej w oderwaniu od ogólnie przyjętej definicji zawartej w Kodeksie cywilnym. Dla przyjęcia, czy dana rodzina wielodzietna zamieszkuje na terenie gminy, a co za tym idzie, czy jej członkom przysługuje prawo do skorzystania z "Lubomskiej Karty Rodziny 3+" pozostaje bez znaczenia to, czy rodzina ta zamieszkując na terenie danej jednostki samorządu terytorialnego posiada stały lub czasowy meldunek, jak również to, czy korzysta ze świadczeń rodzinnych. Nie są to bowiem kryteria, które determinują przynależność do wspólnoty samorządowej. (…)”
 
 ### **Proces tworzenia aktów prawa miejscowego**
 
 W art. 94 Konstytucja określa, że organy samorządu terytorialnego oraz terenowe organy administracji rządowej ustanawiają akty prawa miejscowego obowiązujące na obszarze działania tych organów oraz na podstawie i w granicach upoważnień zawartych w ustawie. W ww. przepisie występują dwa elementy, a mianowicie: wymienienie organów upoważnionych do wydawania aktów prawa miejscowego oraz ustanowienie konieczności oparcia każdego aktu prawa miejscowego na upoważnieniu ustawowym. Zaczynając od pierwszego elementu ww. normy prawnej, należy wskazać, kto jest uprawniony do wydawania aktów prawa miejscowego. Aby określić katalog tych podmiotów, w pierwszej kolejności należy wskazać, jakie występują w naszym kraju organy jednostek samorządu. Dzielą się one na organy stanowiące i wykonawcze, a podział ten wynika z rodzaju zadań, które są tym organom powierzone:
 
-![](https://res.cloudinary.com/inspro/image/upload/v1634019923/aiso/Zdj%C4%99cia%20szkolenia/gmina_powiat.png)
-
 Organy stanowiące to organy uchwałodawcze w jednostkach samorządu terytorialnego.
+
+![](https://res.cloudinary.com/inspro/image/upload/v1634019923/aiso/Zdj%C4%99cia%20szkolenia/gmina_powiat.png)
 
 Sama procedura tworzenia prawa miejscowego jest jednak wieloetapowa i dość skomplikowana, nadto może wykazywać różnice w poszczególnych jednostkach samorządu. Gdzie zatem poszukiwać informacji o sposobie tworzenia prawa na danym terenie? Znajdziemy je w aktach prawnych dotyczących działania danej jednostki samorządu.
 
-Ogólne regulacje w tym zakresie zawierają ustawy ustrojowe:
+**Ogólne regulacje w tym zakresie zawierają ustawy ustrojowe:**
 
 ustawa o samorządzie gminnym - <https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU19900160095/U/D19900095Lj.pdf> – Rozdział 4
 
@@ -203,7 +201,7 @@ Przy obliczaniu terminu wejścia w życie określonego w dniach nie uwzględnia 
 
 Schemat powyżej opisuje proces inicjatywy uchwałodawczej w jednostce samorządu terytorialnego.
 
-#### **Zadania a kompetencje jednostek samorządu terytorialnego**
+### **Zadania a kompetencje jednostek samorządu terytorialnego**
 
 Przystąpienie do procesu tworzenia prawa miejscowego powinno być poprzedzone weryfikacją, czy materia, którą uchwała ma regulować, nie została już przesądzona mocą innych przepisów – wyższego rzędu. Po drugie, gmina, powiat czy województwo muszą zweryfikować, czy mają umocowanie do uregulowania danej kwestii.
 
@@ -312,21 +310,19 @@ Uchwała wchodzi w życie po upływie 14 dni od dnia ogłoszenia w Dzienniku Urz
 
 
 
-##### Konstrukcja paragrafu – czyli podstawowej jednostki redakcyjnej uchwał:
+#### Konstrukcja paragrafu – czyli podstawowej jednostki redakcyjnej uchwał:
 
-##### § 1 – paragraf jeden
+#### § 1 – paragraf jeden
 
-##### 1. Ustęp pierwszy
+#### 1. Ustęp pierwszy
 
-#####                 1) punkt pierwszy zakończony “;”, a ostatni w uchwale zakończony “.”
+####                 1) punkt pierwszy zakończony “;”, a ostatni w uchwale zakończony “.”
 
-#####                                a) litera a zakończona “,” a ostatnia zakończona “;”
+####                                a) litera a zakończona “,” a ostatnia zakończona “;”
 
-##### \> tiret pierwszy zakończony “,”, a ostatni zakończony “;”
+#### \> tiret pierwszy zakończony “,”, a ostatni zakończony “;”
 
- 
-
-#### **Konsekwencje złego zredagowania uchwały**
+### **Konsekwencje złego zredagowania uchwały**
 
 Konsekwencje wadliwości uchwał, zarówno pod względem redakcyjnym, jak i kompetencyjnym, określają przepisy ustaw ustrojowych. Sankcjami mogą być: stwierdzenie podjęcia uchwały z naruszeniem prawa, stwierdzenie istotnego bądź rażącego naruszenia prawa oraz stwierdzenie nieważności uchwały, co do czasu uprawomocnienia się decyzji organu nadzorczego, tj. Wojewody i Regionalnej Izby Obrachunkowej, skutkuje wstrzymaniem wejścia uchwały w życie.
 
@@ -345,7 +341,6 @@ Przykład z orzecznictwa:
 **I OSK 843/12**
 
 1. Każdy z zakresów spraw wymienionych w art. 7 ust. 1 u.s.g. winien być potwierdzony i uszczegółowiony w ustawie odrębnej, poświęconej tematycznie sprawom stanowiącym zadania gminy.
-
 2. Samo powołanie niewłaściwej podstawy prawnej uchwały przez organ samorządu terytorialnego nie jest uchybieniem tej rangi, które zawsze musi prowadzić do stwierdzenia przez sąd nieważności takiej uchwały albo stwierdzenia jej niezgodności z prawem, mimo że w stanie prawnym obowiązującym w dniu wydania uchwały była podstawa prawna do wydania takiej uchwały przez organ, który ją wydał.
 
 Uzasadnienie prawne
