@@ -185,7 +185,7 @@ Ustawa o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych:
 
 <https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20000620718/U/D20000718Lj.pdf>
 
-#### Ogłoszenie aktu prawa miejscowego
+#### *Ogłoszenie aktu prawa miejscowego*
 
 Warunkiem wejścia w życie aktu prawa miejscowego, zgodnie z art. 88 ust. 1 Konstytucji, jest jego ogłoszenie. Uchwały będące aktami prawa miejscowego muszą bowiem zostać opublikowane, tak aby mieszkańcy mogli się z nimi zapoznać i stosować nowe regulacje. Do wejścia w życie, czyli obowiązywania, wymagają więc publikacji. Publikacja aktów prawa miejscowego następuje w Wojewódzkim Dzienniku Urzędowym.
 
@@ -277,6 +277,8 @@ f) podpis organu wydającego,
 g) uzasadnienie i załączniki.
 
 **Przepisy** uchwał, statutów oraz regulaminów z zasady nie powinny swoim brzmieniem powtarzać przepisów aktów wyższych rangą w hierarchii źródeł prawa.
+
+
 
 Przykładowa uchwała Rady Miejskiej:
 
