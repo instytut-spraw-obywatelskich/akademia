@@ -1,5 +1,5 @@
 ---
-title: PROCES LEGISLACYJNY NA POZIOMIE JEDNOSTKI SAMORZĄDU TERYTORIALNEGO
+title: Tworzenie prawa miejscowego
 date: 2021-10-12T06:06:03.195Z
 zajawka: Tekst dotyczący tworzenia prawa lokalnego przygotowała **Karolina
   Szlachetka**. Prawniczka, absolwentka Wydziału Prawa i Administracji
