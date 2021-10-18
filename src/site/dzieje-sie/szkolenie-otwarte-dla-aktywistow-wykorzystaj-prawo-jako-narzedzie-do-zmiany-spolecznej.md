@@ -12,7 +12,7 @@ obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1631534605
 ---
 **Kiedy: 27-28.11.2021 (sobota 12:00-19:30, niedziela 09:00-16:00)**
 
-**Gdzie:** Warszawa 
+**Gdzie:** Hotel Felix Warszawa (Omulewska 24) 
 
 **[Program](https://res.cloudinary.com/inspro/image/upload/v1632308970/aiso/Zdj%C4%99cia%20szkolenia/Akademia_program_2021_11.pdf)**
 
