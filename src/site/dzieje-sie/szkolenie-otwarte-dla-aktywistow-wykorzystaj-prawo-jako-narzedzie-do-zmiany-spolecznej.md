@@ -40,7 +40,7 @@ Poinformujemy Cię o wynikach rekrutacji. Następnie poprosimy Cię o wypełni
 
 **W ramach szkolenia uczestnik otrzyma: materiały szkoleniowe a także zaświadczenie udziału w szkoleniu.** **Zapewniamy przerwy kawowe oraz obiad. Dla osób spoza Warszawy, zapewniamy nocleg z kolacją i śniadaniem oraz możliwość zwrotu kosztów dojazdu (do 100 zł).**
 
-**Zgłoszenie przyjmujemy do 31.10.2021**
+**Zgłoszenie przyjmujemy do 12.11.2021**
 
 **Z myślą o bezpieczeństwie uczestników** podjęliśmy kompleksowe działania, aby szkolenie stacjonarne było możliwe. Zastosowane przez nas rozwiązania, zostały przygotowane na bazie wytycznych [Ministerstwa Rozwoju](https://www.gov.pl/web/rozwoj/spotkania-biznesowe-szkolenia-konferencje-i-kongresy). Są w pełni dostosowane do aktualnego etapu zaawansowania stanu epidemicznego.
 
