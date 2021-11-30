@@ -20,11 +20,11 @@ obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1638283311
 obrazek_opis: Flaga UE
 obrazek_podpis: "Canva: European union"
 ---
-### **ZNAJOMOŚĆ ZAGADNIENIA I OSÓB, KTÓRE SIĘ NIM ZAJMUJĄ**
+## **ZNAJOMOŚĆ ZAGADNIENIA I OSÓB, KTÓRE SIĘ NIM ZAJMUJĄ**
 
 Uczestniczenie w procesie zmian polityczno-prawnych wymaga stałego monitorowania działań i podejmowanych inicjatyw na szczeblu UE. Obejmuje on zwłaszcza posiadanie wiedzy na temat:
 
-#### **1)      Podstawowych aktów prawnych, kluczowych dla danej polityki unijnej**
+### **1)      Podstawowych aktów prawnych, kluczowych dla danej polityki unijnej**
 
 W przypadku Wspólnej Polityki Rolnej sprawa jest o tyle ułatwiona, że planowanie i uchwalanie budżetu WPR jest działaniem cyklicznym, gdyż unijną politykę rolną planuje się na siedmioletnie okresy programowania. Mniej więcej na dwa lata przed zakończeniem trwającego okresu programowania w UE rozpoczyna się prace konsultacyjne i legislacyjne, które zdecydują o kolejnym okresie. Zmiany te noszą nazwę reformy WPR. Każdy okres programowania opiera się na uchwaleniu trzech rozporządzeń UE – rozporządzenia ws. budżetu WPR, rozporządzania ws. organizacji wspólnych rynków rolnych oraz rozporządzenia ws. planów strategicznych dla WPR. To ostatnie rozporządzenie jest niezwykle ważne dla pracy rzeczniczej, gdyż plany strategiczne są opracowywane przez rządy krajów członkowskich i muszą uzyskać akceptację Komisji Europejskiej (KE), by mogły zostać wdrożone.
 
@@ -34,7 +34,7 @@ Niemniej posiadanie wiedzy na temat prawa i polityki UE w danej dziedzinie jest 
 
 
 
-#### **2)      Celów ustanowionych w Traktacie o Funkcjonowaniu Unii Europejskiej (TFUE) odnoszących się do danej polityki unijnej oraz podziału kompetencji pomiędzy UE a państwa członkowskie**
+### **2)      Celów ustanowionych w Traktacie o Funkcjonowaniu Unii Europejskiej (TFUE) odnoszących się do danej polityki unijnej oraz podziału kompetencji pomiędzy UE a państwa członkowskie**
 
 Ustanowione w TFUE cele dla każdej z polityk UE rzadko ulegają zmianie, ale w świetle przyjęcia w 2018 r. Europejskiego Zielonego Ładu należy sprawdzić, czy zakres celów danej polityki nie został poszerzony o kwestie odnoszące się do ochrony klimatu i środowiska. Tak było w przypadku WPR, a dodatkowo po raz pierwszy został dopisany cel dotyczący „poprawy reakcji rolnictwa UE na potrzeby społeczne dotyczące żywności i zdrowia, w tym bezpiecznej, bogatej w składniki odżywcze i zrównoważonej żywności, jak też dobrostanu zwierząt”.
 
@@ -42,7 +42,7 @@ Znajomość celów traktatowych danej polityki UE daje możliwość zweryfikowan
 
 Ważne jest także, by wiedzieć, że w danym obszarze tematycznym UE posiada kompetencje dzielone z państwami członkowskimi (art. 4 TFUE w powiązaniu z art. 2 ust. 2 TFUE). W przypadku kompetencji dzielonych, UE przysługuje prawo pierwszeństwa w wykonywaniu kompetencji, ale nie obejmuje to całego obszaru danej polityki, tylko w ramach elementów uregulowanych w odpowiednim akcie prawnym. A zatem pozostały zakres kompetencyjny należy do państw członkowskich. Kompetencja dzielona została przewidziana m.in. dla regulacji dotyczących funkcjonowania rynku wewnętrznego, spójności gospodarczej, społecznej i terytorialnej, rolnictwa i rybołówstwa, środowiska naturalnego, transportu, sieci transeuropejskich, bezpieczeństwa, zdrowia publicznego i dostaw energii.
 
-#### **3)      Opinii Trybunału Obrachunkowego, Europejskiego Komitetu Ekonomiczno-Społecznego oraz Europejskiego Komitetu Regionów**
+### **3)      Opinii Trybunału Obrachunkowego, Europejskiego Komitetu Ekonomiczno-Społecznego oraz Europejskiego Komitetu Regionów**
 
 *Trybunał Obrachunkowy (art. 285 i 286 TFUE) zajmuje się badaniem legalności i prawidłowości zarządzania finansami, w tym wydatkowanymi w obszarze poszczególnych polityk UE. Jego opinie są prawnie wiążące. Wyniki jego analiz są jawne (publikowane w Dzienniku Urzędowym Unii Europejskiej w formie rocznych raportów) i można z nich skorzystać, powołując się na konieczność zmiany polityki czy przepisów prawa. Trybunał może także zbadać i zająć stanowisko w poszczególnych kwestiach, które publikuje w formie raportów specjalnych. Z uwagi na znaczenie, które w UE przypisuje się raportom Trybunału Obrachunkowego, warto powoływać się na zawarte w nich dane i opinie.*
 
@@ -54,7 +54,7 @@ Ważne jest także, by wiedzieć, że w danym obszarze tematycznym UE posiada ko
 
 
 
-#### **4)      Opinii prezentowanych przez inne organizacje pozarządowe, zwłaszcza te, które mają swoje przedstawicielstwa w Brukseli oraz opinie naszych oponentów**
+### **4)      Opinii prezentowanych przez inne organizacje pozarządowe, zwłaszcza te, które mają swoje przedstawicielstwa w Brukseli oraz opinie naszych oponentów**
 
 Polskie organizacje pozarządowe rzadko dysponują środkami, które pozwalają na prowadzenie stałego biura w Brukseli i regularny, bezpośredni kontakt zarówno z unijnymi urzędnikami, politykami, jak i osobami, które pracują lobbystycznie dla poszczególnych partii wchodzących w skład Parlamentu Europejskiego.
 
@@ -76,13 +76,13 @@ W przypadku polityki rolnej, organizacją rozpoznaną przez NGO-sy zajmujące si
 
 
 
-#### **5)      Składu gabinetów poszczególnych dyrekcji Komisji Europejskiej oraz udziału danej dyrekcji w procesie planowania polityczno-prawnego**
+### **5)      Składu gabinetów poszczególnych dyrekcji Komisji Europejskiej oraz udziału danej dyrekcji w procesie planowania polityczno-prawnego**
 
 Każdy Komisarz w danej dyrekcji Komisji Europejskiej posiada gabinet, w którym pracują także doradcy polityczni. Adresy mailowe do tych gabinetów można znaleźć na stronie internetowej KE. Można się z nimi kontaktować, a także pytać o kalendarz oficjalnych spotkań i wystąpień danego komisarza, by przy takiej okazji móc zadawać pytania i prezentować swoje opinie.
 
 
 
-#### **6)      Eurobarometrów**
+### **6)      Eurobarometrów**
 
 Eurobarometr jest prowadzonym od 1973 r. międzynarodowym projektem regularnego badania opinii publicznej na zlecenie Komisji Europejskiej. W 2007 r. Parlament Europejski rozpoczął własną serię badań w ramach Eurobarometru. Europosłowie podczas każdej sesji plenarnej otrzymują wybór najnowszych danych z sondaży opinii publicznej UE dotyczących tematów poddanych obradom.
 
@@ -90,15 +90,15 @@ W odniesieniu do pracy rzeczniczej wykonywanej przez stronę społeczną, sonda�
 
 Jeśli tylko jest to możliwe, należy w przygotowywanych stanowiskach i opiniach przytaczać wyniki sondaży Eurobarometru.
 
-### **UDZIAŁ W PROCEDURZE LEGISLACYJNEJ (art. 289 TFUE)**
+## **UDZIAŁ W PROCEDURZE LEGISLACYJNEJ (art. 289 TFUE)**
 
 Art. 11 ust. 3 TFUE zobowiązuje Komisję Europejską do prowadzenia szerokich konsultacji z zainteresowanymi stronami w celu zapewnienia spójności i przejrzystości działań Unii, w tym uchwalanych przepisów prawa. Udział w nich jest otwarty dla każdego obywatela. Konsultacje te prowadzi się on-line w celu umożliwienia obywatelom reakcji na polityki i przepisy UE, co ma być brane pod uwagę przy podejmowaniu decyzji. Ograniczenie tego mechanizmu polega na tym, że temat jest z góry wskazany przez KE. Organizacje pozarządowe najczęściej korzystają z instrumentu konsultacji. Należy sprawdzać stronę Komisji Europejskiej, która publicznie ogłasza sprawy poddawane pod konsultacje. Można także zarejestrować się jako organizacja lobbystyczna albo współpracować z organizacjami o zasięgu unijnym – wówczas jesteśmy powiadamiani przez KE o rozpoczęciu konsultacji.
 
-#### **1)      Etap przygotowywania wniosku**
+### **1)      Etap przygotowywania wniosku**
 
 Najczęściej zwykłą procedurę legislacyjną uruchamia Komisja Europejska, która opracowuje wniosek dla planowanego środka unijnego, np. projektu aktu prawnego. Przygotowują go służby KE zajmujące się danym obszarem. Jest to etap zasięgania opinii u ekspertów krajowych w ramach komitetów utworzonych w tym celu lub w formie przesyłania ekspertom zapytań. Warto wiedzieć, że do pracy w tych komitetach wyznaczane są osoby z ministerstw lub innych organów administracji szczebla centralnego. Można się zatem zwrócić z oficjalnym zapytaniem, kto bierze udział w takich spotkaniach, i próbować zapoznać tę osobę z naszą opinią. Gotowy projekt jest zatwierdzany większością głosów w KE i przekazywany jako wniosek KE (ze szczegółowym uzasadnieniem) do Rady, Parlamentu, Komitetu Ekonomiczno-Społecznego lub Komitetu Regionów. Na tym etapie powinien stać się dokumentem podanym do wiadomości publicznej.
 
-#### **2)      Głosowanie w Parlamencie Europejskim (PE) i w Radzie**
+### **2)      Głosowanie w Parlamencie Europejskim (PE) i w Radzie**
 
 Działania, które można podjąć na kolejnych etapach pracy Parlamentu i Rady nad projektem aktu prawnego albo innego dokumentu strategicznego UE, polegają głównie na przekazywaniu opinii i uwag do:
 
