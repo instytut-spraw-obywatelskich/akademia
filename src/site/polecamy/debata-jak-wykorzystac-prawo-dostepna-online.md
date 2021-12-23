@@ -1,6 +1,6 @@
 ---
 title: Debata "Jak wykorzystać prawo" dostępna online
-date: 2021-12-23T08:21:19.975Z
+date: 2021-12-01T08:21:19.975Z
 zajawka: 5 września 2021 roku w Warszawie podczas debaty „Wykorzystaj prawo”
   rozmawialiśmy z ekspertami i ekspertkami jak wpływać na prawo samorządowe,
   krajowe, europejskie oraz co społecznicy powinni wiedzieć i robić, jeśli chcą
