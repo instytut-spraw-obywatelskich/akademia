@@ -1,6 +1,6 @@
 ---
 title: Pozytywny aspekt zmian – losy ustawy krajobrazowej
-date: 2022-01-03T10:55:54.796Z
+date: 2021-12-05T10:55:54.796Z
 zajawka: "**O losach ustawy krajobrazowej i długiej walce w obronie ochrony
   krajobrazu rozmawiał Xawery Stańczyk. Wywiad przeprowadził Kuba
   Przybyłowski.**"
