@@ -104,8 +104,6 @@ Zespoły robocze mogą pełnić różne role. Możemy za ich pomocą przygotowyw
 * zespół może zostać zlikwidowany bądź zreorganizowany na drodze zarządzenia w dowolnym momencie;
 * zespół zbiera się zazwyczaj w godzinach pracy urzędu i w siedzibie urzędu.
 
-
-
 ## **Komisje dialogu społecznego**
 
 Komisje dialogu społecznego są specjalnymi ciałami, za pomocą których zainteresowane organizacje pozarządowe współpracują w danej dziedzinie z odpowiednimi komórkami urzędu i jego jednostkami. W przeciwieństwie do komisji i zespołów roboczych, komisje dialogu społecznego (KDS) nie są obecne w porządku ustawowym i mogą być powoływane wyłącznie tam, gdzie wcześniej JST zdecydowała, że ich powoływanie jest możliwe (najczęściej na mocy uchwały albo poprzez wpisanie KDS do statutu).
@@ -150,5 +148,7 @@ Organizacja pozarządowa chcąca mieć rzeczywisty wpływ na proces stanowienia 
 Zespoły robocze i komisje dialogu społecznego wymagają wyrażenia woli ze strony władzy – czy to wykonawczej w przypadku zespołu roboczego, czy uchwałodawczej w przypadku KDS, gdy rada gminy, powiatu bądź sejmik województwa podejmuje uchwałę o wpisaniu ich do porządku prawnego danej JST. Musi więc istnieć wola współpracy, dobrowolna bądź wymuszona naciskiem społecznym, aby te narzędzia współpracy uruchomić. Jeżeli jednak uznamy, że ich obecność jest nam potrzebna i że chcemy walczyć o ich powstanie, to zdecydowanie należy to robić – nie tylko dla nas samych, ale również dla innych, którzy przyjdą po nas i którzy nie będą musieli wyważać drzwi, które udało nam się otworzyć.
 
 Samorząd gminny skończył trzydzieści lat, a samorządy powiatowe i wojewódzkie dwadzieścia. Zdecydowanie przeszły już z fazy dziecięcej w fazę dojrzałą. Również my, jako mieszkańcy i obywatele, powinniśmy sięgać po narzędzia, które nam przysługują, i aktywnie włączać się w proces tworzenia i kontrolowania prawa, które przecież określa, w jaki sposób żyjemy i jakiej jakości jest życie w naszej małej ojczyźnie. Jesteśmy za to odpowiedzialni, bo to od nas pochodzi wszelka władza i to my ją użyczamy radnym, burmistrzom, starostom czy marszałkom. Jeśli uchylimy się od tej odpowiedzialności, milcząco zgodzimy się na to, aby było tak jak jest, a nie tak, jak chcemy aby było.
+
+
 
 **Autorem tekstu jest Jarosław Ogrodowski.** Ekspert w zakresie partycypacji społecznej i rewitalizacji, społecznik, samorządowiec. Pracował w Biurze ds. Rewitalizacji i Zabudowy Urzędu Miasta Łodzi. W latach 2016-2019 pracownik Instytutu Rozwoju Miast, gdzie odpowiadał za prowadzenie szkoleń, tworzenie dokumentów strategicznych dla samorządów oraz tworzenie publikacji poradnikowych i podręczników dla samorządów z zakresu partycypacji społecznej i rewitalizacji. Współzałożyciel ruchu „TAK dla Łodzi”, Ruchu Społecznego „Szacunek dla Łodzi” oraz fundacji Instytut Działań Samorządowych.
