@@ -17,12 +17,11 @@ zajawka: >-
 
   **Piotr Trudnowski** - prezes Klubu Jagiellońskiego, działacz obywatelski, publicysta. Redaktor portalu [klubjagiellonski.pl](http://klubjagiellonski.pl/). Pracował dla organizacji pozarządowych, biznesu, instytucji publicznych i polityków. Współinicjował kilka obywatelskich akcji w zakresie stanowienia prawa m.in. dotyczących ordynacji wyborczej, ustawy o zbiórkach publicznych, tzw. ustawy o książce czy ustawy o Rzeczniku Małych i Średnich Przedsiębiorców. Mąż Karoliny, ojciec Leona i Józefa.
 ---
-#### **Kiedy upada demokracja?**
+## **Kiedy upada demokracja?**
 
-#### \
+
+
 W tej historii jest coś dziwnego. Mało kto o niej słyszał, mało kto się nią emocjonował. Główna partia opozycyjna właściwie milczała. Sympatyzujące z nią media nie poświęcały jej specjalnie wiele uwagi tak długo, jak długo nie były zmuszone tego zrobić. Po obrońcach demokracji nie było śladu. O ile pamiętam nie protestował Komitet Obrony Demokracji, a Akcja Demokracja nie zorganizowała żadnej petycji ani manifestacji. A przecież chodziło o zmianę, która mogłaby trwale wpłynąć na zasady polskiej demokracji. Unicestwić ją w dotychczasowym kształcie.
-
-
 
 Nim przejdziemy do rzeczy – spróbujmy zrozumieć, dlaczego tak było. Nie oskarżam obywatelskich działaczy wspomnianych środowisk o hipokryzję. Po prostu nie czuli, że dzieje się coś ważnego. Nie czuli, że dzieje się coś ważnego, bo media nie nakręcały histerii. Zaś media nie nakręcały histerii, bo sprawa była dość skomplikowana, techniczna, raczej nieciekawa dla szerokiej grupy wyborców i telewidzów. Ale przede wszystkim – była opłacalna dla obu największych partii. Co prawda wiadomo, że interesy partii rządzącej i opozycji są mało istotne dla „wolnych mediów”… ale jakoś tak wyszło, zapewne przypadkiem, że media ogłaszające koniec demokracji średnio raz w miesiącu, tym razem niespecjalnie się przejęły.
 
@@ -45,15 +44,11 @@ W konsekwencji – w wyborach przeprowadzonych na proponowanych przez posłów P
 
 W prawdziwych wyborach w 2019 r., przy zaskakująco wysokiej i nieoczekiwanej przez nikogo frekwencji (45,68%), pomimo rekordowego, najwyższego w historii III RP procentowego poparcia dla zwycięskiej partii z jednej strony (45,38%), jak i pomimo bezprecedensowego zjednoczenia się opozycji (od Polskiego Stronnictwa Ludowego przez Platformę Obywatelską aż po Sojusz Lewicy Demokratycznej, z symbolicznym udziałem Nowoczesnej i Zielonych), wciąż kilkanaście procent wyborców nie oddało swoich głosów w ręce żadnego z dwóch wielkich bloków. Gdyby tamta zmiana przeszła – najpewniej albo nie mieliby wyboru, albo byliby skazani na oddanie tzw. „zmarnowanego głosu”.
 
-
-
 #### **Po drugie jednak, konsekwencje wejścia w życie tamtej propozycji sięgałyby o wiele dalej i najpewniej trwale zmieniłyby polską scenę polityczną.**
 
 Kluczowe znaczenie miał bowiem kalendarz wyborczy. Głosowanie na kandydatów do Parlamentu Europejskiego odbywało się w maju, wybory do Sejmu i Senatu planowane były na październik. Gdyby rzeczywiście we wiosennych wyborach doszło do uformowania się dwóch wielkich bloków i spektakularnej porażki mniejszych ugrupowań – głosowanie jesienią mogłoby wyglądać podobnie. Później dowiedzieliśmy się zaś, że możliwa była również kolejna zmiana Kodeksu Wyborczego, analogicznie zachęcająca do podziału na dwa bloki, ale tym razem dotycząca już wprost wyborów krajowych. Zablokowanie pierwszej z nowelizacji przyniosło za sobą również odejście od planów wprowadzenia drugiej.
 
 A jak do tego doszło? Przejdźmy do właściwiej historii.
-
-
 
 ## **Po pierwsze, być gotowym (albo mieć szczęście)**
 
@@ -64,8 +59,6 @@ Wcześniej organizowaliśmy kilka petycji: zarówno internetowych, jak i składa
 Ale nigdy wcześniej nie byliśmy tak zdeterminowani, by kampanię na rzecz petycji prowadzić z przytupem, do końca, w pełni na serio. Mieliśmy szczęście również w tym sensie, że pomysł zmiany ordynacji w jakimś wymiarze spadł nam z nieba. Miesiąc wcześniej nie bylibyśmy gotowi do pełnej mobilizacji. Nie mieliśmy własnej „infrastruktury”, petycje traktowaliśmy jako wyjątkowe działania *ad hoc*, byliśmy zajęci przygotowaniami do transformacji stron internetowych i przenoszenia archiwum kilku rozproszonych serwisów w jedno miejsce. Pół roku później – może mielibyśmy mniej wiary w skuteczność tego narzędzia.
 
 Gdy zatem pojawił się projekt, przystąpiliśmy do prac. 27 czerwca, pięć dni po opublikowaniu projektu, wystartowaliśmy z akcją.
-
-
 
 ## **Po drugie, działaj od początku do końca**
 
@@ -97,8 +90,6 @@ Na ostatniej prostej zostaliśmy zaproszeni do Pałacu Prezydenckiego. Na spotka
 
 Dlaczego Prezydent zdecydował się na weto wbrew własnemu partyjnemu obozowi? Nie mam powodów, by odbierać mu dobre intencje i wierzę, że szczerze podzielał naszą ocenę proponowanej zmiany prawa. Ale na pewno jego determinację do podjęcia takiej, trudnej przecież politycznie, decyzji wzmacniała prosta kalkulacja. Andrzej Duda liczył na drugą kadencję. Wiedział, że aby zwyciężyć w drugiej turze wyborów potrzeba znacznie więcej głosów, niż zdobyła kiedykolwiek w III RP jakakolwiek partia. Trzeba przekonać do siebie ponad 50% Polaków. A więc również wyborców Kukiz’15, Polskiego Stronnictwa Ludowego, pomniejszych, ideowych formacji prawicy i lewicy… Skład grupy sygnatariuszy naszego apelu bez wątpienia pomógł Prezydentowi w podjęciu odważnej decyzji. Kto wie, czy nie pomógł mu również dwa lata później, gdy wygrywał swoją drugą kadencję zaledwie dwoma punktami procentowymi przewagi.
 
-
-
 ## **Po czwarte, utrzymuj zainteresowanie**
 
 Medialna ściana ciszy była naszym największym problemem. O kolejnych głosowaniach – na posiedzeniu komisji, w Sejmie, w Senacie – prawie nikt nie słyszał, prawie nikt nie mówił. Dlatego musieliśmy sami podtrzymywać zainteresowanie tematem. Wielkim wsparciem byli w tym rozmaici internetowi liderzy opinii z lewa i prawa: publicyści, komentatorzy, politycy. Nasz apel promowała Partia Razem i część polityków Partii Wolność Janusza Korwin-Mikkego (sam prezes odmówił wsparcia naszej akcji, motywując to, jak przekazał nam jeden z jego współpracowników, brakiem wiarygodności w walce o demokrację, skoro sam jest jej zagorzałym przeciwnikiem). Byli z nami, nie pierwszy zresztą raz, lewicowy publicysta Rafał Woś i prawicowy publicysta Łukasz Warzecha.
@@ -106,8 +97,6 @@ Medialna ściana ciszy była naszym największym problemem. O kolejnych głosowa
 Na naszym portalu regularnie publikowaliśmy wszelkie doniesienia. Politycy Platformy odpuścili walkę z ordynacją? Piszemy artykuł o tym, że POPiS działa ręka w rękę, choć po cichu. Liberalny think tank publikuje analizę dotyczącą alternatywnych, możliwych ordynacji? Prosimy o prawo jej przedruku i wrzucamy fragmenty na portal. Rzecznik Episkopatu wydaje stanowisko? Publikujemy je. Prezydent udziela wywiadu? Wrzucamy cytaty. I tak bez przerwy, przez blisko dwa miesiące.
 
 Po co? By pokazać tysiącom osób, które podpisały naszą petycję, i naszym sympatykom, że nie odpuszczamy. By pokazać naszym partnerom, obecnym i przyszłym, że trzymamy rękę na pulsie. By pokazać decydentom, że łatwo się nas nie pozbędą i będziemy im komplikować życie do samego końca prac legislacyjnych. By pokazać sobie samym, że nie warto odpuszczać, bo w sprawie ciągle coś się dzieje.
-
-
 
 ## **Po piąte, nie zrażaj się i nie zrażaj do siebie**
 
