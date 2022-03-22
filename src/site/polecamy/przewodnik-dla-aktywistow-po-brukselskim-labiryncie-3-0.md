@@ -1,6 +1,6 @@
 ---
 title: Przewodnik dla aktywistów po brukselskim labiryncie 3.0
-date: 2022-03-22T06:28:38.348Z
+date: 2022-02-06T06:28:38.348Z
 zajawka: >-
   
 
