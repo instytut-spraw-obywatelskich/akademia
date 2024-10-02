@@ -1,6 +1,6 @@
 ---
 title: Instytut Spraw Obywatelskich uzyskał dotację z Unii Europejskiej na projekt „Akademia Instytutu Spraw Obywatelskich”
-date: 2024-10-02T12:50:41.008Z
+date: 2024-09-02T12:50:41.008Z
 zajawka: >-
   Projekt realizujemy, aby wzmocnić potencjał do działań rzeczniczych i strażniczych (typu watchdog) przedstawicieli organizacji pozarządowych z Polski oraz podnieść ich kompetencje eksperckie w zakresie pozyskiwania funduszy oraz partycypacji obywatelskiej.
 obrazek_wyrozniajacy: 
