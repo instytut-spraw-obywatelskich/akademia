@@ -49,12 +49,12 @@
       <img id="hero_bg" class="object-cover w-full my-0 opacity-25" src="https://res.cloudinary.com/inspro/image/upload/v1589893661/aiso/szachy.jpg" alt="figury szachowe">
       <div class="absolute top-0 bottom-0 w-full flex flex-col items-center justify-center">
         <div class="mx-3 mb-4 xs:mb-6">{% include "components/logo.njk" %}</div>
-        <h1 class="text-5xl xs:text-6xl leading-none text-center font-caveat text-blue-800"><span class="sr-only">Akademia Instytutu Spraw Obywatelskich – </span>Wykorzystaj prawo</h1>
+        <h1 class="text-5xl xs:text-6xl leading-none text-center font-caveat text-blue-800"><span class="sr-only">Akademia Instytutu Spraw Obywatelskich</span></h1>
       </div>
     </section>
     <section class="mx-auto py-10 px-3">
-      <p class="my-0 text-center text-sm sm:text-base md:text-lg">Projekt „Akademia Instytutu Spraw Obywatelskich” współfinansowany ze środków Europejskiego Funduszu Społecznego</p>
-      <div class="max-w-3xl mx-auto mt-6">
+      {# <p class="my-0 text-center text-sm sm:text-base md:text-lg">Projekt „Akademia Instytutu Spraw Obywatelskich” współfinansowany ze środków Europejskiego Funduszu Społecznego</p> #}
+      <div class="max-w-3xl mx-auto">
         <img class="my-0" src="/img/fundusze-europejskie.svg" alt="Fundusze Europejskie – Wiedza Edukacja Rozwój">
       </div>
     </section>
@@ -96,10 +96,13 @@
     <div class="container mx-auto xl:pb-16">
       <h2 class="text-white">{{ program_szkolenia.naglowek | sierotki | safe }}</h2>
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 mt-16 mb-8">
-        {% for item in program_szkolenia.dni %}
+        {% for item in program_szkolenia.zjazdy %}
           <div class="dzien kratka bg-white max-w-xl justify-self-center lg:max-w-full p-3 pt-8 sm:p-5 sm:pt-8 lg:p-8 rounded-lg shadow-lg">
-            <h3 class="text-5xl leading-none text-blue-800 text-center font-caveat pb-8 border-b border-gray-500 mb-12 mt-0">Dzień {{ item.dzien }}</h3>
-            <ul class="pl-0">
+            <h3 class="text-5xl leading-none text-blue-800 text-center font-caveat pb-8 border-b border-gray-500 mb-8 mt-0">{{ item.zjazd }} zjazd</h3>
+            {% if item.opis %}
+              {{ item.opis | markdownify | cudzyslowy | sierotki | safe }}
+            {% endif %}
+            <ul class="pl-0 mt-8">
               {% for warsztat in item.warsztaty %}
                 <li class="warsztat mb-4 list-none">
                   <h4 class="text-xl mb-3"><span class="bg-czerwony text-white px-2 py-1">{{ warsztat.tytul }}</span>{% if warsztat.czas %} <time class="font-caveat text-2xl leading-none text-blue-800">({{ warsztat.czas }}h)</time>{% endif %}</h4>
@@ -112,14 +115,14 @@
       </div>
     </div>
     </section>
-    <section id="folder" class="shadow-inner bg-purple-600 links-white">
+    {# <section id="folder" class="shadow-inner bg-purple-600 links-white">
       <div class="container mx-auto">
         <img src="https://res.cloudinary.com/inspro/image/upload/v1595235729/aiso/folder-okladka.jpg" class="mt-0 mx-auto rounded-lg shadow-lg" alt="Okładka folderu" width="285" height="400" loading="lazy">
         <div class="text-center">
           <a class="inline-block text-xl sm:text-2xl xl:text-3xl font-bold text-center no-underline text-white border-white border-4 p-4 py-5 rounded-lg hover:bg-purple-700 focus:bg-purple-700 shadow-lg" href="https://res.cloudinary.com/inspro/image/upload/v1594962795/aiso/aiso-instytut.pdf" target="_blank">Pobierz PDF</a>
         </div>
       </div>
-    </section>
+    </section> #}
     <section id="metody-pracy" class="relative py-0">
       <div class="absolute top-0 bottom-0 w-full bg-black bg-opacity-25"></div>
       <div class="container mx-auto">
@@ -145,7 +148,7 @@
     <section class="bg-gray-700 px-3">
       <div class="container mx-auto">
         <h2 class="text-white">{{ zespol.naglowek | sierotki | safe }}</h2>
-        <div class="grid gap-4 lg:gap-8 grid-cols-1 md:grid-cols-2 xl:grid-cols-3">
+        <div class="grid gap-4 lg:gap-8 grid-cols-1 md:grid-cols-2">
           {% for item in zespol.trenerzy %}
             <div class="bg-white kratka p-4 pt-6 rounded-lg shadow-lg">
               <h3 class="font-caveat text-4xl text-center mt-0">{{ item.nazwisko }}</h3>
@@ -159,25 +162,23 @@
     <section class="md:pb-0 px-3">
       <div class="container mx-auto">
         <h2 id="kontakt">Skontaktuj się</h2>
-        <div class="flex flex-col md:flex-row-reverse">    
-          <div class="md:w-1/3 lg:w-5/12 flex justify-end md:justify-center">
-            <img class="self-end w-64 md:w-full lg:w-10/12 xl:w-8/12 h-auto mr-8 lg:mr-0 md:mr-0 my-0" src="{{ kontakt.foto }}" alt="Zdjęcie osoby do kontaktu">
-          </div>
-          <div class="md:w-2/3 lg:w-7/12 lg:max-w-xl md:pb-16">
-            <div class="text-lg sm:text-xl lg:text-2xl kratka bg-white px-3 py-4 xs:py-8 xs:px-8 pt-4 rounded-lg shadow-md">
-              <p class="mt-0">z <span class="font-caveat text-3xl sm:text-4xl text-blue-900">{{ kontakt.z_kim }}</span>, aby ustalić szczegóły:</p>
-              <h3 class="my-3">Zadzwoń</h3>
-              {% if kontakt.tel_stacjonarny %}
-                <p class="my-0"><svg class="inline w-6 sm:w-8 md:w-10 h-6 sm:h-8 md:h-10 m-1 text-blue-800 fill-current"><use xlink:href="#icon-telefon"></use></svg> {{ kontakt.tel_stacjonarny }}</p>          
-              {% endif %}
-              {% if kontakt.tel_komorkowy %}
-                <p class="my-0"><svg class="inline w-6 sm:w-8 md:w-10 h-6 sm:h-8 md:h-10 m-1 text-blue-800 fill-current"><use xlink:href="#icon-komorka"></use></svg> {{ kontakt.tel_komorkowy }}</p>
-              {% endif %}
-              {% if kontakt.email %}
-                <h3 class="my-3">Napisz</h3>
-                <p class="my-0"><svg class="inline w-6 sm:w-8 md:w-10 h-6 sm:h-8 md:h-10 m-1 text-blue-800 fill-current"><use xlink:href="#icon-email"></use></svg> <a href="mailto:{{ kontakt.email | safe }}">{{ kontakt.email | safe }}</a></p>
-              {% endif %}
-            </div>
+        <div class="md:w-2/3 lg:w-7/12 lg:max-w-xl md:pb-16 mx-auto">
+          <div class="text-lg sm:text-xl lg:text-2xl kratka bg-white px-3 py-4 xs:py-8 xs:px-8 pt-4 rounded-lg shadow-md">
+            <p class="mt-0">aby ustalić szczegóły:</p>
+            <h3 class="my-3">Zadzwoń</h3>
+            {% if kontakt.tel_stacjonarny %}
+              <p class="my-0"><svg class="inline w-6 sm:w-8 md:w-10 h-6 sm:h-8 md:h-10 m-1 text-blue-800 fill-current"><use xlink:href="#icon-telefon"></use></svg> {{ kontakt.tel_stacjonarny }}</p>          
+            {% endif %}
+            {% if kontakt.tel_komorkowy %}
+              <p class="my-0"><svg class="inline w-6 sm:w-8 md:w-10 h-6 sm:h-8 md:h-10 m-1 text-blue-800 fill-current"><use xlink:href="#icon-komorka"></use></svg> {{ kontakt.tel_komorkowy }}</p>
+            {% endif %}
+            {% if kontakt.tel_komorkowy2 %}
+              <p class="my-0"><svg class="inline w-6 sm:w-8 md:w-10 h-6 sm:h-8 md:h-10 m-1 text-blue-800 fill-current"><use xlink:href="#icon-komorka"></use></svg> {{ kontakt.tel_komorkowy2 }}</p>
+            {% endif %}
+            {% if kontakt.email %}
+              <h3 class="my-3">Napisz</h3>
+              <p class="my-0"><svg class="inline w-6 sm:w-8 md:w-10 h-6 sm:h-8 md:h-10 m-1 text-blue-800 fill-current"><use xlink:href="#icon-email"></use></svg> <a href="mailto:{{ kontakt.email | safe }}">{{ kontakt.email | safe }}</a></p>
+            {% endif %}
           </div>
         </div>
       </div>
@@ -228,7 +229,6 @@
           </div>
           <div class="hidden lg:w-1/4 lg:flex lg:flex-col lg:items-center lg:mx-16">
             <img class="mt-4 mb-0" src="/img/logo-iso.svg" alt="Instytut Spraw Obywatelskich – logo">
-            <img class="mt-20 mb-0" src="/img/logo-wrzos.svg" alt="Instytut Spraw Obywatelskich – logo">
           </div>
         </div>
       </div>

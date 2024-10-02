@@ -44,11 +44,11 @@ collections:
             widget: "object"
             fields:
               - { label: "Nagłówek", name: "naglowek", widget: "string" }
-              - label: "Dni"
-                name: "dni"
+              - label: "Zjazdy"
+                name: "zjazdy"
                 widget: "list"
                 fields:
-                  - { label: "Dzień", name: "dzien", widget: "string" }
+                  - { label: "Zjazd", name: "zjazd", widget: "string" }
                   - label: "Warsztaty"
                     name: "warsztaty"
                     widget: "list"
@@ -94,16 +94,10 @@ collections:
             name: "kontakt"
             widget: "object"
             fields:
-              - { label: "Z kim?", name: "z_kim", widget: "string" }
-              - label: "Foto"
-                name: "foto"
-                widget: "image"
-                media_library:
-                  config:
-                    multiple: false
               - { label: "Email", name: "email", widget: "string" }
               - { label: "Tel. stacjonarny", name: "tel_stacjonarny", widget: "string" }
-              - { label: "tTel. komórkowy", name: "tel_komorkowy", widget: "string" }
+              - { label: "Tel. komórkowy", name: "tel_komorkowy", widget: "string" }
+              - { label: "Tel. komórkowy 2", name: "tel_komorkowy2", widget: "string" }
           - label: "Co mówią inni?"
             name: "co_mowia_inni"
             widget: "object"

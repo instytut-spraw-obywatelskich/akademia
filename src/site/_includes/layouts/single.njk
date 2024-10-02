@@ -3,9 +3,9 @@ layout: base
 og_type: article
 ---
 <time class="text-gray-700 text-lg">{{ date | polskadata }}</time>
-<h2 class="mt-3">{{ title | cudzyslowy | sierotki | safe }}</h2>
+<h1 class="tytul-aktualnosci mt-3">{{ title | cudzyslowy | sierotki | safe }}</h1>
 {% if obrazek_wyrozniajacy %}
-  <figure>
+  <figure>  
     <img src="{{ obrazek_wyrozniajacy }}" alt="{% if obrazek_opis %}{{ obrazek_opis }}{% endif %}">
     {% if obrazek_podpis %}
       <figcaption class="text-gray-700 text-lg text-center -my-8 mb-12">

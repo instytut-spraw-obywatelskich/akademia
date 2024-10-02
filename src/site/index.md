@@ -4,69 +4,67 @@ layout: home
 kogo_zapraszamy:
   naglowek: Kogo zapraszamy?
   tresc: >
-    **Społeczników**, którzy w działaniach swoich organizacji pozarządowych
-    wykorzystują lub chcą wykorzystywać prawo jako „narzędzie” do zmiany
-    społecznej. Mile widziana pasja społecznikowska, odwaga i poczucie humoru.
-    Nie wymagamy studiów prawniczych :-)
+    Tych, którzy chcą wzmocnić potencjał swój i swojej organizacji do działań rzeczniczych i strażniczych (typu watchdog), a także podnieść swoje kompetencje w zakresie pozyskiwania funduszy oraz partycypacji obywatelskiej.
 co_dajemy:
-  naglowek: Co dajemy?
+  naglowek: Co dajemy bezpłatnie?
   tresc: >-
-    1. **Bezpłatne, dwudniowe szkolenie otwarte** dla społeczników z organizacji
-    zajmujących się różnymi tematami, np.: prawa pieszych, rolnictwo
-    ekologiczne, elektrosmog, zieleń w mieście, spalarnie śmieci, kolej,
-    ekonomia społeczna, smog, gospodarka wodna, ochrona klimatu, komunikacja
-    rowerowa, prawo pracy, dzika przyroda, ochrona drzew itp.
+    1. Dwa dwudniowe szkolenia – realizowane w formule otwartych szkoleń dla społeczników z organizacji zajmujących się różnymi tematami, np.: prawa pieszych, rolnictwo ekologiczne, elektrosmog, spalarnie śmieci, kolej, ekonomia społeczna, smog, ochrona klimatu, komunikacja rowerowa, dzika przyroda, ochrona drzew itp.
 
-    2. **Bezpłatne, dwudniowe szkolenie zamknięte** dla społeczników z koalicji, związków lub federacji organizacji. Robiliśmy już szkolenia dla organizacji społecznych działających w ramach m.in. Federacji Piesza Polska, Koalicji Żywa Ziemia, Kongresu Ruchów Miejskich, sieci antyspalarniowej, sieci rowerowej, Koalicji Społecznej Stop Fermom Przemysłowym. Program szkolenia będzie dostosowany do potrzeb koalicji.
+    2. Dwa dwudniowe szkolenia zamknięte – realizowane dla społeczników z koalicji, związków lub federacji organizacji. Szkoliliśmy m.in. Federację Piesza Polska, Koalicję Żywa Ziemia, Kongres Ruchów Miejskich, sieci antyspalarniowe, sieci rowerowe, Koalicję Społeczną Stop Fermom Przemysłowym.
+    
+       Program szkolenia będzie dostosowany do potrzeb koalicji.
 
-    3. **Wiedzę, umiejętności i narzędzia.** Zajęcia poprowadzą eksperci, społecznicy i decydenci z wieloletnim doświadczeniem w wykorzystywaniu prawa do zmiany społecznej.
+    3. 15 tematycznych webinariów, które pozwolą zgłębić zagadnienia związane z partycypacją obywatelską, fundraisingiem, marketingiem, prowadzeniem kampanii czy zarządzaniem projektem społecznym.
 
-    4. Wsparcie przy opracowaniu **indywidualnego planu działania** na rzecz zmiany społecznej, o którą walczy Twoja organizacja.
+    4. Wiedza, umiejętności i narzędzia. Zajęcia poprowadzą eksperci z wieloletnim doświadczeniem w pracy w trzecim sektorze.
 
-    5. **Sieć nowych kontaktów** w oparciu o relacje i doświadczenia ekspertów i uczestników szkoleń.
+    5. Sieć nowych kontaktów w oparciu o relacje i doświadczenia ekspertów i uczestników szkoleń.
 
-    6. **Poradnik „Kuźnia Kampanierów 3”**, o tym, jak wygrywać kampanie obywatelskie.
-
-    7. **Kurs specjalistyczny** składający się z pięciu bezpłatnych, dwudniowych szkoleń. To propozycja dla najmocniej zaangażowanych uczestników szkoleń otwartych/zamkniętych. Wybrane tematy kursu: „Jak wygrywać kampanie obywatelskie?”, „Jak wykorzystać storytelling?”, „Wystąpienia publiczne”, „Jak wykorzystać media społecznościowe?”, „Jak prowadzić rzecznictwo?”, oraz wizyta studyjna w instytucji publicznej (ministerstwo/parlament).
-
-    8. Zainteresowani uczestnicy po szkoleniach będę objęci **doradztwem specjalistycznym** (prawnym, marketingowym, podatkowym etc.). Konsultacje dopasowane będą do indywidualnych potrzeb uczestników w formie osobistej / e-mailowej / telefonicznej / za pomocą komunikatorów np. Skype, Zoom.
+    6. Zainteresowani uczestnicy po szkoleniach będą objęci doradztwem specjalistycznym (prawnym, marketingowym, podatkowym, fundraisingowym etc.).
+    Zainteresowana/-y?
 zglos_sie_na_szkolenie:
-  link_do_formularza: https://forms.gle/xDRe14Gok1MWUyYH9
+  link_do_formularza: "#"
 program_szkolenia:
   naglowek: Program szkolenia otwartego „Wykorzystaj prawo”
-  dni:
-    - dzien: pierwszy
+  zjazdy:
+    - zjazd: Pierwszy
+      opis: |-
+        Fundraising w organizacji pozarządowej. Jak zdobywać pieniądze na realizację misji organizacji. Szkolenie (2 dni x 8h)
       warsztaty:
-        - tytul: Wprowadzenie, poznajmy się, potrzeby
+        - tytul: Aspekty formalno-prawne zdobywania pieniędzy – jak przygotować organizację na fundraising
           opis: ""
-          czas: 1.5
-        - tytul: Podstawowe zasady i przebieg procesu stanowienia prawa
+          czas: 4
+        - tytul: Podstawy i narzędzia fundraisingu
           opis: ""
-          czas: 2.5
-        - tytul: Udział organizacji pozarządowych w tworzeniu i konsultowaniu prawa
-          opis: null
-          czas: 2
-        - tytul: Skrzynka narzędziowa – prawo lokalne, krajowe i UE
-          opis: "[](http://www.inpris.pl/przedsiewziecia/twoje-prawo/)"
-          czas: 2
-    - dzien: drugi
+          czas: 4
+        - tytul: Kampanie fundraisingowe – od pomysłu do pieniędzy
+          opis: ""
+          czas: 4
+        - tytul: Sztuka pisania projektów o dotacje
+          opis: ""
+          czas: 4
+    - zjazd: Drugi
+      opis: |-
+        Dialog obywatelski w praktyce. Jak wygrać kampanię obywatelską? Szkolenie (2 dni x 8h)
       warsztaty:
-        - tytul: Film, studium przypadku, analiza
+        - tytul: Jak przygotować organizację do dialogu obywatelskiego
           opis: ""
-          czas: 2
-        - tytul: Jak wygrać kampanię obywatelską? Wykorzystaj prawo
+          czas: 4
+        - tytul: Podstawy i narzędzia partycypacji społecznej
           opis: |-
-            Cel – wskaż najbliższą zmianę\
-            Układ sił – analizuj sojuszników i wrogów\
-            Wiatr – wykorzystaj szanse\
-            Komunikacja – mobilizuj do działania\
-            Kampanier – zacznij od siebie
-          czas: 2
-        - tytul: Planowanie własnej kampanii obywatelskiej z wykorzystaniem prawa
-            lokalnego, krajowego i UE
-          czas: 3.5
-        - tytul: Podsumowanie
-          czas: 0.5
+            - Dostęp do informacji publicznej
+            - Petycja obywatelska
+            - Obywatelska inicjatywa uchwałodawcza i ustawodawcza
+          czas: 4
+        - tytul: Jak wygrać kampanię obywatelską?
+          opis: |-
+            - Cel – wskaż najbliższą zmianę
+            - Układ sił – analizuj sojuszników i wrogów
+            - Wiatr – wykorzystaj szanse
+            - Komunikacja – mobilizuj do działania
+            - Dobra i zasoby – zarządzaj
+            - Kampanier – zacznij od siebie
+          czas: 8
 metody_pracy:
   naglowek: Metody pracy
   tresc: >
@@ -88,7 +86,7 @@ metody_pracy:
         - tresc: możliwość zwrotu kosztów dojazdu.
           ikona: przejazd
 zespol:
-  naglowek: Zespół trenerów i ekspertów Akademii
+  naglowek: Zespół trenerów Akademii
   trenerzy:
     - nazwisko: Rafał Górski
       foto: https://res.cloudinary.com/inspro/image/upload/v1589893660/aiso/gorski.jpg
@@ -102,88 +100,16 @@ zespol:
         Solidarność, Super Expressu, Wszystko Co Najważniejsze. W czasie wolnym
         kształtuje ciało, umysł i ducha, przygotowując się do „Selekcji” – gry
         opartej na rekrutacji do jednostek specjalnych typu GROM i SAS."
-    - nazwisko: Cezary Miżejewski
-      foto: https://res.cloudinary.com/inspro/image/upload/v1589893660/aiso/mizejewski.jpg
+    - nazwisko: Ilona Pietrzak
+      foto: https://res.cloudinary.com/inspro/image/upload/v1727343390/aiso/Ilona-Pietrzak.webp
       bio: >
-        spółdzielca socjalny, aktywista społeczny. Działania w organizacjach
-        obywatelskich zaczął w 1981 roku.  Potem kontynuował je w nielegalnych
-        wówczas strukturach związkowych. Od 1990 organizował wsparcie dla
-        bezrobotnych i zajmował się polityka społeczną. Od 1993 do 1997 był
-        posłem na Sejm RP. Od 1997 do 2001 ponownie działał związkowo zakładając
-        organizacje dla pracowników supermarketów, pracowników ochrony,
-        bankowców w OZZZ „Konfederacja Pracy”. Dwukrotnie okupował Ministerstwo
-        Pracy, oraz raz z pielęgniarkami Ministerstwo Zdrowia. Jednocześnie był
-        stałym doradcą sejmowej Komisji Polityki Społecznej. Od 2005 do 2009
-        urzędnik państwowy w Ministerstwie Pracy i Polityki Społecznej, a
-        następnie Ministerstwie Rozwoju Regionalnego jako doradca, dyrektor,
-        wiceminister i radca ministra. Kieruje Ogólnopolskim Związkiem
-        Rewizyjnym Spółdzielni Socjalnych oraz Wspólnotą Roboczą Związków
-        Organizacji Socjalnych. Współtworzył kilkanaście ustaw, (m.in. o
-        zatrudnieniu socjalnym, spółdzielniach socjalnych, o promocji
-        zatrudnienia) oraz programów i strategii na poziomie krajowym i
-        regionalnym. 
-    - nazwisko: Konrad Hennig
-      foto: https://res.cloudinary.com/inspro/image/upload/v1589893660/aiso/hennig.jpg
-      bio: >
-        doktor nauk politycznych, wykładowca akademicki, ekspert w zakresie
-        analizy polityk publicznych. Dyrektor programowy w Forum Prawo dla
-        Rozwoju #Law4Growth, wcześniej m.in. pracownik Centrum Analiz
-        Strategicznych Kancelarii Prezesa Rady Ministrów, ekspert Narodowego
-        Instytutu Samorządu Terytorialnego, naczelnik wydziału w Kancelarii
-        Prezesa Rady Ministrów oraz Kanclerz Wyższej Szkoły
-        Humanistyczno-Ekonomicznej w Sieradzu. Prowadził zajęcia z zakresu nauk
-        politycznych, teorii organizacji oraz bezpieczeństwa wewnętrznego.
-    - nazwisko: Jarosław Ogrodowski
-      foto: https://res.cloudinary.com/inspro/image/upload/v1614846730/aiso/Zdj%C4%99cia%20szkolenia/Jaros%C5%82aw_Ogrodowski.jpg
-      bio: ekspert w zakresie partycypacji społecznej i rewitalizacji, społecznik,
-        samorządowiec. Pracował w Biurze ds. Rewitalizacji i Zabudowy Urzędu
-        Miasta Łodzi. W latach 2016-2019 pracownik Instytutu Rozwoju Miast,
-        gdzie odpowiadał za prowadzenie szkoleń, tworzenie dokumentów
-        strategicznych dla samorządów oraz tworzenie publikacji poradnikowych i
-        podręczników dla samorządów z zakresu partycypacji społecznej i
-        rewitalizacji. Współzałożyciel ruchu „TAK dla Łodzi”, Ruchu Społecznego
-        „Szacunek dla Łodzi” oraz fundacji Instytut Działań Samorządowych.
-    - nazwisko: Piotr Bucki
-      foto: https://res.cloudinary.com/inspro/image/upload/v1614846339/aiso/Zdj%C4%99cia%20szkolenia/Piotr_Bucki_400_400.jpg
-      bio: architekt, który wybrał projektowanie zdań a nie budynków. Aktor, który
-        scenę teatralną zamienił na sale szkoleniowe i spotkania z widownią na
-        konferencjach. Psycholog, który lubi badać i ciągle zadaje sobie
-        pytanie, „skąd wiem, to co wiem?". Od 18 lat uczy ludzi projektować
-        komunikację w różnych wymiarach. Zawsze bazuje przy tym na psychologii
-        poznawczej i neuronaukach. Autor książek,m.in. „Porozmawiajmy o
-        komunikacji", „Złap równowagę" i „Viral". Napisał wstęp do polskiego
-        wydania bestsellera „Przyczepne historie".Od ponad 9 lat związany z WSB,
-        gdzie projektuje kierunki i wykłada, głównie w obszarze brandingu,
-        marketingu i komunikacji. Wykłada też na USWPS, SGH i AGH. Szkoli m.in.
-        w Allegro, Dynatrace, Santanderze, Nordea IT. Współpracuje z Europejską
-        Agencją Kosmiczną i GNSSA, gdzie współtworzy programy szkoleniowe dla
-        startupów i konsultantów.
-    - nazwisko: Tomasz Piotr Sidewicz
-      foto: https://res.cloudinary.com/inspro/image/upload/v1614846333/aiso/Zdj%C4%99cia%20szkolenia/Tomasz_Piotr_Sidewicz_AMX_Studio_400_400.jpg
-      bio: zawodowy negocjator, który bierze odpowiedzialność za efekt prowadzonych
-        negocjacji. Specjalizuje się w trudnej komunikacji biznesowej, wpływie
-        społecznym (manipulacje), rozpoznawaniu kłamania oraz negocjacjach w
-        konflikcie interesów. Pasjonuje się komunikacją interpersonalną, zarówno
-        werbalną, jak i niewerbalną, szczególnie w obszarach wpływu (pragmatyka)
-        i językoznawstwa kryminalistycznego.
-    - nazwisko: Michał Rżysko
-      foto: https://res.cloudinary.com/inspro/image/upload/v1614846344/aiso/Zdj%C4%99cia%20szkolenia/Micha%C5%82_R%C5%BCysko_400_400.jpg
-      bio: zajmuje się zarządzeniem projektami, promocją i pozyskiwaniem funduszy.
-        Związany jest z Fundacją Pomoc Maltańska – Maltańska Służba Medyczna,
-        gdzie pozyskuje fundusze i zarządza projektami międzynarodowymi. Jest
-        certyfikowanym trenerem organizacji pozarządowych, współpracownikiem
-        Polskiego Stowarzyszeniem Fundraisingu, Toruńskiej Federacji Organizacji
-        Pozarządowych, Centrum Wolontariatu w Warszawie, Korpusu Solidarności,
-        Fundacji Orlen, Instytutu Pozytywnej Edukacji i wielu innych, dla
-        których prowadzi warsztaty, szkolenia i konsultacje z zakresu
-        fundraisingu.
+        wiceprezeska Instytutu Spraw Obywatelskich, specjalistka ds. fundraisingu, kierownik projektów z wieloletnim doświadczeniem, menadżer, przedsiębiorczyni społeczna, trenerka, konsultant. Szkoli i doradza w zakresie zarządzania, realizacji projektów, ekonomii społecznej, ESG oraz fundraisingu, w tym pozyskiwania środków projektowych. Od ponad 14 lat zaangażowana w projekty mające na celu zmianę społeczną. Przez ponad 13 lat zarządzała Ośrodkiem Wsparcia Ekonomii Społecznej. Certyfikowany doradca biznesowy, fundraiser. Konsultant regionalny ds. zamówień publicznych, certyfikowany przez MEN specjalista ds. kadr i płac. Studentka kierunku ESG i transformacja klimatyczna.
 kontakt:
-  z_kim: Martą Stępniak
-  foto: https://res.cloudinary.com/inspro/image/upload/v1589893660/aiso/marta-stepniak.jpg
   email: "&#97;&#107;a&#100;&#101;&#109;i&#97;&#64;&#105;nstyt&#117;&#116;.&#108;\
     &#111;&#100;&#122;.pl"
   tel_stacjonarny: 42 630 17 49
-  tel_komorkowy: 519 300 647
+  tel_komorkowy: 506 484 530 (Maria Jaraszek)
+  tel_komorkowy2: 691 487 749 (Paweł Marczak)
 co_mowia_inni:
   naglowek: Co mówią inni?
   opinie:
@@ -236,31 +162,22 @@ co_mowia_inni:
 czego_oczekujemy:
   naglowek: Czego oczekujemy?
   tresc: >-
-    1. Uczestnik szkoleń musi być **wydelegowany przez organizację** społeczną
-    (m.in. stowarzyszenie, fundacja), która posiada NIP. Jedna organizacja może
-    wydelegować tylko jednego uczestnika. Jest to wymóg sponsora projektu,
-    dzięki któremu udział w szkoleniach, materiały i wyżywienie są bezpłatne.
-    Bezpłatne są również nocleg ze śniadaniem i dojazd dla osób spoza
-    miejscowości, w której szkolenie się odbywa.
+    1. Uczestnik szkoleń jest wydelegowany przez organizację społeczną (m.in. stowarzyszenie, fundacja), która posiada NIP. Udział w szkoleniach, materiały i wyżywienie są bezpłatne. Bezpłatne są również nocleg ze śniadaniem i dojazd dla osób spoza miejscowości, w której szkolenie się odbywa.
 
-    2. Posiadania **dokumentu podpisanego z organizacją delegującą**, np. porozumienia wolontariackiego, umowy cywilno-prawnej, umowy o pracę lub potwierdzenia członkostwa.
+    2. Posiadania dokumentu podpisanego z organizacją delegującą, np. umowy o pracę, umowy cywilno-prawnej lub porozumienia wolontariackiego.
 
-    3. Zapoznania się z **[Regulaminem Projektu (z załącznikami)](https://res.cloudinary.com/inspro/raw/upload/v1607959207/aiso/regulamin_z_zalacznikami.zip)** „Akademia Instytutu Spraw Obywatelskich” i respektowania postanowień tego Dokumentu.
+    3. Zapoznania się z Regulaminem Projektu (z załącznikami) „Akademia Instytutu Spraw Obywatelskich” i respektowania postanowień tego Dokumentu.
 
-    4. **Wypełnienia** [**dokumentacji** **projektowej**](https://res.cloudinary.com/inspro/raw/upload/v1607959474/aiso/dokumenty_przystapienia_do_projektu.zip), podpisania przez osoby uprawnione do reprezentacji i dostarczenia do nas.
+    4. Wypełnienia dokumentacji projektowej, podpisania przez osoby uprawnione do reprezentacji i dostarczenia do nas.
 
-       [**ZGŁOŚ SIĘ NA SZKOLENIE** ](https://forms.gle/LBcrGyPXXtCBD3d68)(formularz dotyczy wszystkich szkoleń, zarówno otwartych jak i zamkniętych)
+       [**ZGŁOŚ SIĘ NA SZKOLENIE STACJONARNE** ](#)
 o_projekcie:
   naglowek: O projekcie
   tresc: >-
-    Celem projektu jest objęcie wsparciem 240 przedstawicieli organizacji
-    pozarządowych z Polski oraz podniesienie kompetencji eksperckich u co
-    najmniej 220 z nich w zakresie niezbędnym do prawidłowego udziału w procesie
-    stanowienia prawa, w szczególności z zakresu prawa gospodarczego, ekonomii,
-    prawa pracy, ekonomii przedsiębiorstwa, analizy finansowej.
+    Celem projektu „Akademia Instytutu Spraw Obywatelskich” jest wsparcie 165 przedstawicieli z co najmniej 11 NGO, działających w poszczególnych obszarach polityk publicznych (krajowych i europejskich), na przykład ochrona środowiska, polityka społeczna, gospodarcza, rodzinna, edukacja, itd.
 
 
-    Okres realizacji projektu: 01.03.2020 – 28.02.2022.
+    Okres realizacji projektu: 01.09.2024 – 31.08.2026.
 
 
     Obszar realizacji projektu: cała Polska
@@ -269,13 +186,7 @@ o_projekcie:
     Instytucja Pośrednicząca: Kancelaria Prezesa Rady Ministrów
 
 
-    Projekt realizowany jest przez [Instytut Spraw Obywatelskich](https://instytutsprawobywatelskich.pl/) w partnerstwie z [Wspólnotą Roboczą Związków Organizacji Socjalnych WRZOS](http://www.wrzos.org.pl/). 
-
-
-    Wartość projektu wynosi 991.652,50 zł, w tym wkład Funduszy Europejskich wynosi 835.764,23 zł.
-
-
-    Projekt realizowany jest z Programu Operacyjnego Wiedza Edukacja Rozwój 2014-2020.
+    Wartość projektu wynosi 1 036 470,00 zł, w tym wkład Funduszy Europejskich wynosi 1 005 375,90 zł
 dokumenty:
   naglowek: Dokumenty do pobrania
   tresc: >-
@@ -283,10 +194,10 @@ dokumenty:
     projekcie Akademia Instytutu Spraw Obywatelskich:
 
 
-    [Pobierz regulamin udziału w projekcie (z załącznikami)](https://res.cloudinary.com/inspro/raw/upload/v1607959207/aiso/regulamin_z_zalacznikami.zip)
+    [Pobierz regulamin udziału w projekcie (z załącznikami)](#)
 
 
-    [Dokumenty przystąpienia do projektu dla uczestników](https://res.cloudinary.com/inspro/raw/upload/v1607959474/aiso/dokumenty_przystapienia_do_projektu.zip)
+    [Dokumenty przystąpienia do projektu dla uczestników](#)
 
 
     Wypełnione i podpisane dokumenty należy odesłać na adres:
@@ -297,11 +208,8 @@ dokumenty:
     ul. Pomorska 40 | 91-408 Łódź
 
 
-    [Harmonogram działań (udzielania wsparcia)](https://res.cloudinary.com/inspro/image/upload/v1596798823/aiso/harmonogram_udzielania_wsparcia.pdf)
+    [Harmonogram działań (udzielania wsparcia)](#)
 
 
-    [Lista zakwalifikowanych uczestników](https://res.cloudinary.com/inspro/image/upload/v1596798807/aiso/lista_uczestnik%C3%B3w_zakwalifikowanych_do_szkole%C5%84.pdf)
 
-
-    [Wysłuchaj naszego spotu](https://instytutsprawobywatelskich.pl/wp-content/uploads/2021/02/spot-aiso.mp3)
 ---

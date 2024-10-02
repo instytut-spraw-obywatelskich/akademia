@@ -31,6 +31,10 @@ module.exports = function(eleventyConfig) {
     return `<a href="mailto:&#97;&#107;a&#100;&#101;&#109;i&#97;&#64;&#105;nstyt&#117;&#116;.&#108;&#111;&#100;&#122;.pl">&#97;&#107;a&#100;&#101;&#109;i&#97;&#64;&#105;nstyt&#117;&#116;.&#108;&#111;&#100;&#122;.pl</a>`;
   });
 
+  eleventyConfig.addShortcode("fers", function() {
+    return `<img src="/img/FERS_RP_UE.svg" alt="Logotypy: Fundusze Europejskie dla Rozwoju Społecznego, Rzeczpospolita Polska, Dofinansowane przez Unię Europejską">`;
+  });
+
   // Static assets to pass through
   eleventyConfig.addPassthroughCopy("./src/site/fonts");
   eleventyConfig.addPassthroughCopy("./src/site/img");

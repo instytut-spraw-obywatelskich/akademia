@@ -71,17 +71,24 @@ main {
   section {
     @apply py-20;
   }
+  h1, h2 { @apply font-extrabold leading-tight text-czerwony uppercase italic }
   h2 {
-    @apply text-4xl font-extrabold leading-tight text-czerwony uppercase italic my-6;
+    @apply text-3xl my-6;
     @screen sm {
-      @apply text-5xl leading-none my-8;
+      @apply text-4xl leading-none my-8;
     }
     @screen md {
-      @apply text-6xl my-12;
+      @apply text-5xl my-12;
     }
   }
-  &.home h2 {
-    @apply mt-0;
+  h1, &.home h2 {
+    @apply mt-0 text-4xl;
+    @screen sm {
+      @apply text-5xl;
+    }
+    @screen md {
+      @apply text-6xl;
+    }
   }
   h3 {
     @apply text-2xl font-extrabold leading-tight text-czerwony mt-8;
