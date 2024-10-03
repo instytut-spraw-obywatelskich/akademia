@@ -4,14 +4,21 @@ layout: home
 kogo_zapraszamy:
   naglowek: Kogo zapraszamy?
   tresc: >
-    Tych, którzy chcą wzmocnić potencjał swój i swojej organizacji do działań rzeczniczych i strażniczych (typu watchdog), a także podnieść swoje kompetencje w zakresie pozyskiwania funduszy oraz partycypacji obywatelskiej.
+    Tych, którzy chcą wzmocnić potencjał swój i swojej organizacji do działań
+    rzeczniczych i strażniczych (typu watchdog), a także podnieść swoje
+    kompetencje w zakresie pozyskiwania funduszy oraz partycypacji
+    obywatelskiej.
 co_dajemy:
   naglowek: Co dajemy bezpłatnie?
   tresc: >-
-    1. Dwa dwudniowe szkolenia – realizowane w formule otwartych szkoleń dla społeczników z organizacji zajmujących się różnymi tematami, np.: prawa pieszych, rolnictwo ekologiczne, elektrosmog, spalarnie śmieci, kolej, ekonomia społeczna, smog, ochrona klimatu, komunikacja rowerowa, dzika przyroda, ochrona drzew itp.
+    1. Dwa dwudniowe szkolenia – realizowane w formule otwartych szkoleń dla
+    społeczników z organizacji zajmujących się różnymi tematami, np.: prawa
+    pieszych, rolnictwo ekologiczne, elektrosmog, spalarnie śmieci, kolej,
+    ekonomia społeczna, smog, ochrona klimatu, komunikacja rowerowa, dzika
+    przyroda, ochrona drzew itp.
 
     2. Dwa dwudniowe szkolenia zamknięte – realizowane dla społeczników z koalicji, związków lub federacji organizacji. Szkoliliśmy m.in. Federację Piesza Polska, Koalicję Żywa Ziemia, Kongres Ruchów Miejskich, sieci antyspalarniowe, sieci rowerowe, Koalicję Społeczną Stop Fermom Przemysłowym.
-    
+
        Program szkolenia będzie dostosowany do potrzeb koalicji.
 
     3. 15 tematycznych webinariów, które pozwolą zgłębić zagadnienia związane z partycypacją obywatelską, fundraisingiem, marketingiem, prowadzeniem kampanii czy zarządzaniem projektem społecznym.
@@ -20,18 +27,18 @@ co_dajemy:
 
     5. Sieć nowych kontaktów w oparciu o relacje i doświadczenia ekspertów i uczestników szkoleń.
 
-    6. Zainteresowani uczestnicy po szkoleniach będą objęci doradztwem specjalistycznym (prawnym, marketingowym, podatkowym, fundraisingowym etc.).
-    Zainteresowana/-y?
+    6. Zainteresowani uczestnicy po szkoleniach będą objęci doradztwem specjalistycznym (prawnym, marketingowym, podatkowym, fundraisingowym etc.). Zainteresowana/-y?
 zglos_sie_na_szkolenie:
   link_do_formularza: "#"
 program_szkolenia:
-  naglowek: Program szkolenia otwartego „Wykorzystaj prawo”
+  naglowek: Program szkoleń
   zjazdy:
     - zjazd: Pierwszy
-      opis: |-
-        Fundraising w organizacji pozarządowej. Jak zdobywać pieniądze na realizację misji organizacji. Szkolenie (2 dni x 8h)
+      opis: "Fundraising w organizacji pozarządowej. Jak zdobywać pieniądze na
+        realizację misji organizacji: 2 dni x 8h."
       warsztaty:
-        - tytul: Aspekty formalno-prawne zdobywania pieniędzy – jak przygotować organizację na fundraising
+        - tytul: Aspekty formalno-prawne zdobywania pieniędzy – jak przygotować
+            organizację na fundraising
           opis: ""
           czas: 4
         - tytul: Podstawy i narzędzia fundraisingu
@@ -44,8 +51,8 @@ program_szkolenia:
           opis: ""
           czas: 4
     - zjazd: Drugi
-      opis: |-
-        Dialog obywatelski w praktyce. Jak wygrać kampanię obywatelską? Szkolenie (2 dni x 8h)
+      opis: "Dialog obywatelski w praktyce. Jak wygrać kampanię obywatelską?: 2 dni x
+        8h."
       warsztaty:
         - tytul: Jak przygotować organizację do dialogu obywatelskiego
           opis: ""
@@ -103,7 +110,17 @@ zespol:
     - nazwisko: Ilona Pietrzak
       foto: https://res.cloudinary.com/inspro/image/upload/v1727343390/aiso/Ilona-Pietrzak.webp
       bio: >
-        wiceprezeska Instytutu Spraw Obywatelskich, specjalistka ds. fundraisingu, kierownik projektów z wieloletnim doświadczeniem, menadżer, przedsiębiorczyni społeczna, trenerka, konsultant. Szkoli i doradza w zakresie zarządzania, realizacji projektów, ekonomii społecznej, ESG oraz fundraisingu, w tym pozyskiwania środków projektowych. Od ponad 14 lat zaangażowana w projekty mające na celu zmianę społeczną. Przez ponad 13 lat zarządzała Ośrodkiem Wsparcia Ekonomii Społecznej. Certyfikowany doradca biznesowy, fundraiser. Konsultant regionalny ds. zamówień publicznych, certyfikowany przez MEN specjalista ds. kadr i płac. Studentka kierunku ESG i transformacja klimatyczna.
+        wiceprezeska Instytutu Spraw Obywatelskich, specjalistka ds.
+        fundraisingu, kierownik projektów z wieloletnim doświadczeniem,
+        menadżer, przedsiębiorczyni społeczna, trenerka, konsultant. Szkoli i
+        doradza w zakresie zarządzania, realizacji projektów, ekonomii
+        społecznej, ESG oraz fundraisingu, w tym pozyskiwania środków
+        projektowych. Od ponad 14 lat zaangażowana w projekty mające na celu
+        zmianę społeczną. Przez ponad 13 lat zarządzała Ośrodkiem Wsparcia
+        Ekonomii Społecznej. Certyfikowany doradca biznesowy, fundraiser.
+        Konsultant regionalny ds. zamówień publicznych, certyfikowany przez MEN
+        specjalista ds. kadr i płac. Studentka kierunku ESG i transformacja
+        klimatyczna.
 kontakt:
   email: "&#97;&#107;a&#100;&#101;&#109;i&#97;&#64;&#105;nstyt&#117;&#116;.&#108;\
     &#111;&#100;&#122;.pl"
@@ -162,7 +179,11 @@ co_mowia_inni:
 czego_oczekujemy:
   naglowek: Czego oczekujemy?
   tresc: >-
-    1. Uczestnik szkoleń jest wydelegowany przez organizację społeczną (m.in. stowarzyszenie, fundacja), która posiada NIP. Udział w szkoleniach, materiały i wyżywienie są bezpłatne. Bezpłatne są również nocleg ze śniadaniem i dojazd dla osób spoza miejscowości, w której szkolenie się odbywa.
+    1. Uczestnik szkoleń jest wydelegowany przez organizację społeczną (m.in.
+    stowarzyszenie, fundacja), która posiada NIP. Udział w szkoleniach,
+    materiały i wyżywienie są bezpłatne. Bezpłatne są również nocleg ze
+    śniadaniem i dojazd dla osób spoza miejscowości, w której szkolenie się
+    odbywa.
 
     2. Posiadania dokumentu podpisanego z organizacją delegującą, np. umowy o pracę, umowy cywilno-prawnej lub porozumienia wolontariackiego.
 
@@ -174,7 +195,11 @@ czego_oczekujemy:
 o_projekcie:
   naglowek: O projekcie
   tresc: >-
-    Celem projektu „Akademia Instytutu Spraw Obywatelskich” jest wsparcie 165 przedstawicieli z co najmniej 11 NGO, działających w poszczególnych obszarach polityk publicznych (krajowych i europejskich), na przykład ochrona środowiska, polityka społeczna, gospodarcza, rodzinna, edukacja, itd.
+    Celem projektu „Akademia Instytutu Spraw Obywatelskich” jest wsparcie 165
+    przedstawicieli z co najmniej 11 NGO, działających w poszczególnych
+    obszarach polityk publicznych (krajowych i europejskich), na przykład
+    ochrona środowiska, polityka społeczna, gospodarcza, rodzinna, edukacja,
+    itd.
 
 
     Okres realizacji projektu: 01.09.2024 – 31.08.2026.
@@ -209,7 +234,4 @@ dokumenty:
 
 
     [Harmonogram działań (udzielania wsparcia)](#)
-
-
-
 ---
