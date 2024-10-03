@@ -20,14 +20,13 @@ co_dajemy:
     2. Dwa dwudniowe szkolenia zamknięte – realizowane dla społeczników z koalicji, związków lub federacji organizacji. Szkoliliśmy m.in. Federację Piesza Polska, Koalicję Żywa Ziemia, Kongres Ruchów Miejskich, sieci antyspalarniowe, sieci rowerowe, Koalicję Społeczną Stop Fermom Przemysłowym.
 
        Program szkolenia będzie dostosowany do potrzeb koalicji.
-
     3. 15 tematycznych webinariów, które pozwolą zgłębić zagadnienia związane z partycypacją obywatelską, fundraisingiem, marketingiem, prowadzeniem kampanii czy zarządzaniem projektem społecznym.
 
     4. Wiedza, umiejętności i narzędzia. Zajęcia poprowadzą eksperci z wieloletnim doświadczeniem w pracy w trzecim sektorze.
 
     5. Sieć nowych kontaktów w oparciu o relacje i doświadczenia ekspertów i uczestników szkoleń.
 
-    6. Zainteresowani uczestnicy po szkoleniach będą objęci doradztwem specjalistycznym (prawnym, marketingowym, podatkowym, fundraisingowym etc.). Zainteresowana/-y?
+    6. Zainteresowani uczestnicy po szkoleniach będą objęci doradztwem specjalistycznym (prawnym, marketingowym, podatkowym, fundraisingowym etc.).
 zglos_sie_na_szkolenie:
   link_do_formularza: "#"
 program_szkolenia:
