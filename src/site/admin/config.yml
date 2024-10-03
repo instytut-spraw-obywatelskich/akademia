@@ -49,6 +49,7 @@ collections:
                 widget: "list"
                 fields:
                   - { label: "Zjazd", name: "zjazd", widget: "string" }
+                  - { label: "Opis", name: "opis", widget: "markdown", required: false }
                   - label: "Warsztaty"
                     name: "warsztaty"
                     widget: "list"
