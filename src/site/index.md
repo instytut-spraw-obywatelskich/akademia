@@ -82,13 +82,13 @@ metody_pracy:
       podpunkty:
         - tresc: materiały szkoleniowe
           ikona: materialy
-        - tresc: przerwy kawowe oraz obiad, a także
+        - tresc: przerwy kawowe oraz obiad
           ikona: kawa
         - tresc: zaświadczenie udziału w szkoleniu.
           ikona: dyplom
     - naglowek: Dla osób spoza miejscowości, w której odbywa się szkolenie, zapewniamy
       podpunkty:
-        - tresc: nocleg ze śniadaniem oraz
+        - tresc: nocleg ze śniadaniem
           ikona: nocleg
         - tresc: możliwość zwrotu kosztów dojazdu.
           ikona: przejazd
