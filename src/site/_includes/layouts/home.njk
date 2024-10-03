@@ -98,10 +98,9 @@
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 mt-16 mb-8">
         {% for item in program_szkolenia.zjazdy %}
           <div class="dzien kratka bg-white max-w-xl justify-self-center lg:max-w-full p-3 pt-8 sm:p-5 sm:pt-8 lg:p-8 rounded-lg shadow-lg">
-            <h3 class="text-5xl leading-none text-blue-800 text-center font-caveat pb-8 border-b border-gray-500 mb-8 mt-0">{{ item.zjazd }} zjazd</h3>
-            {% if item.opis %}
-              {{ item.opis | markdownify | cudzyslowy | sierotki | safe }}
-            {% endif %}
+            <h3 class="text-5xl leading-none text-blue-800 text-center font-caveat pb-8 border-b border-gray-500 mb-8 mt-0">{{ item.zjazd }}<br>(2 dni x
+        8h)</h3>
+
             <ul class="pl-0 mt-8">
               {% for warsztat in item.warsztaty %}
                 <li class="warsztat mb-4 list-none">
@@ -164,7 +163,6 @@
         <h2 id="kontakt">Skontaktuj się</h2>
         <div class="md:w-2/3 lg:w-7/12 lg:max-w-xl md:pb-16 mx-auto">
           <div class="text-lg sm:text-xl lg:text-2xl kratka bg-white px-3 py-4 xs:py-8 xs:px-8 pt-4 rounded-lg shadow-md">
-            <p class="mt-0">aby ustalić szczegóły:</p>
             <h3 class="my-3">Zadzwoń</h3>
             {% if kontakt.tel_stacjonarny %}
               <p class="my-0"><svg class="inline w-6 sm:w-8 md:w-10 h-6 sm:h-8 md:h-10 m-1 text-blue-800 fill-current"><use xlink:href="#icon-telefon"></use></svg> {{ kontakt.tel_stacjonarny }}</p>          
@@ -218,6 +216,14 @@
         </div>
       </div>
     </section>
+    <section id="dokumenty" class="bg-purple-600 px-3 text-white links-white">
+      <div class="container mx-auto">
+        <h2 class="text-white">{{ dokumenty.naglowek | sierotki | safe }}</h2>
+        <div class="text-xl max-w-3xl">
+          {{ dokumenty.tresc | markdownify | cudzyslowy | sierotki | safe }}
+        </div>
+      </div>
+    </section>
     <section class="px-3">
       <div class="container mx-auto">
         <h2>{{ o_projekcie.naglowek | sierotki | safe }}</h2>
@@ -230,14 +236,6 @@
           <div class="hidden lg:w-1/4 lg:flex lg:flex-col lg:items-center lg:mx-16">
             <img class="mt-4 mb-0" src="/img/logo-iso.svg" alt="Instytut Spraw Obywatelskich – logo">
           </div>
-        </div>
-      </div>
-    </section>
-    <section id="dokumenty" class="bg-purple-600 px-3 text-white links-white">
-      <div class="container mx-auto">
-        <h2 class="text-white">{{ dokumenty.naglowek | sierotki | safe }}</h2>
-        <div class="text-xl max-w-3xl">
-          {{ dokumenty.tresc | markdownify | cudzyslowy | sierotki | safe }}
         </div>
       </div>
     </section>

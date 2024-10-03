@@ -32,9 +32,7 @@ zglos_sie_na_szkolenie:
 program_szkolenia:
   naglowek: Program szkoleń
   zjazdy:
-    - zjazd: Pierwszy
-      opis: "Fundraising w organizacji pozarządowej. Jak zdobywać pieniądze na
-        realizację misji organizacji: 2 dni x 8h."
+    - zjazd: Fundraising w organizacji pozarządowej
       warsztaty:
         - tytul: Aspekty formalno-prawne zdobywania pieniędzy – jak przygotować
             organizację na fundraising
@@ -49,9 +47,7 @@ program_szkolenia:
         - tytul: Sztuka pisania projektów o dotacje
           opis: ""
           czas: 4
-    - zjazd: Drugi
-      opis: "Dialog obywatelski w praktyce. Jak wygrać kampanię obywatelską?: 2 dni x
-        8h."
+    - zjazd: Dialog obywatelski w praktyce
       warsztaty:
         - tytul: Jak przygotować organizację do dialogu obywatelskiego
           opis: ""
