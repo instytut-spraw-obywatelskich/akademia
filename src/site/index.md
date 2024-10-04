@@ -185,8 +185,6 @@ czego_oczekujemy:
     3. Zapoznania się z Regulaminem Projektu (z załącznikami) „Akademia Instytutu Spraw Obywatelskich” i respektowania postanowień tego Dokumentu.
 
     4. Wypełnienia dokumentacji projektowej, podpisania przez osoby uprawnione do reprezentacji i dostarczenia do nas.
-
-       [**ZGŁOŚ SIĘ NA SZKOLENIE STACJONARNE** ](#)
 o_projekcie:
   naglowek: O projekcie
   tresc: >-
