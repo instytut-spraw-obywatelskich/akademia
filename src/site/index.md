@@ -39,13 +39,21 @@ program_szkolenia:
           opis: ""
           czas: 4
         - tytul: Podstawy i narzędzia fundraisingu
-          opis: ""
+          opis: >-
+            * Zdobywanie funduszy – pierwsze kroki
+
+            * Skuteczny fundraiser – warunki powodzenia
+
+            * Komunikacja z darczyńcami indywidualnymi – co decyduje o sukcesie próśb
           czas: 4
         - tytul: Kampanie fundraisingowe – od pomysłu do pieniędzy
           opis: ""
           czas: 4
         - tytul: Sztuka pisania projektów o dotacje
-          opis: ""
+          opis: |-
+            * Proces aplikacyjny
+            * Przygotowanie wniosku
+            * Logika projektowa - gdzie szukać informacji o konkursach
           czas: 4
     - zjazd: Dialog obywatelski w praktyce
       warsztaty:
