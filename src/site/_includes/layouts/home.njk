@@ -52,12 +52,6 @@
         <h1 class="text-5xl xs:text-6xl leading-none text-center font-caveat text-blue-800"><span class="sr-only">Akademia Instytutu Spraw Obywatelskich</span></h1>
       </div>
     </section>
-    <section class="mx-auto py-10 px-3">
-      {# <p class="my-0 text-center text-sm sm:text-base md:text-lg">Projekt „Akademia Instytutu Spraw Obywatelskich” współfinansowany ze środków Europejskiego Funduszu Społecznego</p> #}
-      <div class="max-w-3xl mx-auto">
-        <img class="my-0" src="/img/fundusze-europejskie.svg" alt="Fundusze Europejskie – Wiedza Edukacja Rozwój">
-      </div>
-    </section>
     <section class="bg-czerwony px-3">
       <div class="container mx-auto">
         <h2 class="text-white">{{ kogo_zapraszamy.naglowek | sierotki | safe }}</h2>
@@ -222,15 +216,9 @@
     <section class="px-3">
       <div class="container mx-auto">
         <h2>{{ o_projekcie.naglowek | sierotki | safe }}</h2>
-        <div class="flex justify-between">
-          <div class="lg:w-3/4">
-            <div class="text-lg sm:text-xl max-w-3xl">
-              {{ o_projekcie.tresc | markdownify | cudzyslowy | sierotki | safe }}
-            </div>
-          </div>
-          <div class="hidden lg:w-1/4 lg:flex lg:flex-col lg:items-center lg:mx-16">
-            <img class="mt-4 mb-0" src="/img/logo-iso.svg" alt="Instytut Spraw Obywatelskich – logo">
-          </div>
+        <div class="text-lg sm:text-xl max-w-3xl">
+          {{ o_projekcie.tresc | markdownify | cudzyslowy | sierotki | safe }}
+          <img src="/img/FERS_RP_UE.svg" alt="Logotypy: Fundusze Europejskie dla Rozwoju Społecznego, Rzeczpospolita Polska, Dofinansowane przez Unię Europejską" class="mb-0">
         </div>
       </div>
     </section>
