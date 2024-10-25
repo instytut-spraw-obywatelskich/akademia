@@ -28,7 +28,8 @@ co_dajemy:
 
     6. Zainteresowani uczestnicy po szkoleniach będą objęci doradztwem specjalistycznym (prawnym, marketingowym, podatkowym, fundraisingowym etc.).
 zglos_sie_na_szkolenie:
-  link_do_formularza: "#"
+  link_do_formularza: "#https://docs.google.com/forms/d/17jIpJK5iV3u8aT7vlaGu1tiQ\
+    SIB36BY-870sRPlp9OQ/prefill"
 program_szkolenia:
   naglowek: Program szkoleń
   zjazdy:
@@ -217,13 +218,10 @@ dokumenty:
   naglowek: Dokumenty do pobrania
   tresc: >-
     Zapoznaj się z dokumentami potrzebnymi do skorzystania ze wsparcia w
-    projekcie Akademia Instytutu Spraw Obywatelskich:
+    projekcie Akademia Instytutu Spraw Obywatelskich
 
 
-    [Pobierz regulamin udziału w projekcie (z załącznikami)](#)
-
-
-    [Dokumenty przystąpienia do projektu dla uczestników](#)
+    [Dokumenty przystąpienia do projektu dla uczestnika wraz z regulaminem](https://res.cloudinary.com/inspro/raw/upload/v1729877927/aiso/dokumenty_uczestnika_projektu.zip)
 
 
     Wypełnione i podpisane dokumenty należy odesłać na adres:
