@@ -1,14 +1,9 @@
 ---
 title: Dołącz do Akademii Instytutu Spraw Obywatelskich
 date: 2024-10-25T18:17:01.189Z
-zajawka: >-
-  <!--StartFragment-->
-
-
-  Rozpoczynamy rekrutację na otwarte, bezpłatne szkolenia dla przedstawicieli organizacji pozarządowych. Szkolenia dotyczą fundraisingu oraz dialogu obywatelskiego w praktyce. 
-
-
-  <!--EndFragment-->
+zajawka: Rozpoczynamy rekrutację na otwarte, bezpłatne szkolenia dla
+  przedstawicieli organizacji pozarządowych. Szkolenia dotyczą fundraisingu oraz
+  dialogu obywatelskiego w praktyce.
 obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1729880168/aiso/bezp%C5%82atne_szkolenia_szerokosc_768_www.png
 obrazek_opis: "Szkolenia projektu pn. Akademia Instytutu Spraw Obywatelskich "
 ---
