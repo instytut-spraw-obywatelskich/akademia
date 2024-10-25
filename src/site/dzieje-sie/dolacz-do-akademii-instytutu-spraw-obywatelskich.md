@@ -23,6 +23,8 @@ Można przesyłać poprzez formularz dostępny na stronie internetowej projektu,
 
 Link do pełnej dokumentacji projektu:
 
+P﻿roszę pamiętać o uzupełnieniu: [Formularza zgłoszeniowego na szkolenie "Akademii Instytutu Spraw Obywatelskich"](https://docs.google.com/forms/d/e/1FAIpQLScuvdDycxWcAoocRP2kZU4bNFP2WrVOCV8nJvGxyLR6UyuUBg/viewform?usp=sharing). 
+
 *<https://akademia.instytutsprawobywatelskich.pl/#dokumenty>*
 
 **Nie tylko szkolenia**
