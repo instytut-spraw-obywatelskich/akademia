@@ -7,8 +7,6 @@ zajawka: Rozpoczynamy rekrutację na otwarte, bezpłatne szkolenia dla
 obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1729880168/aiso/bezp%C5%82atne_szkolenia_szerokosc_768_www.png
 obrazek_opis: "Szkolenia projektu pn. Akademia Instytutu Spraw Obywatelskich "
 ---
-<!--StartFragment-->
-
 Terminy: 
 
 * Toruń: 
@@ -32,5 +30,3 @@ Link do pełnej dokumentacji projektu:
 Uczestnicy w trakcie trwania projektu będą mieli wsparcie doradcy ogólnego, który zdiagnozuje potrzeby uczestników i na tej podstawie zaproponuje skorzystanie ze wsparcia eksperckiego, specjalistycznego.  Kontakt będzie przeprowadzany w sposób dogodny dla uczestnika. Doradztwo będzie świadczone indywidualnie lub grupowo. Będzie również możliwość skorzystania ze wsparcia specjalistycznego, które będzie przeprowadzane indywidualnie (w siedzibie NGO - w biurze wnioskodawcy), a także poprzez komunikatory, telefonicznie i/lub e-mailowo. 
 
 Eksperci będą udzielać konsultacji w zakresie potrzeb zgłaszanych przez uczestników, konieczne do prowadzenia działań strażniczych i rzeczniczych. Konsulting ten będzie uzupełnieniem/rozwinięciem doradztwa prowadzonego przez doradcę etatowego. Każdy z uczestników i uczestniczek otrzyma drukowany certyfikat ukończenia szkoleń.
-
-<!--EndFragment-->
