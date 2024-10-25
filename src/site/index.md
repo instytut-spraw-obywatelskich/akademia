@@ -28,8 +28,7 @@ co_dajemy:
 
     6. Zainteresowani uczestnicy po szkoleniach będą objęci doradztwem specjalistycznym (prawnym, marketingowym, podatkowym, fundraisingowym etc.).
 zglos_sie_na_szkolenie:
-  link_do_formularza: "#https://docs.google.com/forms/d/17jIpJK5iV3u8aT7vlaGu1tiQ\
-    SIB36BY-870sRPlp9OQ/prefill"
+  link_do_formularza: https://docs.google.com/forms/d/17jIpJK5iV3u8aT7vlaGu1tiQSIB36BY-870sRPlp9OQ/prefill
 program_szkolenia:
   naglowek: Program szkoleń
   zjazdy:
