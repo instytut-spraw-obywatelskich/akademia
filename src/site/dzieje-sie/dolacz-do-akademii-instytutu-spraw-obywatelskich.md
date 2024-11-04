@@ -1,5 +1,5 @@
 ---
-title: Dołącz do Akademii Instytutu Spraw Obywatelskich
+title: Dołącz do Akademii Instytutu Spraw Obywatelskich - Toruń (aktualizacja)
 date: 2024-10-25T18:17:01.189Z
 zajawka: Rozpoczynamy rekrutację na otwarte, bezpłatne szkolenia dla
   przedstawicieli organizacji pozarządowych. Szkolenia dotyczą fundraisingu oraz
@@ -32,3 +32,8 @@ P﻿roszę pamiętać o uzupełnieniu: [Formularza zgłoszeniowego na szkolenie 
 Uczestnicy w trakcie trwania projektu będą mieli wsparcie doradcy ogólnego, który zdiagnozuje potrzeby uczestników i na tej podstawie zaproponuje skorzystanie ze wsparcia eksperckiego, specjalistycznego.  Kontakt będzie przeprowadzany w sposób dogodny dla uczestnika. Doradztwo będzie świadczone indywidualnie lub grupowo. Będzie również możliwość skorzystania ze wsparcia specjalistycznego, które będzie przeprowadzane indywidualnie (w siedzibie NGO - w biurze wnioskodawcy), a także poprzez komunikatory, telefonicznie i/lub e-mailowo. 
 
 Eksperci będą udzielać konsultacji w zakresie potrzeb zgłaszanych przez uczestników, konieczne do prowadzenia działań strażniczych i rzeczniczych. Konsulting ten będzie uzupełnieniem/rozwinięciem doradztwa prowadzonego przez doradcę etatowego. Każdy z uczestników i uczestniczek otrzyma drukowany certyfikat ukończenia szkoleń.
+
+*﻿****A﻿KTUALIZACJA*****
+
+
+Z przykrością musimy poinformować, że wykonawca wycofał się ze złożonej oferty i nie jesteśmy w stanie zrealizować dla Państwa szkolenia w pierwotnie zakładanych terminach. Nowe daty szkoleń podamy w najbliższych dniach.
