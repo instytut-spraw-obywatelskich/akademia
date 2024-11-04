@@ -37,3 +37,6 @@ Eksperci będą udzielać konsultacji w zakresie potrzeb zgłaszanych przez ucze
 
 
 Z przykrością musimy poinformować, że wykonawca wycofał się ze złożonej oferty i nie jesteśmy w stanie zrealizować dla Państwa szkolenia w pierwotnie zakładanych terminach. Nowe daty szkoleń podamy w najbliższych dniach.
+
+#FunduszeUE #FunduszeEuropejskie
+{% fers %}
