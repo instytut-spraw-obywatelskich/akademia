@@ -231,5 +231,5 @@ dokumenty:
     ul. Pomorska 40 | 91-408 Łódź
 
 
-    [Harmonogram działań (udzielania wsparcia)](https://res.cloudinary.com/inspro/image/upload/v1729068047/aiso/2024_10_10_harmonogram_wsparcia.pdf)
+    [Harmonogram działań (udzielania wsparcia)](https://res.cloudinary.com/inspro/image/upload/v1731673744/aiso/harmonogram_wsparcia_15_11_2024.pdf)
 ---
