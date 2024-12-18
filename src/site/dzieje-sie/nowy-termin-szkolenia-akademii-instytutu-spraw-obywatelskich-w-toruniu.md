@@ -1,14 +1,9 @@
 ---
 title: Nowy termin szkolenia Akademii Instytutu Spraw Obywatelskich w Toruniu
 date: 2024-12-01T12:32:18.689Z
-zajawka: >-
-  <!--StartFragment-->
-
-
-  T﻿rwa rekrutacja otwarta na bezpłatne szkolenia dla przedstawicieli organizacji pozarządowych w Toruniu. Szkolenia dotyczą fundraisingu oraz dialogu obywatelskiego w praktyce.
-
-
-  <!--EndFragment-->
+zajawka: T﻿rwa rekrutacja otwarta na bezpłatne szkolenia dla przedstawicieli
+  organizacji pozarządowych w Toruniu. Szkolenia dotyczą fundraisingu oraz
+  dialogu obywatelskiego w praktyce.
 obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1734526745/aiso/szkolenia_torun.png
 obrazek_opis: Akademia Instytutu Spraw Obywatelskich w Toruniu
 ---
@@ -31,5 +26,3 @@ Link do pełnej dokumentacji projektu: [www.kademia.instytutsprawobywatelskich.p
 Uczestnicy w trakcie trwania projektu będą mieli wsparcie doradcy ogólnego, który zdiagnozuje potrzeby uczestników i na tej podstawie zaproponuje skorzystanie ze wsparcia eksperckiego, specjalistycznego.  Kontakt będzie przeprowadzany w sposób dogodny dla uczestnika. Doradztwo będzie świadczone indywidualnie lub grupowo. Będzie również możliwość skorzystania ze wsparcia specjalistycznego, które będzie przeprowadzane indywidualnie (w siedzibie NGO - w biurze wnioskodawcy), a także poprzez komunikatory, telefonicznie i/lub e-mailowo.
 
 Eksperci będą udzielać konsultacji w zakresie potrzeb zgłaszanych przez uczestników, konieczne do prowadzenia działań strażniczych i rzeczniczych. Konsulting ten będzie uzupełnieniem/rozwinięciem doradztwa prowadzonego przez doradcę etatowego. Każdy z uczestników i uczestniczek otrzyma drukowany certyfikat ukończenia szkoleń.
-
-<!--EndFragment-->
