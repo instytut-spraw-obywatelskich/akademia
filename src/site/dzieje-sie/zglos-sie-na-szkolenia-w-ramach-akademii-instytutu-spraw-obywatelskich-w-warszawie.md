@@ -5,7 +5,7 @@ date: 2025-05-08T11:32:50.476Z
 zajawka: T﻿rwa rekrutacja otwarta na bezpłatne szkolenia dla przedstawicieli
   organizacji pozarządowych z całej Polski. Szkolenia dotyczą fundraisingu oraz
   dialogu obywatelskiego w praktyce.
-obrazek_wyrozniajacy: 9LwN8cZq8G9RitR9Q73GbJZgcbQ6X!
+obrazek_wyrozniajacy: https://res.cloudinary.com/inspro/image/upload/v1746708231/Szkolenie_otwarte_kul6u6.png
 obrazek_opis: "Akademia Instytutu Spraw Obywatelskich 2025 "
 ---
 **Terminy:**
