@@ -30,4 +30,8 @@ Uczestnicy w trakcie trwania projektu będą mieli wsparcie doradcy ogólnego, 
 
 Eksperci będą udzielać konsultacji w zakresie potrzeb zgłaszanych przez uczestników, konieczne do prowadzenia działań strażniczych i rzeczniczych. Konsulting ten będzie uzupełnieniem/rozwinięciem doradztwa prowadzonego przez doradcę etatowego. Każdy z uczestników i uczestniczek otrzyma drukowany certyfikat ukończenia szkoleń.
 
+**AKTUALIZACJA**
+
+Z uwagi na niezebranie się minimalnej liczby uczestników szkolenie zostaje przesunięte na czerwiec 2025 roku. O konkretnym nowym terminie poinformujemy w osobnej notatce. 
+
 \#FunduszeEuropejskie, #FunduszeUE
