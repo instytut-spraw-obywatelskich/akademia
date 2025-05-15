@@ -220,7 +220,7 @@ dokumenty:
     projekcie Akademia Instytutu Spraw Obywatelskich
 
 
-    [Dokumenty przystąpienia do projektu dla uczestnika wraz z regulaminem](https://res.cloudinary.com/inspro/raw/upload/v1746709679/dokumenty_uczestnika_projektu_2025_bunk1p.zip)
+    [Dokumenty przystąpienia do projektu dla uczestnika wraz z regulaminem](https://res.cloudinary.com/inspro/raw/upload/v1747317121/Dokumenty_uczestnika_AISO_2025_nds8dy.zip)
 
 
     Wypełnione i podpisane dokumenty należy odesłać na adres:
