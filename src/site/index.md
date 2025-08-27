@@ -99,7 +99,7 @@ zespol:
   naglowek: Zespół trenerów Akademii
   trenerzy:
     - nazwisko: Rafał Górski
-      foto: https://res.cloudinary.com/inspro/image/upload/v1589893660/aiso/gorski.jpg
+      foto: https://res.cloudinary.com/inspro/image/upload/v1756295583/aiso/rafal-gorski-2025.jpg
       bio: "społecznik, wojownik, państwowiec. Prawo wykorzystuje w walce o dobro
         wspólne od 1995 roku. Prezes Instytutu Spraw Obywatelskich. Członek
         Polskiego Towarzystwa Legislacji. Zaangażowany w kampanie obywatelskie,
@@ -111,7 +111,7 @@ zespol:
         kształtuje ciało, umysł i ducha, przygotowując się do „Selekcji” – gry
         opartej na rekrutacji do jednostek specjalnych typu GROM i SAS."
     - nazwisko: Ilona Pietrzak
-      foto: https://res.cloudinary.com/inspro/image/upload/v1727343390/aiso/Ilona-Pietrzak.webp
+      foto: https://res.cloudinary.com/inspro/image/upload/v1756295583/aiso/ilona-pietrzak-2025.jpg
       bio: >
         wiceprezeska Instytutu Spraw Obywatelskich, specjalistka ds.
         fundraisingu, kierownik projektów z wieloletnim doświadczeniem,
@@ -129,7 +129,7 @@ kontakt:
     &#111;&#100;&#122;.pl"
   tel_stacjonarny: 42 630 17 49
   tel_komorkowy: 691 487 749 (Paweł Marczak)
-  tel_komorkowy2: 
+  tel_komorkowy2: 880 128 938 (Agata Zadrożna)
 co_mowia_inni:
   naglowek: Co mówią inni?
   opinie:
