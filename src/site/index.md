@@ -129,7 +129,6 @@ kontakt:
     &#111;&#100;&#122;.pl"
   tel_stacjonarny: 42 630 17 49
   tel_komorkowy: 691 487 749 (Paweł Marczak)
-  tel_komorkowy2: 880 128 938 (Agata Zadrożna)
 co_mowia_inni:
   naglowek: Co mówią inni?
   opinie:
